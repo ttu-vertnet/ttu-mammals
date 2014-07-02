@@ -1,0 +1,302 @@
+Report for Institution Code TTU, Resource ttu_mammals
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 235
+Number of records retrieved in searches: 2944
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 85
+	Country: United States ; Times: 136
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-12 ; Times: 22
+	Date: 2014-06-13 ; Times: 4
+	Date: 2014-06-14 ; Times: 69
+	Date: 2014-06-16 ; Times: 5
+	Date: 2014-06-17 ; Times: 1
+	Date: 2014-06-18 ; Times: 1
+	Date: 2014-06-20 ; Times: 3
+	Date: 2014-06-21 ; Times: 1
+	Date: 2014-06-23 ; Times: 44
+	Date: 2014-06-24 ; Times: 3
+	Date: 2014-06-25 ; Times: 4
+	Date: 2014-06-26 ; Times: 9
+	Date: 2014-06-27 ; Times: 4
+	Date: 2014-06-29 ; Times: 48
+	Date: 2014-06-30 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen country:"guam"" ; Times: 1
+	Query: "Orthogeomys hispidus stateprovince:"Veracruz"" ; Times: 1
+	Query: "Liomys pictus stateprovince:"Veracruz"" ; Times: 1
+	Query: "Sorex stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 2
+	Query: "specificepithet:albiventris genus:Noctilio" ; Times: 1
+	Query: "specificepithet:tridactyla genus:Myrmecophaga" ; Times: 1
+	Query: "Osgoodomys banderanus" ; Times: 3
+	Query: "geomys texensis bakeri" ; Times: 1
+	Query: "country:"Panama" specificepithet:spurrelli genus:Lionycteris" ; Times: 1
+	Query: "specificepithet:aquaticus genus:sylvilagus" ; Times: 1
+	Query: "Oryzomys couesi stateprovince:"Veracruz"" ; Times: 1
+	Query: "Micronycteris brachyotis year >= 1700 year <= 2014" ; Times: 1
+	Query: "specificepithet:aztecus genus:Artibeus" ; Times: 1
+	Query: "stateprovince:"Minnesota" specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "Myotis fortidens stateprovince:"Veracruz"" ; Times: 1
+	Query: "Rodentia stateprovince:"Tabasco" country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "Myotis nigricans stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "specificepithet:nymphaea genus:Vampyressa" ; Times: 1
+	Query: "specificepithet:albus genus:Diclidurus" ; Times: 1
+	Query: "Rhogeessa tumida stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "specificepithet:hartii genus:Enchisthenes" ; Times: 1
+	Query: "stateprovince:"Georgia" specificepithet:pinetis genus:Geomys" ; Times: 1
+	Query: "specificepithet:leporinus genus:Noctilio" ; Times: 1
+	Query: "Sturnira stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "specificepithet:aurita genus:Lonchorhina" ; Times: 1
+	Query: "specificepithet:hastatus genus:Phyllostomus" ; Times: 1
+	Query: "specificepithet:godmani genus:Choeroniscus" ; Times: 1
+	Query: "genus:Hylonycteris institutioncode:TTU" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:"Mississippi"" ; Times: 1
+	Query: "specificepithet:macrotis genus:Peropteryx" ; Times: 1
+	Query: "Lasiurus intermedius stateprovince:"Veracruz"" ; Times: 1
+	Query: "neotoma goldmani" ; Times: 1
+	Query: "Lasiurus cinereus stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "Myotis velifer stateprovince:"Veracruz"" ; Times: 1
+	Query: "chironectes" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 3
+	Query: "tadarida distance(location,geopoint(25.83944940206321,-78.662109375))<414499" ; Times: 1
+	Query: "stateprovince:"Minnesota" specificepithet:gapperi genus:Myodes" ; Times: 1
+	Query: "Oryzomys rostratus stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "Reithrodontomys fulvescens stateprovince:"Veracruz"" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Megadontomys nelsoni stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "Chrotopterus auritus stateprovince:"Veracruz"" ; Times: 1
+	Query: "country:"Panama" specificepithet:robinsoni genus:Marmosa" ; Times: 1
+	Query: "Sylvilagus brasiliensis stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "Chiroderma stateprovince:"Veracruz" country:"Mexico" year >= 1800 year <= 2014" ; Times: 1
+	Query: "Reithrodontomys sumichrasti stateprovince:"Veracruz"" ; Times: 1
+	Query: "tadarida distance(location,geopoint(18.99980282905334,-81.05712890625))<298859.5307294954" ; Times: 1
+	Query: "tadarida brasiliensis country:"jamaica"" ; Times: 1
+	Query: "Glossophaga soricina stateprovince:"Veracruz"" ; Times: 1
+	Query: "Dermanura tolteca" ; Times: 1
+	Query: "Myotis fortidens stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "institutioncode:TTU" ; Times: 1
+	Query: "Sciurus aureogaster stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "specificepithet:variegatus genus:Bradypus" ; Times: 1
+	Query: "Lonchorhina aurita country:"Honduras"" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Pteronotus davyi stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "specificepithet:spectrum genus:Vampyrum" ; Times: 1
+	Query: "Anoura geoffroyi stateprovince:"Veracruz"" ; Times: 1
+	Query: "Myotis keaysi stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "Canis aureus" ; Times: 1
+	Query: "country:"Panama" specificepithet:villosum genus:Chiroderma" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:aquaticus genus:sylvilagus" ; Times: 2
+	Query: "geomys texensis" ; Times: 5
+	Query: "Pecari tajacu stateprovince:"Veracruz"" ; Times: 1
+	Query: "Perimyotis subflavus stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "specificepithet:senex genus:Centurio" ; Times: 1
+	Query: "Reithrodontomys megalotis stateprovince:"Veracruz"" ; Times: 1
+	Query: "Eptesicus furinalis stateprovince:"Veracruz"" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "Myotis elegans stateprovince:"Veracruz"" ; Times: 1
+	Query: "specificepithet:macrophyllum genus:macrophyllum" ; Times: 1
+	Query: "specificepithet:caraccioli genus:Vampyrodes" ; Times: 1
+	Query: "stateprovince:"Tabasco" country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "specificepithet:robusta genus:Lonchophylla" ; Times: 1
+	Query: "country:"Panama" specificepithet:variegatus genus:Bradypus" ; Times: 1
+	Query: "myocastor coypus" ; Times: 7
+	Query: "oligoryzomys flavescens" ; Times: 1
+	Query: "tadarida distance(location,geopoint(18.27108610960895,-77.255859375))<298860" ; Times: 1
+	Query: "mammal stateprovince:"Veracruz" year >= 1900 year <= 1950" ; Times: 1
+	Query: "tadarida brasiliensis year >= 1990 year <= 2014" ; Times: 1
+	Query: "tadarida distance(location,geopoint(18.27108610960895,-77.255859375))<777129.9975224108" ; Times: 1
+	Query: "specificepithet:stenops genus:Phylloderma" ; Times: 1
+	Query: "Promops centralis" ; Times: 1
+	Query: "Georgia Geomys" ; Times: 1
+	Query: "specificepithet:mexicana genus:Tamandua" ; Times: 1
+	Query: "specificepithet:saurophila genus:Tonatia" ; Times: 1
+	Query: "Promops" ; Times: 2
+	Query: "Heteromys desmarestianus stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "Nyctinomops laticaudatus stateprovince:"Veracruz"" ; Times: 1
+	Query: "country:"Panama" specificepithet:discolor genus:Phyllostomus" ; Times: 1
+	Query: "tadarida distance(location,geopoint(20.014645445341404,-63.6328125))<524499.5960259167" ; Times: 1
+	Query: "marmosa stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "country:"Colombia" specificepithet:vittatus genus:Platyrrhinus" ; Times: 1
+	Query: "yucatanensis" ; Times: 1
+	Query: "specificepithet:watsoni genus:Artibeus" ; Times: 1
+	Query: "specificepithet:cultrata genus:Anoura" ; Times: 1
+	Query: "Pteronotus parnellii stateprovince:"Veracruz"" ; Times: 1
+	Query: "Oligoryzomys fulvescens stateprovince:"Veracruz"" ; Times: 1
+	Query: "specificepithet:thomasi genus:Lonchophylla" ; Times: 1
+	Query: "specificepithet:opossum genus:Philander" ; Times: 1
+	Query: "country:"Panama" specificepithet:helleri genus:Platyrrhinus" ; Times: 1
+	Query: "Enchisthenes hartii" ; Times: 1
+	Query: "Myotis keaysi stateprovince:"Veracruz"" ; Times: 1
+	Query: "Platyrrhinus helleri stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "SAIMIRI" ; Times: 2
+	Query: "specificepithet:leptura genus:Saccopteryx" ; Times: 1
+	Query: "Dermanura phaeotis stateprovince:"Veracruz" country:"Mexico" year >= 1800 year <= 2014" ; Times: 1
+	Query: "tlacuatzin" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Mammalia" ; Times: 1
+	Query: "specificepithet:salvini genus:Chiroderma" ; Times: 1
+	Query: "specificepithet:minimus genus:Chironectes" ; Times: 1
+	Query: "specificepithet:spurrelli genus:Lionycteris" ; Times: 1
+	Query: "stateprovince:"PE"" ; Times: 1
+	Query: "Euderma" ; Times: 1
+	Query: "Dasypus novemcinctus stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Orthogeomys hispidus stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "ametrida" ; Times: 2
+	Query: "Lasiurus ega stateprovince:"Veracruz"" ; Times: 1
+	Query: "specificepithet:obscura genus:Lichonycteris" ; Times: 1
+	Query: "specificepithet:centurio genus:Ametrida" ; Times: 1
+	Query: "Myotis nigricans stateprovince:"Veracruz"" ; Times: 1
+	Query: "specificepithet:brevirostris genus:Cormura" ; Times: 1
+	Query: "specificepithet:derbianus genus:Caluromys" ; Times: 1
+	Query: "country:"Panama" specificepithet:leptura genus:Saccopteryx" ; Times: 1
+	Query: "Lasiurus stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 2
+	Query: "specificepithet:auritus genus:Chrotopterus" ; Times: 1
+	Query: "Lasiurus cinereus stateprovince:"Veracruz"" ; Times: 1
+	Query: "Sciurus deppei stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "specificepithet:luisi genus:Sturnira" ; Times: 1
+	Query: "specificepithet:macconnelli genus:Mesophylla" ; Times: 1
+	Query: "specificepithet:robinsoni genus:Marmosa" ; Times: 1
+	Query: "Chrotopterus auritus Chrotopterus auritus stateprovince:"Veracruz"" ; Times: 1
+	Query: "specificepithet:underwoodi genus:Hylonycteris" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Platyrrhinus" ; Times: 1
+	Query: "glaucomys sabrinus mappable:1" ; Times: 1
+	Query: "specificepithet:vittatus genus:Platyrrhinus" ; Times: 1
+	Query: "geomys pinetis" ; Times: 1
+	Query: "tadarida distance(location,geopoint(25.83944940206321,-78.662109375))<524500" ; Times: 1
+	Query: "Dipodomys phillipsii stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "specificepithet:hoffmanni genus:Choloepus" ; Times: 1
+	Query: "tadarida distance(location,geopoint(20.097206227083948,-94.658203125))<777129.9975224108" ; Times: 1
+	Query: "lutreolina" ; Times: 1
+	Query: "tadarida distance(location,geopoint(20.014645445341404,-63.6328125))<777130" ; Times: 1
+	Query: "country:"Panama" specificepithet:senex genus:Centurio" ; Times: 1
+	Query: "CM 11939" ; Times: 1
+	Query: "ant" ; Times: 5
+	Query: "specificepithet:adusta genus:Monodelphis" ; Times: 1
+	Query: "sigmodon hispidus stateprovince:"Alabama"" ; Times: 1
+	Query: "specificepithet:mexicana genus:Marmosa" ; Times: 1
+	Query: "Chiroderma salvini stateprovince:"Veracruz" country:"Mexico" year >= 1800 year <= 2014" ; Times: 1
+	Query: "Sturnira lilium stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "specificepithet:gymnonotus genus:Pteronotus" ; Times: 1
+	Query: "hylonycteris" ; Times: 2
+	Query: "Eptesicus furinalis stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "centralis stateprovince:"Veracruz"" ; Times: 1
+	Query: "specificepithet:crenulatum genus:Mimon" ; Times: 1
+	Query: "Oryzomys rostratus stateprovince:"Veracruz"" ; Times: 1
+	Query: "Eumops stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 2
+	Query: ""geomys texensis"" ; Times: 3
+	Query: "stateprovince:"texas" genus:lontra" ; Times: 1
+	Query: "Mormoops megalophylla stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "genus:glaucomys institutioncode:TTU" ; Times: 1
+	Query: "specificepithet:alba genus:Ectophylla" ; Times: 1
+	Query: "specificepithet:trinitatum genus:Chiroderma" ; Times: 1
+	Query: "specificepithet:villosum genus:Chiroderma" ; Times: 1
+	Query: "Myotis elegans stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "specificepithet:cirrhosus genus:Trachops" ; Times: 1
+	Query: "tadarida distance(location,geopoint(20.34462694382972,-78.046875))<777129.9975224108" ; Times: 1
+	Query: "Promops nasutus" ; Times: 2
+	Query: "Chiroderma villosum stateprovince:"Veracruz" country:"Mexico" year >= 1800 year <= 2014" ; Times: 2
+	Query: "country:"Panama" specificepithet:bilobatum genus:Uroderma" ; Times: 1
+	Query: "tadarida distance(location,geopoint(20.014645445341404,-63.6328125))<777129.9975224108" ; Times: 1
+	Query: "Myotis californicus country:"Mexico" year >= 1800 year <= 2014" ; Times: 1
+	Query: "country:"Panama" specificepithet:soricina genus:Glossophaga" ; Times: 1
+	Query: "tadarida distance(location,geopoint(28.8831596093235,-82.177734375))<100000" ; Times: 1
+	Query: ""Erethizon dorsatum" mappable:1" ; Times: 1
+	Query: "Liomys pictus stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "type:specimen genus:Enhydra" ; Times: 1
+	Query: "Eumops glaucinus stateprovince:"Veracruz"" ; Times: 1
+	Query: "specificepithet:minuta genus:Micronycteris" ; Times: 1
+	Query: "country:"Panama" specificepithet:dorsalis genus:Platyrrhinus" ; Times: 1
+	Query: "specificepithet:schmidtorum genus:Micronycteris" ; Times: 1
+	Query: "Uroderma bilobatum stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "tadarida distance(location,geopoint(21.0845000835174,-68.90625))<777129.9975224108" ; Times: 1
+	Query: "specificepithet:didactylus genus:Cyclopes" ; Times: 1
+	Query: "Megadontomys nelsoni stateprovince:"Veracruz"" ; Times: 2
+	Query: "Nyctinomops stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 2
+	Query: "specificepithet:magnirostrum genus:Uroderma" ; Times: 1
+	Query: "subflavus stateprovince:"Veracruz"" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 2
+	Query: "canis rufus" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:canadensis genus:castor" ; Times: 2
+	Query: "specificepithet:alecto genus:Cyttarops" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 278 download events in this period)
+Total number of records downloaded: 129764 (out of 1064147 records downloaded for all resources in this period)
+Total number of unique records downloaded: 85018
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-12 ; Times: 2
+	Date: 2014-06-13 ; Times: 4
+	Date: 2014-06-17 ; Times: 1
+	Date: 2014-06-18 ; Times: 3
+	Date: 2014-06-19 ; Times: 1
+	Date: 2014-06-23 ; Times: 3
+	Date: 2014-06-25 ; Times: 1
+	Date: 2014-06-26 ; Times: 2
+	Date: 2014-06-29 ; Times: 1
+	Date: 2014-06-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus miurus" ; Times: 1
+	Query: "mammal mammals stateprovince:"Veracruz"" ; Times: 1
+	Query: "stateprovince:"Minnesota" specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "mammalia texas mappable:1" ; Times: 1
+	Query: "Promops nasutus" ; Times: 1
+	Query: "stateprovince:"Tabasco" country:"Mexico" class:Mammalia" ; Times: 2
+	Query: "Georgia Geomys" ; Times: 2
+	Query: "oligoryzomys flavescens" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 1
+	Query: "Mammalia stateprovince:"Texas" mappable:1" ; Times: 1
+	Query: "Peromyscus maniculatus year >= 1970 year <= 1985" ; Times: 1
+	Query: "Onychomys arenicola" ; Times: 1
+	Query: ""Peromyscus maniculatus sonoriensis" year >= 1970 year <= 1985" ; Times: 1
+	Query: "catalognumber:100000" ; Times: 1
+	Query: "Mammals stateprovince:"Veracruz" AND (Veracruz)" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "hylonycteris" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 235
+Total number of records retrieved from searches: 2944
+Number of download events that retrieved data from the resource: 20
+Total number of records downloaded: 129764
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 235
+Total number of records retrieved from searches: 2944
+Number of download events that retrieved data from the resource: 20
+Total number of records downloaded: 129764
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
