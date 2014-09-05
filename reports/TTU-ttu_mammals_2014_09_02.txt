@@ -1,0 +1,291 @@
+Report for Institution Code TTU, Resource ttu_mammals
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 185
+Number of records retrieved in searches: 2353
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 8
+	Country: Brazil ; Times: 4
+	Country: Chile ; Times: 4
+	Country: Colombia ; Times: 7
+	Country: Guatemala ; Times: 15
+	Country: Israel ; Times: 6
+	Country: Mexico ; Times: 21
+	Country: United States ; Times: 115
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-04 ; Times: 4
+	Date: 2014-08-05 ; Times: 2
+	Date: 2014-08-06 ; Times: 10
+	Date: 2014-08-07 ; Times: 6
+	Date: 2014-08-08 ; Times: 1
+	Date: 2014-08-09 ; Times: 2
+	Date: 2014-08-10 ; Times: 2
+	Date: 2014-08-11 ; Times: 6
+	Date: 2014-08-12 ; Times: 6
+	Date: 2014-08-13 ; Times: 1
+	Date: 2014-08-14 ; Times: 5
+	Date: 2014-08-15 ; Times: 10
+	Date: 2014-08-16 ; Times: 8
+	Date: 2014-08-17 ; Times: 5
+	Date: 2014-08-18 ; Times: 29
+	Date: 2014-08-19 ; Times: 2
+	Date: 2014-08-20 ; Times: 1
+	Date: 2014-08-21 ; Times: 14
+	Date: 2014-08-22 ; Times: 4
+	Date: 2014-08-24 ; Times: 1
+	Date: 2014-08-25 ; Times: 4
+	Date: 2014-08-26 ; Times: 13
+	Date: 2014-08-27 ; Times: 9
+	Date: 2014-08-28 ; Times: 11
+	Date: 2014-08-29 ; Times: 5
+	Date: 2014-08-30 ; Times: 17
+	Date: 2014-08-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"california" country:"united states" specificepithet:arizonae genus:sigmodon" ; Times: 1
+	Query: "myospalax" ; Times: 2
+	Query: "Suncus murinus" ; Times: 3
+	Query: "Chaetophractus" ; Times: 2
+	Query: "Pteronotus davyi distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Martes pennanti type:specimen AND (NOT Canada NOT Alaska NOT Michigan)" ; Times: 1
+	Query: "genus:manis institutioncode:ttu" ; Times: 2
+	Query: "Saccopteryx bilineata distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 2
+	Query: "UNAM" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "chaetodipus nelsoni stateprovince:"texas"" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "class:Mammalia Diaemus youngi" ; Times: 1
+	Query: "Histiotus" ; Times: 2
+	Query: "Balantiopteryx plicata distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: ""myotis sodalis"" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "stateprovince:"minnesota" specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "Fortune Chiroptera" ; Times: 2
+	Query: "Noctilio leporinus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "class:Mammalia cyclopes" ; Times: 1
+	Query: "genus:Ctenomys AND (NOT Bolivia) year >= 1971 year <= 1971" ; Times: 3
+	Query: "myocastor" ; Times: 3
+	Query: "Chiroptera (Bahamas OR Bahama OR Bah)" ; Times: 1
+	Query: ""balionycteris" mappable:1" ; Times: 1
+	Query: "institutioncode:ttu" ; Times: 1
+	Query: "Noctilio albiventris distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen year >= 1941 year <= 2014" ; Times: 1
+	Query: "stateprovince:"nevada" specificepithet:lateralis genus:spermophilus" ; Times: 1
+	Query: "Murina" ; Times: 1
+	Query: "Molossus molossus stateprovince:"Veracruz" country:"Mexico" year <= 2014" ; Times: 1
+	Query: "heteromys" ; Times: 1
+	Query: "type:specimen genus:myosorex" ; Times: 1
+	Query: "specificepithet:pyctoris genus:Rattus" ; Times: 3
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "institutioncode:TTU" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 3
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "Lontra canadensis" ; Times: 3
+	Query: "Suncus etruscus" ; Times: 5
+	Query: "stateprovince:"illinois" specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "stateprovince:"minnesota" specificepithet:lupus genus:canis" ; Times: 1
+	Query: "genus:Sigmodon catalognumber:75347" ; Times: 2
+	Query: "Parascalops breweri type:specimen stateprovince:"New York"" ; Times: 1
+	Query: "cadena" ; Times: 1
+	Query: "Hodomys" ; Times: 1
+	Query: "Caluromys derbianus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "myocastor coypus" ; Times: 6
+	Query: "sylvilagus brasiliensis" ; Times: 30
+	Query: "Mephitis macroura distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 3
+	Query: "stateprovince:"Oklahoma" specificepithet:aquaticus genus:Scalopus" ; Times: 1
+	Query: "desmodus rotundus country:"brazil" specificepithet:rotundus genus:Desmodus" ; Times: 1
+	Query: "Mustela nivalis type:specimen" ; Times: 1
+	Query: "Herpestes javanicus type:specimen" ; Times: 1
+	Query: "county:"Ellis" stateprovince:"Kansas" genus:Sigmodon" ; Times: 1
+	Query: "Pteronotus personatus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Nandinia binotata type:specimen" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 4
+	Query: "chaetodipus intermedius county:"lincoln"" ; Times: 2
+	Query: "stateprovince:"wisconsin" specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Mammalia" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "desmodus rotundus country:"brazil"" ; Times: 2
+	Query: "genus:glaucomys institutioncode:ttu" ; Times: 2
+	Query: "rabbit" ; Times: 1
+	Query: "type:specimen stateprovince:"california" genus:aplodontia" ; Times: 2
+	Query: "Chrotopterus" ; Times: 1
+	Query: "specificepithet:arizonae genus:Sigmodon year >= 2000" ; Times: 3
+	Query: "Geomys breviceps" ; Times: 1
+	Query: "Rhynchonycteris naso distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "gunnisoni stateprovince:"New Mexico"" ; Times: 2
+	Query: "Cyclopes" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 2
+	Query: "cynomys gunnisoni" ; Times: 1
+	Query: "Eligmodontia typus" ; Times: 1
+	Query: "marmosops" ; Times: 1
+	Query: "Saccopteryx leptura distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Chironectes minimus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "type:specimen county:"humboldt" stateprovince:"california" genus:neurotrichus AND (NOT HSU)" ; Times: 1
+	Query: "Cratogeomys castanops" ; Times: 1
+	Query: "viscacia country:"chile"" ; Times: 1
+	Query: "Peropteryx macrotis distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen year >= 1961 year <= 2014" ; Times: 1
+	Query: "type:specimen genus:varecia" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 1
+	Query: "Xenomys" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "distance(location,geopoint(-0.23437345230246998,2.548828125))<388624" ; Times: 1
+	Query: "viscacia" ; Times: 1
+	Query: "apodemus epimelas" ; Times: 6
+	Query: "Acinonyx jubatus type:specimen" ; Times: 1
+	Query: "country:"Colombia" class:Mammalia" ; Times: 2
+	Query: "Spilogale putorius distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "genus:Ctenomys year >= 1971 year <= 1971" ; Times: 1
+	Query: "Macrophyllum macrophyllum" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "murcielagos" ; Times: 1
+	Query: "Habromys" ; Times: 1
+	Query: "macrotus waterhousii" ; Times: 1
+	Query: ""Hipposideros diadema" mappable:1" ; Times: 1
+	Query: "Sigmodon alleni" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:parryii OR Genus:Urocitellus" ; Times: 1
+	Query: "peromyscus leucopus arizona type:specimen mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 76 (out of 273 download events in this period)
+Total number of records downloaded: 12033 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 11509
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Guatemala ; Times: 8
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: United States ; Times: 39
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-05 ; Times: 1
+	Date: 2014-08-06 ; Times: 4
+	Date: 2014-08-08 ; Times: 3
+	Date: 2014-08-11 ; Times: 1
+	Date: 2014-08-12 ; Times: 2
+	Date: 2014-08-13 ; Times: 2
+	Date: 2014-08-14 ; Times: 3
+	Date: 2014-08-15 ; Times: 1
+	Date: 2014-08-16 ; Times: 2
+	Date: 2014-08-17 ; Times: 4
+	Date: 2014-08-18 ; Times: 5
+	Date: 2014-08-19 ; Times: 1
+	Date: 2014-08-21 ; Times: 2
+	Date: 2014-08-22 ; Times: 7
+	Date: 2014-08-25 ; Times: 3
+	Date: 2014-08-26 ; Times: 8
+	Date: 2014-08-27 ; Times: 7
+	Date: 2014-08-28 ; Times: 6
+	Date: 2014-08-29 ; Times: 2
+	Date: 2014-08-30 ; Times: 9
+	Date: 2014-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "neotoma fuscipes" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Baja California Sur mammals" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Eumops perotis californicus" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Pteronotus davyi distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Martes pennanti type:specimen AND (NOT Canada NOT Alaska NOT Michigan)" ; Times: 1
+	Query: "Peromyscus boylii" ; Times: 1
+	Query: "sorex hoyi type:specimen" ; Times: 1
+	Query: "desmodus rotundus country:"brazil" specificepithet:rotundus genus:Desmodus" ; Times: 1
+	Query: "condylura cristata type:specimen" ; Times: 1
+	Query: "heteromys" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Sigmodon alleni" ; Times: 2
+	Query: "Saccopteryx bilineata distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Martes americana type:specimen" ; Times: 1
+	Query: "specificepithet:pyctoris genus:Rattus" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "Mustela nivalis type:specimen" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "Peromyscus gossypinus type:specimen" ; Times: 1
+	Query: "Mephitis mephitis type:specimen" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "chaetodipus intermedius county:"lincoln"" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "cryptotis parva type:specimen" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "Acinonyx jubatus type:specimen" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Coahuila mammals type:specimen" ; Times: 1
+	Query: "Noctilio albiventris distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "nayarit" ; Times: 1
+	Query: "class:Mammalia Panthera leo" ; Times: 1
+	Query: ""Urocitellus parryii" OR "Spermophilus parryii"" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 2
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "scalopus aquaticus type:specimen" ; Times: 1
+	Query: "stateprovince:"wisconsin" specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "Balantiopteryx plicata distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 2
+	Query: "country:"Colombia" class:Mammalia" ; Times: 1
+	Query: "stateprovince:"minnesota" specificepithet:lupus genus:canis" ; Times: 1
+	Query: "Geomys breviceps" ; Times: 1
+	Query: "Spilogale putorius type:specimen" ; Times: 2
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "country:"brazil"" ; Times: 2
+	Query: "Rhynchonycteris naso distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Baja California Norte mammals" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "country:"Suriname"" ; Times: 1
+	Query: "Herpestidae type:specimen" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "stateprovince:"minnesota" specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "Nandinia binotata type:specimen" ; Times: 1
+	Query: "eptesicus" ; Times: 1
+	Query: "country:"Kenya" class:Mammalia" ; Times: 1
+	Query: "Hodomys" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:parryii OR Genus:Urocitellus" ; Times: 1
+	Query: "Noctilio leporinus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Parascalops breweri type:specimen stateprovince:"New York"" ; Times: 2
+	Query: "county:"Travis" stateprovince:"Texas" year >= 1950 year <= 1955" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:Mammalia" ; Times: 1
+	Query: "Chironectes minimus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 658
+Total number of records retrieved from searches: 10742
+Number of download events that retrieved data from the resource: 183
+Total number of records downloaded: 215546
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 658
+Total number of records retrieved from searches: 10742
+Number of download events that retrieved data from the resource: 183
+Total number of records downloaded: 215546
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
