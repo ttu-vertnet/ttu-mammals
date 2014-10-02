@@ -1,0 +1,361 @@
+Report for Institution Code TTU, Resource ttu_mammals
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 321
+Number of records retrieved in searches: 3331
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 15
+	Country: Colombia ; Times: 9
+	Country: France ; Times: 7
+	Country: Germany ; Times: 6
+	Country: Guatemala ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: United Kingdom ; Times: 7
+	Country: United States ; Times: 258
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 12
+	Date: 2014-09-02 ; Times: 11
+	Date: 2014-09-03 ; Times: 8
+	Date: 2014-09-05 ; Times: 8
+	Date: 2014-09-06 ; Times: 8
+	Date: 2014-09-08 ; Times: 2
+	Date: 2014-09-09 ; Times: 10
+	Date: 2014-09-10 ; Times: 2
+	Date: 2014-09-11 ; Times: 17
+	Date: 2014-09-12 ; Times: 158
+	Date: 2014-09-15 ; Times: 16
+	Date: 2014-09-16 ; Times: 7
+	Date: 2014-09-17 ; Times: 15
+	Date: 2014-09-18 ; Times: 7
+	Date: 2014-09-19 ; Times: 18
+	Date: 2014-09-20 ; Times: 1
+	Date: 2014-09-21 ; Times: 2
+	Date: 2014-09-22 ; Times: 3
+	Date: 2014-09-23 ; Times: 5
+	Date: 2014-09-24 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "TTU 87367" ; Times: 2
+	Query: "TTU 86771" ; Times: 1
+	Query: "specificepithet:sciureus genus:holochilus institutioncode:TTU" ; Times: 1
+	Query: "nsrl "Peromyscus maniculatus" type:specimen year >= 1990 year <= 2014 mappable:1" ; Times: 1
+	Query: "TTU 86948" ; Times: 2
+	Query: "TTU 87083" ; Times: 1
+	Query: "TTU 87899" ; Times: 1
+	Query: "TTU 87086" ; Times: 1
+	Query: "TTU 87089" ; Times: 2
+	Query: "TTU 87485" ; Times: 2
+	Query: "TTU 87486" ; Times: 1
+	Query: "isthmomys" ; Times: 1
+	Query: "TTU 87248" ; Times: 1
+	Query: "TTU 87001" ; Times: 1
+	Query: "TTU 87000" ; Times: 1
+	Query: "TTU 87245" ; Times: 2
+	Query: "Mammalia country:"Venezuela"" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "TTU 87968" ; Times: 1
+	Query: "Peromyscus sejugis" ; Times: 3
+	Query: ""skull" specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "TTU 87213" ; Times: 2
+	Query: "country:"China" institutioncode:TTU" ; Times: 1
+	Query: "nsrl type:specimen county:"Lubbock" stateprovince:"Texas" genus:Reithrodontomys" ; Times: 2
+	Query: "genus:holochilus institutioncode:TTU" ; Times: 3
+	Query: "TTU 87288" ; Times: 1
+	Query: "genus nasua" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "TTU 86706" ; Times: 1
+	Query: "TTU 86701" ; Times: 1
+	Query: "TTU 86700" ; Times: 2
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "TTU 86817" ; Times: 1
+	Query: "TTU 87094" ; Times: 1
+	Query: "giraffa" ; Times: 2
+	Query: "TTU 87099" ; Times: 1
+	Query: "TTU 87399" ; Times: 2
+	Query: "TTU 87018" ; Times: 2
+	Query: "TTU 87019" ; Times: 1
+	Query: "specificepithet:attwateri genus:Peromyscus institutioncode:TTU year >= 2000 year <= 2014" ; Times: 1
+	Query: "dromiciops country:"chile"" ; Times: 2
+	Query: "TTU 87491" ; Times: 1
+	Query: "panthera onca" ; Times: 8
+	Query: "Eptesicus country:"Ecuador" (innoxius)" ; Times: 1
+	Query: "Dromiciops" ; Times: 1
+	Query: "Mazama gouazoubira" ; Times: 1
+	Query: "specificepithet:attwateri genus:Peromyscus institutioncode:TTU" ; Times: 2
+	Query: "stateprovince:"Montana" genus:Sorex" ; Times: 1
+	Query: "(coendou OR sphiggurus OR chaetomys)" ; Times: 3
+	Query: "TTU 87959" ; Times: 1
+	Query: "TTU 87958" ; Times: 1
+	Query: "Alcelaphus buselaphus" ; Times: 1
+	Query: ""Cricetomys" institutioncode:TTU" ; Times: 3
+	Query: "nsrl "Peromyscus maniculatus" type:specimen genus:Peromyscus year >= 1990 year <= 2014 mappable:1" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "TTU 86716" ; Times: 1
+	Query: "cuniculus paca" ; Times: 2
+	Query: "TTU 86714" ; Times: 3
+	Query: "class:Mammalia catalognumber:35749" ; Times: 2
+	Query: "Peromyscus leucopus type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "TTU 86970" ; Times: 2
+	Query: "TTU 86710" ; Times: 3
+	Query: "stateprovince:"Texas" institutioncode:TTU" ; Times: 1
+	Query: "TTU 87996" ; Times: 2
+	Query: "TTU 86521" ; Times: 4
+	Query: "Lasionycteris noctivagans Nevada" ; Times: 2
+	Query: "TTU 86523" ; Times: 1
+	Query: "lonchophylla" ; Times: 2
+	Query: "mus musculus pakistan" ; Times: 2
+	Query: "country:"japan" institutioncode:TTU" ; Times: 3
+	Query: "TTU 88008" ; Times: 2
+	Query: "TTU 87225" ; Times: 1
+	Query: "nsrl phyllotis country:"peru"" ; Times: 2
+	Query: "TTU 87993" ; Times: 1
+	Query: ""skull" stateprovince:"Florida" specificepithet:carolinensis genus:Sciurus" ; Times: 2
+	Query: "type:specimen specificepithet:arizonae genus:Sigmodon year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "wisconsin ursus americanus mappable:1" ; Times: 2
+	Query: "ttu 80404" ; Times: 2
+	Query: "TTU 87929" ; Times: 2
+	Query: "institutioncode:TTU" ; Times: 2
+	Query: "Tupaia" ; Times: 1
+	Query: "TTU 86721" ; Times: 1
+	Query: "stateprovince:"Louisiana" specificepithet:parva genus:Cryptotis" ; Times: 1
+	Query: "TTU 86727" ; Times: 1
+	Query: "TTU 87927" ; Times: 1
+	Query: "mystacina" ; Times: 1
+	Query: "TTU 86724" ; Times: 1
+	Query: "specificepithet:sciureus genus:holochilus" ; Times: 1
+	Query: "Cynocephalidae" ; Times: 1
+	Query: "TTU 80404" ; Times: 2
+	Query: "catalognumber:63767 institutioncode:ttu" ; Times: 1
+	Query: "TTU 87234" ; Times: 1
+	Query: "TTU 87233" ; Times: 1
+	Query: "Leptonychotes weddellii" ; Times: 1
+	Query: "Mimon crenulatum" ; Times: 2
+	Query: "lynx rufus baileyi" ; Times: 3
+	Query: "(coendou OR chaetomys OR sphiggurus)" ; Times: 1
+	Query: "county:"Jackson" stateprovince:"Oklahoma" specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "TTU Glossophaga longirostris" ; Times: 2
+	Query: "type:specimen country:"trinidad" genus:artibeus year >= 1967 year <= 1967" ; Times: 1
+	Query: "nsrl maniculatus maine type:specimen genus:Peromyscus year >= 1990" ; Times: 1
+	Query: "hystricidae; skull" ; Times: 1
+	Query: "TTU 87917" ; Times: 2
+	Query: "TTU 86989" ; Times: 2
+	Query: "TTU 86737" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 7
+	Query: "TTU 86732" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "TTU 86981" ; Times: 1
+	Query: "TTU 86980" ; Times: 2
+	Query: "TTU 86739" ; Times: 2
+	Query: "TTU 87918" ; Times: 1
+	Query: "Desmodus rotundus country:"Brazil"" ; Times: 1
+	Query: "skin (coendou OR sphiggurus OR chaetomys)" ; Times: 3
+	Query: "TTU 88009" ; Times: 2
+	Query: "TTU 87247" ; Times: 1
+	Query: "TTU 87202" ; Times: 1
+	Query: "TTU 87994" ; Times: 1
+	Query: "TTU 87207" ; Times: 1
+	Query: "tamandua" ; Times: 1
+	Query: "TTU 86753" ; Times: 1
+	Query: "cryptotis mexicana" ; Times: 1
+	Query: "TTU 87047" ; Times: 3
+	Query: "Macrophyllum macrophyllum" ; Times: 2
+	Query: "Eptesicus stateprovince:"El Oro" country:"Ecuador"" ; Times: 1
+	Query: "TTU 87048" ; Times: 1
+	Query: "oryx" ; Times: 1
+	Query: "TTU 87468" ; Times: 2
+	Query: "TTU 87024" ; Times: 2
+	Query: "Peromyscus attwateri" ; Times: 1
+	Query: "TTU 86932" ; Times: 2
+	Query: "mystacina tuberculata" ; Times: 1
+	Query: "country:"US"" ; Times: 1
+	Query: "nsrl reithrodontomys type:specimen year >= 2010" ; Times: 1
+	Query: "TTU 87292" ; Times: 1
+	Query: "phyllotis darwini" ; Times: 3
+	Query: "Eptesicus country:"Ecuador" institutioncode:TTU (innoxius)" ; Times: 1
+	Query: "TTU 86996" ; Times: 1
+	Query: "TTU 86997" ; Times: 1
+	Query: "TTU 86990" ; Times: 1
+	Query: "TTU 86991" ; Times: 1
+	Query: "TTU 86993" ; Times: 2
+	Query: "TTU 87665" ; Times: 1
+	Query: "TTU 87196" ; Times: 1
+	Query: "TTU 87666" ; Times: 1
+	Query: "TTU 87218" ; Times: 2
+	Query: "country:"Trinidad" genus:Artibeus institutioncode:TTU year >= 1965 year <= 1968" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: "genus:Cerdocyon class:Mammalia" ; Times: 1
+	Query: "county:"Freestone" stateprovince:"Texas"" ; Times: 1
+	Query: "TTU 87212" ; Times: 1
+	Query: "TTU 87198" ; Times: 1
+	Query: "chironectes minimus" ; Times: 1
+	Query: "TTU 87965" ; Times: 1
+	Query: "TTU 87013" ; Times: 1
+	Query: "TTU 86988" ; Times: 1
+	Query: "TTU 87116" ; Times: 2
+	Query: "Eptesicus stateprovince:"Guayas" country:"Ecuador" institutioncode:TTU (innoxius)" ; Times: 2
+	Query: "TTU 87111" ; Times: 1
+	Query: "Myotis keaysi mappable:1" ; Times: 7
+	Query: "TTU 86967" ; Times: 3
+	Query: "TTU 86966" ; Times: 1
+	Query: "TTU 86968" ; Times: 2
+	Query: "TTU 87828" ; Times: 1
+	Query: "TTU 87187" ; Times: 1
+	Query: "TTU 87676" ; Times: 1
+	Query: "TTU 87466" ; Times: 1
+	Query: "TTU 86698" ; Times: 1
+	Query: "TTU 86754" ; Times: 1
+	Query: "TTU 87062" ; Times: 4
+	Query: "TTU 86702" ; Times: 1
+	Query: "TTU 87060" ; Times: 1
+	Query: "TTU 86697" ; Times: 2
+	Query: "TTU 86696" ; Times: 1
+	Query: "TTU 87064" ; Times: 1
+	Query: "TTU 87101" ; Times: 2
+	Query: "TTU 86628" ; Times: 1
+	Query: "nsrl "Peromyscus maniculatus" type:specimen genus:Peromyscus year >= 1990 mappable:1" ; Times: 1
+	Query: "TTU 86629" ; Times: 1
+	Query: "stateprovince:"Louisiana" genus:Blarina" ; Times: 1
+	Query: "TTU 87908" ; Times: 1
+	Query: "TTU 86994" ; Times: 1
+	Query: "TTU 86590" ; Times: 1
+	Query: "TTU 86592" ; Times: 1
+	Query: "TTU 86593" ; Times: 1
+	Query: "Taphozous" ; Times: 1
+	Query: "TTU 86973" ; Times: 1
+	Query: "myotis germany" ; Times: 1
+	Query: "TTU 86977" ; Times: 3
+	Query: "Lemur" ; Times: 1
+	Query: "TTU 86979" ; Times: 2
+	Query: "nsrl type:specimen genus:Peromyscus year >= 1990 mappable:1" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:cinereus genus:lasiurus" ; Times: 1
+	Query: "TTU 87197" ; Times: 1
+	Query: "Oecomys paricola" ; Times: 1
+	Query: "type:specimen genus:Holochilus institutioncode:TTU" ; Times: 2
+	Query: "eptesicus brasiliensis" ; Times: 1
+	Query: "TTU 86687" ; Times: 2
+	Query: ""b marshall"" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "TTU 87175" ; Times: 2
+	Query: "TTU 86741" ; Times: 1
+	Query: "TTU 87176" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "Eptesicus brasiliensis country:"Ecuador"" ; Times: 1
+	Query: "Spilogale putorius distance(location,geopoint(30.78903675126116,-97.97607421875))<253141" ; Times: 1
+	Query: "TTU 87179" ; Times: 1
+	Query: "TTU 87178" ; Times: 1
+	Query: "nsrl Peromyscus maniculatus type:specimen year >= 1990" ; Times: 1
+	Query: "dromiciops" ; Times: 4
+	Query: "TTU 87261" ; Times: 1
+	Query: "Geomys stateprovince:"Oklahoma" institutioncode:TTU" ; Times: 1
+	Query: "nsrl type:specimen genus:Peromyscus year >= 1990" ; Times: 2
+	Query: "Vespertilio" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 164 download events in this period)
+Total number of records downloaded: 78417 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 29384
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: United States ; Times: 31
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 1
+	Date: 2014-09-03 ; Times: 2
+	Date: 2014-09-04 ; Times: 2
+	Date: 2014-09-05 ; Times: 1
+	Date: 2014-09-08 ; Times: 1
+	Date: 2014-09-09 ; Times: 1
+	Date: 2014-09-11 ; Times: 14
+	Date: 2014-09-12 ; Times: 5
+	Date: 2014-09-15 ; Times: 5
+	Date: 2014-09-17 ; Times: 2
+	Date: 2014-09-18 ; Times: 1
+	Date: 2014-09-19 ; Times: 2
+	Date: 2014-09-20 ; Times: 5
+	Date: 2014-09-22 ; Times: 3
+	Date: 2014-09-23 ; Times: 4
+	Date: 2014-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mammalia AND Alaska" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "nasua" ; Times: 1
+	Query: "mammalia AND California" ; Times: 1
+	Query: "Desmodus rotundus country:"Brazil"" ; Times: 1
+	Query: "chiroptera country:"brazil"" ; Times: 1
+	Query: "Mammalia country:"Venezuela"" ; Times: 1
+	Query: "mammalia AND Alabama" ; Times: 1
+	Query: "mammalia AND Arkansas" ; Times: 1
+	Query: "Grulla" ; Times: 1
+	Query: "sigmodon" ; Times: 1
+	Query: "ursus americanus (michigan OR wisconsin) mappable:1" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 2
+	Query: "NASUA" ; Times: 1
+	Query: "stateprovince:"Louisiana" genus:Blarina" ; Times: 1
+	Query: "erethizontidae" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "mammalia AND Oregon" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:fuscipes genus:neotoma" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "Philander opossum year >= 1980 year <= 2014" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:arizonae genus:Sigmodon year >= 1950 mappable:1" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "sorex" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "type:specimen specificepithet:arizonae genus:Sigmodon year >= 1950 mappable:1" ; Times: 1
+	Query: "Sorex veraepacis" ; Times: 1
+	Query: "stateprovince:"Louisiana" specificepithet:parva genus:Cryptotis" ; Times: 1
+	Query: "nsrl type:specimen genus:Peromyscus year >= 1990" ; Times: 1
+	Query: "stateprovince:"Idaho" genus:Sorex" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "distance(location,geopoint(34.04014265821739,-118.7127685546875))<7406.907814491575" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "stateprovince:"Wyoming" genus:Sorex" ; Times: 1
+	Query: "mammalia AND Lane County AND Oregon" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "peromyscus" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "nsrl Peromyscus maniculatus type:specimen year >= 1990" ; Times: 1
+	Query: "Mimon crenulatum" ; Times: 1
+	Query: "specificepithet:arizonae genus:Sigmodon year >= 1950" ; Times: 2
+	Query: "stateprovince:"Montana" genus:Sorex" ; Times: 1
+	Query: "type:specimen stateprovince:"California" specificepithet:macrotis genus:Neotoma" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 979
+Total number of records retrieved from searches: 14073
+Number of download events that retrieved data from the resource: 234
+Total number of records downloaded: 293963
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 979
+Total number of records retrieved from searches: 14073
+Number of download events that retrieved data from the resource: 234
+Total number of records downloaded: 293963
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
