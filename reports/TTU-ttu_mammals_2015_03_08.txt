@@ -1,0 +1,243 @@
+Report for Institution Code TTU, Resource ttu_mammals
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 159
+Number of records retrieved in searches: 2278
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 10
+	Country: France ; Times: 12
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 121
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 6
+	Date: 2015-02-02 ; Times: 5
+	Date: 2015-02-03 ; Times: 22
+	Date: 2015-02-04 ; Times: 9
+	Date: 2015-02-05 ; Times: 5
+	Date: 2015-02-06 ; Times: 6
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-09 ; Times: 5
+	Date: 2015-02-10 ; Times: 4
+	Date: 2015-02-11 ; Times: 5
+	Date: 2015-02-12 ; Times: 2
+	Date: 2015-02-13 ; Times: 13
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-16 ; Times: 11
+	Date: 2015-02-17 ; Times: 1
+	Date: 2015-02-18 ; Times: 2
+	Date: 2015-02-19 ; Times: 9
+	Date: 2015-02-20 ; Times: 19
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-22 ; Times: 6
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-25 ; Times: 6
+	Date: 2015-02-26 ; Times: 2
+	Date: 2015-02-27 ; Times: 10
+	Date: 2015-02-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera" ; Times: 1
+	Query: "tequila" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "Taxidea" ; Times: 1
+	Query: "Monodelphis" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:holochilus" ; Times: 2
+	Query: "Dipodomys merriami stateprovince:"Coahuila"" ; Times: 1
+	Query: "Lasiurus minor" ; Times: 2
+	Query: "chiroderma" ; Times: 1
+	Query: "institutioncode:ttu tissue:1" ; Times: 1
+	Query: "type:specimen stateprovince:"South Carolina" specificepithet:polionotus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:teguina genus:Scotinomys institutioncode:TTU year >= 2000 year <= 2020" ; Times: 1
+	Query: "specificepithet:talamancae genus:Oryzomys" ; Times: 1
+	Query: "catalognumber:84773 institutioncode:ttu" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Caldas" ; Times: 1
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1950 year <= 1970" ; Times: 1
+	Query: "specificepithet:abrasus (molossidae)" ; Times: 1
+	Query: "REITHRODONTOMYS MEGALOTIS lake landmark" ; Times: 1
+	Query: "Madagascar Texas Tech University" ; Times: 1
+	Query: "order: rodentia reithrodontomys megalotis type:specimen (llano de las flores)" ; Times: 1
+	Query: "panthera onca" ; Times: 7
+	Query: "specificepithet:alfaroi genus:Oryzomys year >= 1990 year <= 2014" ; Times: 1
+	Query: "dipodomys elator" ; Times: 1
+	Query: "genus:bradypus" ; Times: 3
+	Query: ""geomys" stateprovince:"Louisiana"" ; Times: 2
+	Query: "specificepithet:abrasus (Molossidae)" ; Times: 3
+	Query: "sturnira TTU" ; Times: 2
+	Query: "Isthmomys pirrensis" ; Times: 2
+	Query: ""Tylomys nudicaudus" type:specimen country:"Guatemala" specificepithet:nudicaudus genus:Tylomys year >= 1900 year <= 2020" ; Times: 2
+	Query: "Tylomys nudicaudus" ; Times: 2
+	Query: "REITHRODONTOMYS MEGALOTIS 22460" ; Times: 1
+	Query: ""Dasypus novemcinctus " mappable:1" ; Times: 1
+	Query: "UGA" ; Times: 1
+	Query: "catalognumber:73838 institutioncode:TTU" ; Times: 1
+	Query: "Peromyscus institutioncode:TTU" ; Times: 1
+	Query: "ardops nichollsi" ; Times: 2
+	Query: "catalognumber:73837 institutioncode:TTU" ; Times: 1
+	Query: "peromyscus ann arbor AND (NOT ummz)" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Cynomys" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1950 year <= 1970" ; Times: 1
+	Query: "genus:glaucomys institutioncode:ttu tissue:1" ; Times: 1
+	Query: "dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "spermophilus atricapillus" ; Times: 2
+	Query: "40194 (mammalia)" ; Times: 1
+	Query: "institutioncode:TTU tissue:1" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:cinereus genus:lasiurus" ; Times: 3
+	Query: "specificepithet:obscurus genus:Artibeus institutioncode:TTU" ; Times: 1
+	Query: "genus:Melanomys tissue:1" ; Times: 4
+	Query: "REITHRODONTOMYS MEGALOTIS lubbock" ; Times: 2
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "specificepithet:cricetus genus:cricetus" ; Times: 2
+	Query: "bassariscus astutus" ; Times: 6
+	Query: "country:"Guatemala" specificepithet:fortidens genus:Myotis year >= 1900 year <= 2020" ; Times: 2
+	Query: "genus:scolomys" ; Times: 1
+	Query: "type:specimen specificepithet:domestica genus:monodelphis year >= 1950 year <= 2015" ; Times: 1
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 1
+	Query: "heath hen" ; Times: 3
+	Query: "genus:Dasypus" ; Times: 5
+	Query: "country:"Colombia" genus:Lasiurus" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "genus:peromyscus institutioncode:ttu tissue:1" ; Times: 2
+	Query: "genus:dasypus" ; Times: 3
+	Query: "specificepithet:microdon genus:Reithrodontomys" ; Times: 1
+	Query: "phyllostomus hastatus" ; Times: 2
+	Query: "order: rodentia reithrodontomys megalotis (oaxaca)" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Mammalia" ; Times: 2
+	Query: "enhydra lutris" ; Times: 1
+	Query: "Madagascar institutioncode:TTU" ; Times: 2
+	Query: "myrmecophaga" ; Times: 2
+	Query: "Chaetodipus hispidus stateprovince:"Coahuila"" ; Times: 1
+	Query: "blarina stateprovince:"missouri"" ; Times: 2
+	Query: "catalognumber:103716 institutioncode:TTU" ; Times: 1
+	Query: "catalognumber:104200 institutioncode:TTU" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus year >= 1970 year <= 2015" ; Times: 2
+	Query: "institutioncode:TTU 17472" ; Times: 1
+	Query: "specificepithet:sungorus genus:Phodopus" ; Times: 2
+	Query: "specificepithet:barabensis genus:cricetulus" ; Times: 1
+	Query: "genus:Lundomys" ; Times: 1
+	Query: "19380 (ttu)" ; Times: 1
+	Query: "geomys breviceps" ; Times: 1
+	Query: "specificepithet:melanops genus:scolomys" ; Times: 1
+	Query: "genus:Micoureus" ; Times: 1
+	Query: "specificepithet:lynx genus:lynx" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 3
+	Query: ""Tylomys nudicaudus" type:specimen specificepithet:nudicaudus genus:Tylomys" ; Times: 1
+	Query: "country:"ecuador" institutioncode:ttu tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1970 year <= 2015" ; Times: 1
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1970" ; Times: 1
+	Query: "Road to San Onofre" ; Times: 1
+	Query: "REITHRODONTOMYS MEGALOTIS texas" ; Times: 1
+	Query: "catalognumber:101002 institutioncode:TTU" ; Times: 1
+	Query: "colimensis" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "catalognumber:85481 institutioncode:TTU" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "Buckley" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "m. schreibersii" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "(crete)" ; Times: 1
+	Query: "catalognumber:84773 institutioncode:TTU" ; Times: 1
+	Query: "dasypus" ; Times: 1
+	Query: "canis aureus" ; Times: 1
+	Query: "flavescens stateprovince:"oklahoma"" ; Times: 3
+	Query: ""Tylomys nudicaudus" type:specimen specificepithet:nudicaudus genus:Tylomys year >= 1900 year <= 2020" ; Times: 1
+	Query: "type:specimen stateprovince:"Tennessee" specificepithet:gossypinus genus:Peromyscus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 326 download events in this period)
+Total number of records downloaded: 15771 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 15315
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-03 ; Times: 5
+	Date: 2015-02-04 ; Times: 3
+	Date: 2015-02-05 ; Times: 2
+	Date: 2015-02-06 ; Times: 2
+	Date: 2015-02-10 ; Times: 3
+	Date: 2015-02-11 ; Times: 4
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 6
+	Date: 2015-02-25 ; Times: 8
+	Date: 2015-02-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: ""sciurus arizonensis"" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus year >= 1901 year <= 2015" ; Times: 1
+	Query: "peromyscus zarhynchus" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1970 year <= 2015" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "specificepithet:roborovskii genus:Phodopus" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "Dipodomys merriami stateprovince:"Coahuila"" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "genus:bradypus" ; Times: 1
+	Query: "Bastrop county" ; Times: 1
+	Query: "stateprovince:"Tennessee" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "stateprovince:"Kansas" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:Tamias year >= 1965 year <= 2015" ; Times: 2
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1950 year <= 1970" ; Times: 1
+	Query: "stateprovince:"Ohio" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "stateprovince:"New York" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:polionotus genus:Peromyscus year >= 1920 year <= 1970" ; Times: 1
+	Query: "genus:Tursiops" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Chaetodipus fallax" ; Times: 1
+	Query: "Proechimys guairae" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "specificepithet:migratorius genus:cricetulus" ; Times: 1
+	Query: "Chaetodipus arenarius" ; Times: 1
+	Query: "maxomys" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1749
+Total number of records retrieved from searches: 28308
+Number of download events that retrieved data from the resource: 175
+Total number of records downloaded: 40501
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2298
+Total number of records retrieved from searches: 34022
+Number of download events that retrieved data from the resource: 552
+Total number of records downloaded: 381654
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
