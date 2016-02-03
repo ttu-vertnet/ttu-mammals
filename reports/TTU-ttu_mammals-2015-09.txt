@@ -1,0 +1,668 @@
+Report for Institution Code TTU, Resource ttu_mammals
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 875
+Number of records retrieved in searches: 25771
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 8
+	Country: Australia ; Times: 6
+	Country: Chile ; Times: 19
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 219
+	Country: Unknown ; Times: 64
+	Country: South Africa ; Times: 2
+	Country: Papua New Guinea ; Times: 1
+	Country: France ; Times: 12
+	Country: United States ; Times: 519
+	Country: French Guiana ; Times: 6
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: United Arab Emirates ; Times: 2
+	Country: Switzerland ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 25
+	Date: 2015-09-10 ; Times: 43
+	Date: 2015-09-11 ; Times: 21
+	Date: 2015-09-12 ; Times: 4
+	Date: 2015-09-13 ; Times: 12
+	Date: 2015-09-14 ; Times: 34
+	Date: 2015-09-15 ; Times: 28
+	Date: 2015-09-16 ; Times: 36
+	Date: 2015-09-17 ; Times: 35
+	Date: 2015-09-18 ; Times: 5
+	Date: 2015-09-19 ; Times: 29
+	Date: 2015-09-08 ; Times: 99
+	Date: 2015-09-30 ; Times: 19
+	Date: 2015-09-02 ; Times: 32
+	Date: 2015-09-29 ; Times: 20
+	Date: 2015-09-07 ; Times: 52
+	Date: 2015-09-06 ; Times: 9
+	Date: 2015-09-05 ; Times: 112
+	Date: 2015-09-04 ; Times: 37
+	Date: 2015-09-03 ; Times: 24
+	Date: 2015-09-28 ; Times: 9
+	Date: 2015-09-01 ; Times: 13
+	Date: 2015-09-25 ; Times: 15
+	Date: 2015-09-24 ; Times: 4
+	Date: 2015-09-27 ; Times: 4
+	Date: 2015-09-26 ; Times: 20
+	Date: 2015-09-21 ; Times: 9
+	Date: 2015-09-20 ; Times: 73
+	Date: 2015-09-09 ; Times: 42
+	Date: 2015-09-22 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Castor" ; Times: 6
+	Query: "Lasiurus ega" ; Times: 3
+	Query: "Nyctinomops macrotis" ; Times: 3
+	Query: "Neotoma micropus" ; Times: 2
+	Query: "dromiciops gliroides" ; Times: 2
+	Query: "&#34;choloepus&#34; mappable:1" ; Times: 2
+	Query: "catalognumber:84697" ; Times: 1
+	Query: "LACM 2679" ; Times: 1
+	Query: "Panthera type:specimen (skull)" ; Times: 1
+	Query: "genus:Niviventer (skeleton)" ; Times: 2
+	Query: "Nyctinomops stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Neotoma devia" ; Times: 3
+	Query: "pig tissue:1" ; Times: 3
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 4
+	Query: "Panthera onca" ; Times: 1
+	Query: "country:&#34;Turkey&#34;" ; Times: 1
+	Query: "genus:panthera" ; Times: 1
+	Query: "genus:tamandua" ; Times: 1
+	Query: "Dasyprocta" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 2
+	Query: "Neotoma goldmani" ; Times: 1
+	Query: "Rattus rattus (Chile)" ; Times: 2
+	Query: "lontra canadensis" ; Times: 4
+	Query: "Sigmodon mascotensis" ; Times: 1
+	Query: "dipodomys compactus" ; Times: 4
+	Query: "panthera onca" ; Times: 8
+	Query: "27176" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:floridanus genus:Podomys year &gt;= 1940 year &lt;= 1990" ; Times: 3
+	Query: "Dasyprocta punctata" ; Times: 3
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:polionotus subgriseus genus:peromyscus" ; Times: 1
+	Query: "cabassous" ; Times: 1
+	Query: "Monophyllus redmani" ; Times: 3
+	Query: "Myotis leibii" ; Times: 3
+	Query: "Ammospermophilus interpres" ; Times: 3
+	Query: "genus:Marmosa" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "Ciudad Juarez" ; Times: 1
+	Query: "WED 57619" ; Times: 1
+	Query: "(Dermoptera) mappable:1" ; Times: 2
+	Query: "Megadontomys" ; Times: 3
+	Query: "distance(location,geopoint(27.1802369569,-112.149505705))&lt;15000" ; Times: 1
+	Query: "Cynomys ludovicianus tissue:1" ; Times: 2
+	Query: "Peromyscus hooperi" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 2
+	Query: "Nyctinomops femorosaccus" ; Times: 2
+	Query: "christobal" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 2
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 14
+	Query: "distance(location,geopoint(27.3802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "distance(location,geopoint(27.8802369569,-111.049505705))&lt;10000" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:floridanus genus:Podomys year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "&#34;Dasypus Novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "tridecemlineatus michigan" ; Times: 1
+	Query: "civettictis" ; Times: 2
+	Query: "octodon degus" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.849505705))&lt;10000" ; Times: 1
+	Query: "Peromyscus spicilegus" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys year &gt;= 1940 year &lt;= 2015" ; Times: 2
+	Query: "Peromyscus gymnotis " ; Times: 1
+	Query: "dipodomys (coahuila)" ; Times: 2
+	Query: "sylvilagus aquaticus" ; Times: 1
+	Query: "Peromyscus aztecus" ; Times: 3
+	Query: "Baiomys musculus" ; Times: 2
+	Query: "Perimyotis subflavus" ; Times: 3
+	Query: "Sciurus deppei" ; Times: 2
+	Query: "Reithrodontomys sumichrasti" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 3
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "Dipodomys spectabilis" ; Times: 3
+	Query: "Sorex San Luis Obispo" ; Times: 1
+	Query: "genus:Ochotona" ; Times: 2
+	Query: "Thomomys sheldoni" ; Times: 1
+	Query: "genus:Oryzomys stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34; tissue:1" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 3
+	Query: "dermoptera]" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:polionotus genus:peromyscus year &gt;= 1960 year &lt;= 2015" ; Times: 1
+	Query: "Stenoderma rufum" ; Times: 3
+	Query: "Manis temminckii" ; Times: 3
+	Query: "Reithrodontomys zacatecae" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;zacatecas&#34;" ; Times: 1
+	Query: "type:specimen genus:Niviventer (skeleton) AND (NOT fluid)" ; Times: 1
+	Query: "cochise county &#34;Peromyscus maniculatus&#34; year &gt;= 1977 year &lt;= 2005" ; Times: 1
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "Megadontomys nelsoni" ; Times: 5
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "21878" ; Times: 2
+	Query: "didelphis marsupialis country:&#34;mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:putorius genus:Spilogale year &gt;= 1998" ; Times: 1
+	Query: "Reithrodontomys montanus" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "Scotinomys teguina" ; Times: 2
+	Query: "distance(location,geopoint(27.8802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "Peromyscus beatae" ; Times: 2
+	Query: "old woman" ; Times: 1
+	Query: "brooklyn museum class:Mammalia" ; Times: 1
+	Query: "Sigmodon alleni" ; Times: 2
+	Query: "Perognathus merriami" ; Times: 2
+	Query: "potos flavus" ; Times: 2
+	Query: "genus:nyctomys institutioncode:ttu" ; Times: 1
+	Query: "Brachyphylla cavernarum" ; Times: 4
+	Query: "Myotis volans" ; Times: 3
+	Query: "catalognumber:48099" ; Times: 1
+	Query: "genus:Taxidea year &gt;= 1979 year &lt;= 2015" ; Times: 1
+	Query: "Nelson country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:tamandua mexicana" ; Times: 1
+	Query: "(Dasypus novemcinctus) mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:putorius genus:Spilogale" ; Times: 4
+	Query: "bradypus" ; Times: 2
+	Query: "stateprovince:&#34;Washington&#34; specificepithet:norvegicus genus:rattus" ; Times: 2
+	Query: "Sciurus oculatus" ; Times: 2
+	Query: "Papio" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Peromyscus eva" ; Times: 1
+	Query: "WED 50309" ; Times: 1
+	Query: "Glaucomys " ; Times: 1
+	Query: "Entre Rios" ; Times: 1
+	Query: "Mazama americana" ; Times: 1
+	Query: "stateprovince:&#34;Wyoming&#34; specificepithet:princeps genus:zapus" ; Times: 1
+	Query: "Liomys salvini" ; Times: 1
+	Query: "catalognumber:80682 institutioncode:TTU" ; Times: 2
+	Query: "redpath" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys year &gt;= 1930 year &lt;= 2015" ; Times: 1
+	Query: "genus:bradypus" ; Times: 4
+	Query: "peromyscus leucopus AND (tissue)" ; Times: 1
+	Query: "microtus breweri" ; Times: 1
+	Query: "Lasiurus intermedius mappable:1" ; Times: 1
+	Query: "Parastrellus hesperus" ; Times: 3
+	Query: "stateprovince:&#34;florida&#34; specificepithet:floridanus genus:Podomys year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 6
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "&#34;Archbold Biological Station&#34; type:specimen class:Mammalia" ; Times: 1
+	Query: "Hoplomys gymnurus" ; Times: 1
+	Query: "&#34;Giraffa camelopardalis&#34; mappable:1" ; Times: 1
+	Query: "zapote" ; Times: 1
+	Query: "Sciurus nayaritensis " ; Times: 1
+	Query: "Oligoryzomys fulvescens" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "distance(location,geopoint(27.9802369569,-110.849505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "Oryzomys couesi" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 14
+	Query: "Notiosorex crawfordi" ; Times: 3
+	Query: "neomys fodiens" ; Times: 1
+	Query: "Peromyscus ochraventer" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 3
+	Query: "Mephitis macroura" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 2
+	Query: "distance(location,geopoint(25.6802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "Callimico goeldii" ; Times: 1
+	Query: "Sorex araneus" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Enhydra" ; Times: 2
+	Query: "microtus pennsylvanicus tissue:1" ; Times: 1
+	Query: "Megadontomys thomasi nelsoni" ; Times: 1
+	Query: "distance(location,geopoint(27.4802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "Xenomys nelsoni" ; Times: 1
+	Query: "Dermoptera" ; Times: 6
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 2
+	Query: "Romerolagus diazi" ; Times: 3
+	Query: "Coendou" ; Times: 2
+	Query: "Panthera onca type:specimen (skull)" ; Times: 1
+	Query: "genetta tissue:1" ; Times: 2
+	Query: "DROMICIOPS GLIROIDES" ; Times: 8
+	Query: "Rattus pyctoris" ; Times: 4
+	Query: "callimico goeldii" ; Times: 1
+	Query: "Heteromys gaumeri" ; Times: 1
+	Query: "Erethizon" ; Times: 1
+	Query: "Oryzomys chapmani" ; Times: 1
+	Query: "Viverridae tissue:1" ; Times: 1
+	Query: "Tylomys nudicaudus" ; Times: 1
+	Query: "90670" ; Times: 1
+	Query: "Oryzomys melanotis" ; Times: 1
+	Query: "mink" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 2
+	Query: "macrotus waterhousii" ; Times: 1
+	Query: "Heteromys desmarestianus" ; Times: 1
+	Query: "Pteronotus parnellii" ; Times: 3
+	Query: "neotoma albigula venusta" ; Times: 3
+	Query: "Rattus rattus (Chile) AND (norvegicus)" ; Times: 2
+	Query: "MVZ 21300" ; Times: 2
+	Query: "genus:Diaemus" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 3
+	Query: "64800" ; Times: 1
+	Query: "Peromyscus merriami" ; Times: 1
+	Query: "dipodomys (durango)" ; Times: 3
+	Query: "Dipodomys compactus" ; Times: 2
+	Query: "stateprovince:&#34;florida&#34; specificepithet:floridanus genus:Podomys" ; Times: 1
+	Query: "Myotis elegans" ; Times: 1
+	Query: "taxidea taxus mexico" ; Times: 2
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 2
+	Query: "genus:Papio preparations:skull" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "Ammospermophilus harrisii" ; Times: 2
+	Query: "Proechimys longicaudatus class:Mammalia" ; Times: 1
+	Query: "Panthera pardus mappable:1" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 3
+	Query: "hippotragus variani" ; Times: 1
+	Query: "&#34;macrotus californicus&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:floridanus genus:Podomys year &gt;= 1890 year &lt;= 1990" ; Times: 1
+	Query: "Natalus mexicanus" ; Times: 3
+	Query: "Taxidea" ; Times: 1
+	Query: "&#34;Mustela nivalis&#34;" ; Times: 3
+	Query: "85908" ; Times: 1
+	Query: "catalognumber:49294" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 2
+	Query: "Erophylla bombifrons" ; Times: 3
+	Query: "Myotis auriculus" ; Times: 3
+	Query: "Myotis sodalis" ; Times: 3
+	Query: "Megadontomys thomasi" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Arizona&#34; tissue:1" ; Times: 1
+	Query: "87603" ; Times: 1
+	Query: "Lasiurus minor" ; Times: 2
+	Query: "catalognumber:94452" ; Times: 1
+	Query: "Sigmodon leucotis" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 21
+	Query: "Peromyscus sejugis" ; Times: 1
+	Query: "TCWC" ; Times: 2
+	Query: "Pteronotus quadridens" ; Times: 3
+	Query: "sigmodon alstoni venezuela" ; Times: 1
+	Query: "genus:Heteromys country:&#34;Venezuela&#34; mappable:1" ; Times: 1
+	Query: "viverricula" ; Times: 1
+	Query: "county:&#34;meade&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:podomys" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 3
+	Query: "dermoptera mappable:1" ; Times: 77
+	Query: "distance(location,geopoint(27.2802369569,-112.149505705))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:polionotus genus:peromyscus year &gt;= 1970 year &lt;= 1979" ; Times: 2
+	Query: "Neomys fodiens" ; Times: 1
+	Query: "distance(location,geopoint(27.2802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys" ; Times: 3
+	Query: "MVZ 12706" ; Times: 1
+	Query: "mustela nivalis" ; Times: 4
+	Query: "Myotis grisescens" ; Times: 3
+	Query: "Perognathus fasciatus" ; Times: 2
+	Query: "Cynomys" ; Times: 1
+	Query: "Sciurus variegatoides" ; Times: 2
+	Query: "stateprovince:&#34;Wyoming&#34; specificepithet:talpoides genus:thomomys" ; Times: 1
+	Query: "Peromyscus furvus" ; Times: 1
+	Query: "Glaucomys" ; Times: 1
+	Query: "cochise county &#34;Peromyscus maniculatus&#34; (Portal) year &gt;= 1977 year &lt;= 2005" ; Times: 1
+	Query: "old woman california" ; Times: 1
+	Query: "Ovis canadensis Baja California" ; Times: 4
+	Query: "Peromyscus yucatanicus" ; Times: 1
+	Query: "Rousettus" ; Times: 1
+	Query: "Reithrodontomys chrysopsis" ; Times: 1
+	Query: "Philander opossum" ; Times: 2
+	Query: "Sigmodon arizonae" ; Times: 1
+	Query: "sciurus aureogaster" ; Times: 2
+	Query: "Euderma maculatum" ; Times: 7
+	Query: "Myotis keenii" ; Times: 3
+	Query: "specificepithet:elator genus:dipodomys" ; Times: 3
+	Query: "scapteromys" ; Times: 2
+	Query: "Lasiurus seminolus" ; Times: 3
+	Query: "genus:ototylomys institutioncode:ttu" ; Times: 2
+	Query: "distance(location,geopoint(20.5802369569,-105.349505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(29.0802369569,-113.449505705))&lt;10000" ; Times: 1
+	Query: "dipodomys phillipsii durango" ; Times: 1
+	Query: "Corynorhinus townsendii virginianus" ; Times: 3
+	Query: "Peromyscus melanotis" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:putorius genus:Spilogale distance(location,geopoint(33.89622236440885,-95.44522359967232))&lt;362887.4173131708" ; Times: 1
+	Query: "Chile (Norvegicus)" ; Times: 1
+	Query: "58779" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "lepus californicus mexico" ; Times: 1
+	Query: "Myotis occultus" ; Times: 3
+	Query: "lauderdale" ; Times: 1
+	Query: "Onychomys arenicola" ; Times: 2
+	Query: "tamandua mexicana" ; Times: 2
+	Query: "Neotomodon" ; Times: 1
+	Query: "Peromyscus perfulvus" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 3
+	Query: "Noctilio leporinus" ; Times: 3
+	Query: "stateprovince:&#34;florida&#34; specificepithet:floridanus genus:Podomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "Eumops perotis" ; Times: 3
+	Query: "dermoptera" ; Times: 14
+	Query: "Eumops underwoodi" ; Times: 3
+	Query: "Chaetodipus eremicus" ; Times: 2
+	Query: "Cuniculus paca" ; Times: 5
+	Query: "distance(location,geopoint(26.6802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "Myotis evotis" ; Times: 3
+	Query: "Sphiggurus mexicanus" ; Times: 1
+	Query: "gunnisoni" ; Times: 1
+	Query: "Reithrodontomys bakeri" ; Times: 1
+	Query: "Peromyscus melanocarpus" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 3
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "Peromyscus polius" ; Times: 1
+	Query: "ocampo" ; Times: 1
+	Query: "R.30826" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 3
+	Query: "genus:tylomys institutioncode:ttu" ; Times: 2
+	Query: "genus:Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "sylvilagus floridanus michigan" ; Times: 1
+	Query: "Lasiurus xanthinus" ; Times: 4
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "&#34;Cyclopes didactylus&#34; mappable:1" ; Times: 1
+	Query: "Geomys arenarius" ; Times: 1
+	Query: "Sorex arcticus" ; Times: 1
+	Query: "Rousettus aegyptiacus" ; Times: 1
+	Query: "95750" ; Times: 2
+	Query: "dasypus novemcinctus mappable:1" ; Times: 10
+	Query: "dasypus" ; Times: 1
+	Query: "Pappogeomys bulleri" ; Times: 1
+	Query: "Enhydra lutris lutris" ; Times: 1
+	Query: "Neotomodon alstoni" ; Times: 6
+	Query: "hippotragus niger variani" ; Times: 2
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "Osgoodomys banderanus" ; Times: 1
+	Query: "Tylomys watsoni" ; Times: 1
+	Query: "Pteronotus quadridens fuliginosus" ; Times: 3
+	Query: "Sigmodon ochrognathus" ; Times: 1
+	Query: "Peromyscus pectoralis" ; Times: 1
+	Query: "class:Mammalia Nyctinomops laticaudatus" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 3
+	Query: "&#34;panthera onca&#34; mappable:1" ; Times: 1
+	Query: "Eptesicus fuscus oklahoma" ; Times: 1
+	Query: "stateprovince:&#34;florida &#34; specificepithet:polionotus subgriseus genus:peromyscus" ; Times: 1
+	Query: "Leslie Canyon Arizona" ; Times: 1
+	Query: "panther mappable:1" ; Times: 1
+	Query: "Peromyscus schmidlyi" ; Times: 1
+	Query: "cochise county &#34;Peromyscus maniculatus&#34;" ; Times: 2
+	Query: "distance(location,geopoint(25.8802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 3
+	Query: "sylvilagus floridanus hidalgo" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 3
+	Query: "Myotis austroriparius" ; Times: 3
+	Query: "distance(location,geopoint(27.3802369569,-112.149505705))&lt;10000" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "dipodomys elator" ; Times: 2
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "stateprovince:&#34;Queretaro&#34;" ; Times: 1
+	Query: "Oryzomys texensis" ; Times: 3
+	Query: "Octodon degus" ; Times: 2
+	Query: "stateprovince:&#34;Arkansas&#34; genus:Reithrodontomys tissue:1" ; Times: 1
+	Query: "Odocoileus virginianus (road)" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 3
+	Query: "WED 52978" ; Times: 2
+	Query: "Ictidomys parvidens" ; Times: 2
+	Query: "Lasiurus borealis" ; Times: 3
+	Query: "sigmodon arizonae" ; Times: 1
+	Query: "Neotoma phenax" ; Times: 1
+	Query: "Zygogeomys trichopus" ; Times: 1
+	Query: "Geomys personatus" ; Times: 1
+	Query: "Cuniculus" ; Times: 1
+	Query: "catalognumber:105274" ; Times: 1
+	Query: "Peromyscus levipes" ; Times: 1
+	Query: "Peromyscus megalops" ; Times: 1
+	Query: "Cynomys gunnisoni" ; Times: 2
+	Query: "Habromys lophurus" ; Times: 2
+	Query: "Sylvilagus type:specimen genus:Sylvilagus country:&#34;Paraguay&#34; (Paraguay) tissue:1" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-113.049505705))&lt;10000" ; Times: 1
+	Query: "&#34;Archbold Biological Station&#34;" ; Times: 1
+	Query: "Leptonycteris yerbabuenae" ; Times: 3
+	Query: "distance(location,geopoint(28.8802369569,-112.949505705))&lt;10000" ; Times: 1
+	Query: "simus" ; Times: 4
+	Query: "country:&#34;Ecuador&#34; genus:Vampyrum" ; Times: 1
+	Query: "euderma maculatum" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "Reithrodontomys fulvescens" ; Times: 1
+	Query: "Peromyscus gratus" ; Times: 1
+	Query: "&#34;Acinonyx jubatus&#34; mappable:1" ; Times: 1
+	Query: "MyrmecOphaga" ; Times: 1
+	Query: "distance(location,geopoint(27.2802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:putorius genus:Spilogale (tissue)" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1960 year &lt;= 1980" ; Times: 1
+	Query: "old woman california chordata" ; Times: 1
+	Query: "Myotis californicus" ; Times: 3
+	Query: "Lasionycteris noctivagans" ; Times: 3
+	Query: "Cryptotis parva country:&#34;Mexico&#34;" ; Times: 2
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys year &gt;= 1960 year &lt;= 2015" ; Times: 2
+	Query: "stateprovince:&#34;Wyoming&#34; specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "Reithrodontomys microdon" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Antrozous pallidus" ; Times: 11
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus streckeri genus:geomys" ; Times: 2
+	Query: "catalognumber:62042" ; Times: 1
+	Query: "Civettictis" ; Times: 1
+	Query: "miradorensis specificepithet:fuscus genus:Eptesicus" ; Times: 2
+	Query: "parvula" ; Times: 2
+	Query: "&#34;dermoptera&#34; mappable:1" ; Times: 1
+	Query: "procyon lotor mexico" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "Peromyscus zarhynchus" ; Times: 1
+	Query: "Myotis melanorhinus" ; Times: 3
+	Query: "WED 58779" ; Times: 3
+	Query: "Cratogeomys castanops" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 7
+	Query: "Oryzomys alfaroi" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-112.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-113.149505705))&lt;10000" ; Times: 1
+	Query: "Cynomys leucurus" ; Times: 1
+	Query: "Entre" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 2
+	Query: "Myotis septentrionalis" ; Times: 4
+	Query: "distance(location,geopoint(20.5802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "&#34;Panthera onca&#34; mappable:1" ; Times: 2
+	Query: "Sigmodon toltecus" ; Times: 1
+	Query: "catalognumber:117349" ; Times: 1
+	Query: "Neotoma leucodon" ; Times: 1
+	Query: "Sigmodon fulviventer" ; Times: 1
+	Query: "Peromyscus melanophrys" ; Times: 1
+	Query: "sciurus niger michigan" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:putorius genus:Spilogale (tissue) mappable:1" ; Times: 1
+	Query: "Rattus rattus (Chile) AND (NOT norvegicus)" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34; specificepithet:gossypinus genus:Peromyscus mappable:1" ; Times: 2
+	Query: "Lasiurus blossevillii" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 244 (out of 1045 download events in this period)
+Total number of records downloaded: 161511
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 9
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 13
+	Country: France ; Times: 3
+	Country: United States ; Times: 184
+	Country: Sweden ; Times: 1
+	Country: Chile ; Times: 4
+	Country: Switzerland ; Times: 1
+	Country: Hungary ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 13
+	Date: 2015-09-10 ; Times: 48
+	Date: 2015-09-11 ; Times: 7
+	Date: 2015-09-12 ; Times: 3
+	Date: 2015-09-13 ; Times: 4
+	Date: 2015-09-14 ; Times: 7
+	Date: 2015-09-15 ; Times: 20
+	Date: 2015-09-16 ; Times: 35
+	Date: 2015-09-17 ; Times: 9
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-08 ; Times: 11
+	Date: 2015-09-30 ; Times: 5
+	Date: 2015-09-02 ; Times: 6
+	Date: 2015-09-29 ; Times: 12
+	Date: 2015-09-07 ; Times: 14
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 6
+	Date: 2015-09-04 ; Times: 10
+	Date: 2015-09-03 ; Times: 3
+	Date: 2015-09-28 ; Times: 2
+	Date: 2015-09-01 ; Times: 6
+	Date: 2015-09-25 ; Times: 5
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-23 ; Times: 3
+	Date: 2015-09-22 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;macrotus californicus&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "dermoptera cynocephalus" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "family:geomyidae type:specimen mappable:1" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Sorex palustris" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "class:Mammalia Nyctinomops laticaudatus" ; Times: 1
+	Query: "saguinus oedipus" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 22
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 35
+	Query: "Callimico goeldii" ; Times: 1
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 2
+	Query: "stateprovince:&#34;Wyoming&#34; specificepithet:princeps genus:zapus" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 27
+	Query: "dipodomys (durango)" ; Times: 3
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "stahl" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 2
+	Query: "dipodomys phillipsii" ; Times: 3
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "genus:bradypus" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Sorex monticolus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "genus:Marmosa" ; Times: 1
+	Query: "Spermophilus elegans" ; Times: 1
+	Query: "Moresby" ; Times: 1
+	Query: "Ovis canadensis Baja California" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "sciurus aureogaster" ; Times: 2
+	Query: "Papua" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "order:Chiroptera continent:South America" ; Times: 2
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "peromyscus maniculatus los angeles" ; Times: 1
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "genus:ototylomys institutioncode:ttu" ; Times: 3
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 2
+	Query: "Bison bison" ; Times: 2
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "octodon degus" ; Times: 1
+	Query: "Beamys" ; Times: 1
+	Query: "Chile (Norvegicus)" ; Times: 1
+	Query: "Cryptotis parva country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 9
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys year &gt;= 1960 year &lt;= 2015" ; Times: 2
+	Query: "stateprovince:&#34;Wyoming&#34; specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "dipodomys (chihuahua)" ; Times: 1
+	Query: "Rattus pyctoris" ; Times: 1
+	Query: "Neovison vison" ; Times: 2
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus streckeri genus:geomys" ; Times: 3
+	Query: "dipodomys (coahuila)" ; Times: 1
+	Query: "Spermophilus armatus" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Viverridae tissue:1" ; Times: 1
+	Query: "Tamias striatus" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:floridanus genus:Podomys year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "procyon lotor mexico" ; Times: 1
+	Query: "dermoptera" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Sorex San Luis Obispo" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "gunnisoni" ; Times: 1
+	Query: "Sorex vagrans" ; Times: 1
+	Query: "genus:Diaemus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 5
+	Query: "sinaloa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Manis temminckii" ; Times: 1
+	Query: "genus:tylomys institutioncode:ttu" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "didelphis marsupialis country:&#34;mexico&#34;" ; Times: 2
+	Query: "Dermoptera" ; Times: 2
+	Query: "old woman california chordata" ; Times: 1
+	Query: "taxidea taxus mexico" ; Times: 1
+	Query: "genus:Papio preparations:skull" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "Rattus rattus (Chile) AND (NOT norvegicus)" ; Times: 1
+	Query: "genus:nyctomys institutioncode:ttu" ; Times: 2
+	Query: "Sorex araneus" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 1
+
+
+End of report.
