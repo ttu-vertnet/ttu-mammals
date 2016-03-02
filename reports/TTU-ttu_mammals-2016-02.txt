@@ -1,0 +1,280 @@
+Report for Institution Code TTU, Resource ttu_mammals
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 229
+Number of records retrieved in searches: 2111
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 161
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 42
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 6
+	Country: Switzerland ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 5
+	Date: 2016-02-08 ; Times: 5
+	Date: 2016-02-18 ; Times: 16
+	Date: 2016-02-19 ; Times: 32
+	Date: 2016-02-12 ; Times: 20
+	Date: 2016-02-13 ; Times: 2
+	Date: 2016-02-10 ; Times: 8
+	Date: 2016-02-11 ; Times: 5
+	Date: 2016-02-16 ; Times: 5
+	Date: 2016-02-17 ; Times: 10
+	Date: 2016-02-14 ; Times: 4
+	Date: 2016-02-15 ; Times: 7
+	Date: 2016-02-29 ; Times: 5
+	Date: 2016-02-02 ; Times: 5
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-22 ; Times: 5
+	Date: 2016-02-20 ; Times: 2
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 6
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 7
+	Date: 2016-02-03 ; Times: 21
+	Date: 2016-02-28 ; Times: 3
+	Date: 2016-02-05 ; Times: 10
+	Date: 2016-02-04 ; Times: 37
+	Date: 2016-02-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Lama glama mappable:1" ; Times: 1
+	Query: "epomops" ; Times: 1
+	Query: "sowell" ; Times: 1
+	Query: "kakamega chiroptera" ; Times: 2
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "cingulata mappable:1" ; Times: 2
+	Query: "dermoptera order:dermoptera" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(23.779061416101943,-110.13587951660156))&lt;20540" ; Times: 1
+	Query: "Mammalia Mellivora" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 4
+	Query: "stateprovince:&#34;texas&#34; specificepithet:palustris genus:Oryzomys year &gt;= 1990 year &lt;= 2015" ; Times: 2
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "Peromyscus sejugis" ; Times: 1
+	Query: "virginiana mappable:1 tissue:1" ; Times: 1
+	Query: "Sus scrofa scrofa" ; Times: 1
+	Query: "Myotis septentrionalis (Illinois)" ; Times: 1
+	Query: "3991" ; Times: 1
+	Query: "type:specimen county:&#34;clermont&#34; stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "catalognumber:78766" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 2
+	Query: "Peromyscus eva" ; Times: 1
+	Query: "Panthera onca" ; Times: 12
+	Query: "ttu 47 conepatus" ; Times: 1
+	Query: "genus:xenomys institutioncode:TTU" ; Times: 3
+	Query: "80729" ; Times: 2
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;texas&#34;" ; Times: 4
+	Query: "dermoptera mappable:1" ; Times: 9
+	Query: "neotoma floridana year &gt;= 2005 year &lt;= 2010 tissue:1" ; Times: 1
+	Query: "Mellivora Mammalia" ; Times: 2
+	Query: "&#34;Panthera pardus&#34; mappable:1" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "enhydra lutris nereis" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;alberta&#34;" ; Times: 1
+	Query: "phylloderma" ; Times: 4
+	Query: "prarie" ; Times: 1
+	Query: "Cynomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Conepatus type:specimen (texas) AND (NOT ASNHC)" ; Times: 1
+	Query: "specificepithet:concolor genus:puma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Colombia+Saccopteryx" ; Times: 1
+	Query: "chironectes" ; Times: 1
+	Query: "vulpes velox" ; Times: 3
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "antrozous pallidus stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "genus:nyctomys institutioncode:TTU" ; Times: 3
+	Query: "Tlacuatzin" ; Times: 1
+	Query: "72101" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "novemcinctus mappable:1 tissue:1" ; Times: 2
+	Query: "dasypus mappable:1" ; Times: 2
+	Query: "idiurus" ; Times: 1
+	Query: "TK152206" ; Times: 1
+	Query: "genus:neotoma stateprovince:Nevada" ; Times: 1
+	Query: "46719" ; Times: 1
+	Query: "Neofelis nebulosa mappable:1" ; Times: 1
+	Query: "55253" ; Times: 1
+	Query: "peromyscus polius" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 5
+	Query: "Chrysocyon" ; Times: 1
+	Query: "Didelphis marsupialis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "TK104161" ; Times: 1
+	Query: "101225" ; Times: 1
+	Query: "Sciurus aberti tissue:1" ; Times: 1
+	Query: "Chaetodipus penicillatus sobrinus" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; recordedby:davis" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 2
+	Query: "TK135304" ; Times: 1
+	Query: "30149" ; Times: 1
+	Query: "Tlacuatzin canescens institutioncode:TTU" ; Times: 1
+	Query: "ttu 47" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 3
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "distance(location,geopoint(25.935817142040126,-80.22663116455078))&lt;12098.115330222452" ; Times: 1
+	Query: "Dasypus mappable:1" ; Times: 2
+	Query: "Cynomys type:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "enhydra" ; Times: 1
+	Query: "anomaluridae" ; Times: 3
+	Query: "ttu 111184" ; Times: 2
+	Query: "plecotus auritus" ; Times: 2
+	Query: "Mephitis" ; Times: 1
+	Query: "barbastella" ; Times: 1
+	Query: "genus:spermophilus stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "juvenile wildcat skull" ; Times: 1
+	Query: "mvz 70748" ; Times: 2
+	Query: "reithrodontomys fulvescens county:&#34;brazos&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "&#34; Panthera pardus&#34; mappable:1" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 12
+	Query: "Urocyon" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Missouri&#34; tissue:1" ; Times: 1
+	Query: "plecotus austriacus" ; Times: 2
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "tk104160" ; Times: 1
+	Query: "genus:nyctomys country:&#34;honduras&#34;" ; Times: 1
+	Query: "TK104022" ; Times: 1
+	Query: "cursor" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:couesi genus:oryzomys year &gt;= 1890 year &lt;= 2015" ; Times: 1
+	Query: "TK135329" ; Times: 1
+	Query: "dermoptera" ; Times: 7
+	Query: "92828" ; Times: 1
+	Query: "Erinaceus europaeus" ; Times: 1
+	Query: "genus:nyctomys" ; Times: 1
+	Query: "Anomaluridae" ; Times: 1
+	Query: "ttu 30422" ; Times: 1
+	Query: "mammals coahuila" ; Times: 3
+	Query: "panthera tissue:1" ; Times: 3
+	Query: "82074" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "tk104152" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "neacomys" ; Times: 1
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "pecari tajacu stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Peromyscus polius" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 2
+	Query: "stateprovince:&#34;texas&#34; genus:liomys year &gt;= 1995 year &lt;= 2015" ; Times: 4
+	Query: "Myotis albescens" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 3
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "peromyscus sejugis" ; Times: 3
+	Query: "33903" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "76895" ; Times: 2
+	Query: "panthera pardus" ; Times: 2
+	Query: "Borneo Rodentia" ; Times: 2
+	Query: "panthera" ; Times: 1
+	Query: "dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "95118" ; Times: 1
+	Query: "eptesicus fuscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "TK135298" ; Times: 1
+	Query: "33755" ; Times: 1
+	Query: "UMMZ peromyscus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 95 (out of 512 download events in this period)
+Total number of records downloaded: 4321
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: Unknown ; Times: 18
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 49
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 3
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 7
+	Date: 2016-02-19 ; Times: 11
+	Date: 2016-02-12 ; Times: 5
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-16 ; Times: 4
+	Date: 2016-02-17 ; Times: 3
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-23 ; Times: 4
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-20 ; Times: 3
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 3
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 5
+	Date: 2016-02-28 ; Times: 3
+	Date: 2016-02-05 ; Times: 2
+	Date: 2016-02-04 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:nyctomys" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;north dakota&#34;" ; Times: 1
+	Query: "ototylomys" ; Times: 1
+	Query: "Chaetodipus formosus mesembrinus mappable:1" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Cynomys type:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Cynomys country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:palustris genus:Oryzomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 9
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:couesi genus:oryzomys year &gt;= 1890 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "puma concolor" ; Times: 8
+	Query: "Borneo Muridae" ; Times: 1
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "Zygodontomys brevicauda" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 8
+	Query: "enhydra lutris nereis" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "taxidea taxus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Sciurus aberti tissue:1" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "phylloderma" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "capito" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
