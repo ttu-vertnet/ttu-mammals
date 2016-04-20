@@ -1,0 +1,143 @@
+Report for Institution Code TTU, Resource ttu_mammals
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 1463
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 12
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 50
+	Country: Peru ; Times: 2
+	Country: Switzerland ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-10 ; Times: 7
+	Date: 2016-03-08 ; Times: 14
+	Date: 2016-03-09 ; Times: 4
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-07 ; Times: 3
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-05 ; Times: 14
+	Date: 2016-03-02 ; Times: 7
+	Date: 2016-03-03 ; Times: 7
+	Date: 2016-03-01 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "spermophilus washingtoni" ; Times: 1
+	Query: "diphylla" ; Times: 2
+	Query: "class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "bickhami" ; Times: 1
+	Query: "specificepithet:jamaicensis class:Mammalia stateprovince:&#34;Cortes&#34; country:&#34;Honduras&#34;" ; Times: 1
+	Query: "county:&#34;Ramsey&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "mimon crenulatum" ; Times: 1
+	Query: "tamandua mexicana tissue:1" ; Times: 1
+	Query: "Myotis keaysi tissue:1" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Gypsum county:&#34;Orange&#34;" ; Times: 1
+	Query: "McCarty" ; Times: 1
+	Query: "specificepithet:bilobatum country:&#34;Honduras&#34;" ; Times: 3
+	Query: "class:mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "2229" ; Times: 1
+	Query: "specificepithet:lar genus:hylobates" ; Times: 2
+	Query: "order:Chiroptera class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "genus:Didelphis class:Mammalia stateprovince:&#34;Atlantida&#34; country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Thomomys idahoensis" ; Times: 2
+	Query: "N. McIntyre" ; Times: 1
+	Query: "family:Phyllostomidae order:Chiroptera class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Gerbillurus" ; Times: 1
+	Query: "philander opossum institutioncode:TTU tissue:1" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Missouri&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "116352" ; Times: 2
+	Query: "mimon bennettii" ; Times: 1
+	Query: "genus:Holochilus locality:Reserva Mbaracayu" ; Times: 1
+	Query: "vulpes velox" ; Times: 4
+	Query: "genus:puma specificepithet:concolor" ; Times: 2
+	Query: "W.E.D. Scott" ; Times: 2
+	Query: "genus:Holochilus locality:Estancia Loma Pora" ; Times: 1
+	Query: "Diphylla" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "ochotona princeps" ; Times: 2
+	Query: "Dipodomys phillipsii" ; Times: 2
+	Query: "cynomys mexicanus" ; Times: 2
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;texas&#34;" ; Times: 3
+	Query: "osborne" ; Times: 1
+	Query: "type:specimen recordedby:mccarty" ; Times: 1
+	Query: "genus:Glossophaga family:Phyllostomidae order:Chiroptera class:Mammalia stateprovince:&#34;Atlantida&#34; country:&#34;Honduras&#34;" ; Times: 1
+	Query: "hylobates lar lar" ; Times: 1
+	Query: "genus:Holochilus locality:Laguna Placenta" ; Times: 1
+	Query: "genus:Holochilus locality:Estancia Samaklay" ; Times: 1
+	Query: "genus:Holochilus locality:Estancia Santa Teresa" ; Times: 1
+	Query: "genus:Carollia family:Phyllostomidae order:Chiroptera class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Eptesicus fuscus Texas" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 2
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Iowa&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 5
+	Query: "Diaemus" ; Times: 1
+	Query: "Geomys" ; Times: 1
+	Query: "Gerbillurus setzeri" ; Times: 1
+	Query: "lama glama" ; Times: 2
+	Query: "neotoma lepida utah" ; Times: 3
+	Query: "cryptonanus" ; Times: 1
+	Query: "volcan de chiriqui" ; Times: 1
+	Query: "genus:rhinolophus order:chiroptera class:mammalia country:&#34;kenya&#34; continent:africa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 230 download events in this period)
+Total number of records downloaded: 1335648
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 10
+	Country: United States ; Times: 47
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-11 ; Times: 7
+	Date: 2016-03-03 ; Times: 4
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 14
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 10
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Holochilus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "family:Heteromyidae year &gt;= 1800 year &lt;= 2015 mappable:1 tissue:1" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "tissue" ; Times: 39
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+
+
+End of report.
