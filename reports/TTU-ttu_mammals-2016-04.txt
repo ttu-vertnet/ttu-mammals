@@ -1,0 +1,463 @@
+Report for Institution Code TTU, Resource ttu_mammals
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 464
+Number of records retrieved in searches: 6923
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 198
+	Country: Colombia ; Times: 8
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 73
+	Country: Unknown ; Times: 163
+	Country: Costa Rica ; Times: 3
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 44
+	Date: 2016-04-02 ; Times: 22
+	Date: 2016-04-07 ; Times: 7
+	Date: 2016-04-06 ; Times: 21
+	Date: 2016-04-05 ; Times: 11
+	Date: 2016-04-04 ; Times: 10
+	Date: 2016-04-21 ; Times: 8
+	Date: 2016-04-20 ; Times: 3
+	Date: 2016-04-09 ; Times: 6
+	Date: 2016-04-22 ; Times: 36
+	Date: 2016-04-25 ; Times: 30
+	Date: 2016-04-24 ; Times: 3
+	Date: 2016-04-27 ; Times: 120
+	Date: 2016-04-26 ; Times: 11
+	Date: 2016-04-08 ; Times: 20
+	Date: 2016-04-18 ; Times: 15
+	Date: 2016-04-19 ; Times: 7
+	Date: 2016-04-14 ; Times: 10
+	Date: 2016-04-15 ; Times: 13
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 7
+	Date: 2016-04-10 ; Times: 3
+	Date: 2016-04-11 ; Times: 24
+	Date: 2016-04-12 ; Times: 8
+	Date: 2016-04-13 ; Times: 4
+	Date: 2016-04-03 ; Times: 16
+	Date: 2016-04-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis AND Island AND California" ; Times: 1
+	Query: "catalognumber:64563" ; Times: 1
+	Query: "type:specimen genus:bassariscus stateprovince:&#34;texas&#34; mappable:1" ; Times: 2
+	Query: "chordata of coahuila cuatro cienegas" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.537516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-105.877516))&lt;15000" ; Times: 1
+	Query: "cynopterus" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-105.367516))&lt;15000" ; Times: 1
+	Query: "genus:dasypus class:mammalia" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-106.727516))&lt;15000" ; Times: 1
+	Query: "MMNH" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.629036,-105.537516))&lt;15000" ; Times: 2
+	Query: "Peromyscus melanophrys puebla" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-105.027516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-108.937516))&lt;15000" ; Times: 1
+	Query: "Tk152088" ; Times: 2
+	Query: "kenya type:specimen (skeleton)" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.767516))&lt;15000" ; Times: 1
+	Query: "38758" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-106.217516))&lt;15000" ; Times: 1
+	Query: "Camp AND Catalina" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.107516))&lt;15000" ; Times: 1
+	Query: "Bassariscus type:specimen stateprovince:&#34;Texas&#34; mappable:1" ; Times: 5
+	Query: "PILOSA" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-105.877516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-109.277516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-107.067516))&lt;15000" ; Times: 1
+	Query: "Bassariscus type:specimen (Texas ) mappable:1 tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-111.147516))&lt;15000" ; Times: 1
+	Query: "genus: Bassariscus (Texas) mappable:1" ; Times: 1
+	Query: "R-15469" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "country:&#34;mexico&#34; catalognumber:45023" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.389036,-112.337516))&lt;15000" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "class:Mammalia genus:dasypus" ; Times: 1
+	Query: "sphiggurus" ; Times: 4
+	Query: "distance(location,geopoint(21.609036,-105.197516))&lt;15000" ; Times: 7
+	Query: "Bassariscus type:specimen stateprovince:&#34;Texas&#34; mappable:1 tissue:1" ; Times: 3
+	Query: "distance(location,geopoint(31.469036,-105.877516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-106.047516))&lt;15000" ; Times: 1
+	Query: "CMNH" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.147516))&lt;15000" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 3
+	Query: "distance(location,geopoint(31.979036,-111.147516))&lt;15000" ; Times: 1
+	Query: "mammalia nuevo leon" ; Times: 2
+	Query: "58425" ; Times: 1
+	Query: "distance(location,geopoint(26.029036,-108.937516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.127516))&lt;15000" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-109.957516))&lt;15000" ; Times: 1
+	Query: "ammotragus" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-106.897516))&lt;15000" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 4
+	Query: "erinaceidae" ; Times: 1
+	Query: "ku mammalia" ; Times: 1
+	Query: "24268" ; Times: 2
+	Query: "Mephitis macroura stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "distance(location,geopoint(31.299036,-109.277516))&lt;15000" ; Times: 1
+	Query: "Erethizon dorsatum cousei" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-106.217516))&lt;15000" ; Times: 1
+	Query: "mammals durango" ; Times: 2
+	Query: "46748" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-106.047516))&lt;15000" ; Times: 1
+	Query: "microtus breweri" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-106.387516))&lt;15000" ; Times: 1
+	Query: "genus: Bassariscus (Texas) mappable:1 tissue:1" ; Times: 2
+	Query: "genus:Peromyscus stateprovince:&#34;Utah&#34; country:&#34;United States&#34; continent:North America mappable:1 tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-113.527516))&lt;15000" ; Times: 1
+	Query: "CINGULATA" ; Times: 2
+	Query: "Herpestes" ; Times: 13
+	Query: "distance(location,geopoint(31.469036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-105.537516))&lt;15000" ; Times: 1
+	Query: "38774" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-105.877516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(23.309036,-106.047516))&lt;15000" ; Times: 2
+	Query: "heteromys anomalus" ; Times: 1
+	Query: "55830" ; Times: 1
+	Query: "Sylvilagus robustus" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-105.707516))&lt;15000" ; Times: 1
+	Query: "14798" ; Times: 1
+	Query: "Mus cervicolor" ; Times: 1
+	Query: "catalognumber:63934" ; Times: 1
+	Query: "Bassariscus texas type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-105.197516))&lt;15000" ; Times: 6
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.107516))&lt;15000" ; Times: 1
+	Query: "Sphiggurus" ; Times: 1
+	Query: "	Proechimys brevicauda	 100" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-105.707516))&lt;15000" ; Times: 1
+	Query: "type:specimen class:mammalia catalognumber:14199" ; Times: 1
+	Query: "chordata coahuila cuatro cienegas" ; Times: 2
+	Query: "genus:proechimys country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Lasiurus AND Island" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-111.487516))&lt;15000" ; Times: 1
+	Query: "14199 type:specimen class:mammalia" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus" ; Times: 1
+	Query: "mosquito specimen" ; Times: 1
+	Query: "family:Felidae tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-107.407516))&lt;15000" ; Times: 1
+	Query: "Estancia San Jose" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-113.867516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.459036,-105.537516))&lt;15000" ; Times: 2
+	Query: "Bassariscus type:specimen stateprovince:&#34;texas&#34; mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-106.387516))&lt;15000" ; Times: 1
+	Query: "Reithrodontomys megalotis megalotis county:&#34;San Diego&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-105.877516))&lt;15000" ; Times: 1
+	Query: "Sirenia" ; Times: 1
+	Query: "mammals coahuila CUATRO CIENEGAS" ; Times: 1
+	Query: "family:molossidae order:chiroptera county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "distance(location,geopoint(28.409036,-112.847516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-105.197516))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-111.487516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.629036,-105.367516))&lt;15000" ; Times: 2
+	Query: "Chiricahua Mountains (Mammalia)" ; Times: 2
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "genus:Herpestes (Trinidad) AND (NOT AMNH)" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-105.027516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-112.167516))&lt;15000" ; Times: 2
+	Query: "Peromyscus hooperi" ; Times: 1
+	Query: "stateprovince:&#34;Minnesota&#34; specificepithet:sabrinus genus:glaucomys year &gt;= 1940 year &lt;= 2015" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.447516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-105.877516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-113.527516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-111.317516))&lt;15000" ; Times: 1
+	Query: "20587" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-105.707516))&lt;15000" ; Times: 1
+	Query: "genus:Napaeozapus tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-107.747516))&lt;15000" ; Times: 1
+	Query: "specificepithet:sumichrasti genus:reithrodontomys order:rodentia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-106.047516))&lt;15000" ; Times: 1
+	Query: "scotinomys teguina" ; Times: 1
+	Query: "Camelidae" ; Times: 1
+	Query: "distance(location,geopoint(20.759036,-105.367516))&lt;15000" ; Times: 4
+	Query: "mammals o f new mexico" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "mephitis macroura" ; Times: 20
+	Query: "57993" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-110.127516))&lt;15000" ; Times: 2
+	Query: "mammals coahuila cuatro cienegas" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.317516))&lt;15000" ; Times: 1
+	Query: "28423" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.447516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.459036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-106.217516))&lt;15000" ; Times: 1
+	Query: "specificepithet:latrans genus:canis mappable:1 tissue:1" ; Times: 3
+	Query: "11221" ; Times: 1
+	Query: "Tk152161" ; Times: 3
+	Query: "Pilosa" ; Times: 2
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "angeli" ; Times: 1
+	Query: "MVZ 4127" ; Times: 1
+	Query: "Herpestes country:&#34;Trinidad&#34;" ; Times: 3
+	Query: "genus:Bassariscus stateprovince:&#34;Texas&#34; mappable:1 tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-108.767516))&lt;15000" ; Times: 2
+	Query: "Bassariscus texas type:specimen mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-105.877516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-107.067516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-108.937516))&lt;15000" ; Times: 1
+	Query: "order:Rodentia county:&#34;Tulsa&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Hyaenidae" ; Times: 1
+	Query: "FMNH 67" ; Times: 1
+	Query: "Bassariscus type:specimen stateprovince:&#34;texas&#34; mappable:1 tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.957516))&lt;15000" ; Times: 1
+	Query: "21952" ; Times: 1
+	Query: "specificepithet:latrans genus:canis country:&#34;United States&#34; tissue:1" ; Times: 3
+	Query: "Bassariscus type:specimen (Texas) mappable:1" ; Times: 2
+	Query: "Bassariscus type:specimen (Texas) mappable:1 tissue:1" ; Times: 1
+	Query: "Tk104023" ; Times: 1
+	Query: "panthera pardus" ; Times: 2
+	Query: "LACM 5337" ; Times: 3
+	Query: "LACM 5336" ; Times: 3
+	Query: "country:&#34;Nicaragua&#34; tissue:1" ; Times: 1
+	Query: "63498" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-107.237516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-112.847516))&lt;15000" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-105.197516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-105.197516))&lt;15000" ; Times: 6
+	Query: "Leopardus" ; Times: 1
+	Query: "Sorex merriami New Mexico" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-105.027516))&lt;15000" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.759036,-105.197516))&lt;15000" ; Times: 6
+	Query: "capromys" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-105.707516))&lt;15000" ; Times: 1
+	Query: "67524" ; Times: 3
+	Query: "distance(location,geopoint(25.859036,-109.107516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.919036,-113.187516))&lt;15000" ; Times: 1
+	Query: "genus:Bassariscus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "Cockrum" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 2
+	Query: "distance(location,geopoint(31.129036,-105.197516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.219036,-112.337516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-113.697516))&lt;15000" ; Times: 1
+	Query: "38875" ; Times: 2
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "21026" ; Times: 1
+	Query: "Monkey" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-109.447516))&lt;15000" ; Times: 1
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "75377" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-108.937516))&lt;15000" ; Times: 1
+	Query: "Bassariscus texas type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-106.727516))&lt;15000" ; Times: 1
+	Query: "mammals coahuila" ; Times: 18
+	Query: "91380" ; Times: 1
+	Query: "(chalco)" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-112.847516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.447516))&lt;15000" ; Times: 1
+	Query: "promops centralis" ; Times: 2
+	Query: "distance(location,geopoint(27.049036,-109.107516))&lt;15000" ; Times: 1
+	Query: "dimidiata" ; Times: 1
+	Query: "genus:notiosorex tissue:1" ; Times: 1
+	Query: "type:specimen genus:bassariscus mappable:1 tissue:1" ; Times: 1
+	Query: "Viverridae" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.447516))&lt;15000" ; Times: 1
+	Query: "Mephitis macroura" ; Times: 3
+	Query: "103433" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-106.217516))&lt;15000" ; Times: 1
+	Query: "Bassariscus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-108.937516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.937516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-106.727516))&lt;15000" ; Times: 2
+	Query: "&#34;Sciurus carolinensis&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "mammals of chihuahua" ; Times: 12
+	Query: "57321" ; Times: 1
+	Query: "genus:peromyscus locality:chiricahua" ; Times: 1
+	Query: "genus:notiosorex stateprovince:&#34;arizona&#34; tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-106.217516))&lt;15000" ; Times: 1
+	Query: "noctilio" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-106.387516))&lt;15000" ; Times: 1
+	Query: "12216" ; Times: 3
+	Query: "distance(location,geopoint(32.149036,-110.977516))&lt;15000" ; Times: 3
+	Query: "rafinesquii (Corynorhinus)" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-112.847516))&lt;15000" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-105.027516))&lt;15000" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma tissue:1" ; Times: 3
+	Query: "noctilio paraguay" ; Times: 2
+	Query: "promops+centralis" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-109.107516))&lt;15000" ; Times: 2
+	Query: "eumops hansae" ; Times: 2
+	Query: "Nyctomys" ; Times: 2
+	Query: "stateprovince:&#34;texas&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 4
+	Query: "distance(location,geopoint(31.979036,-108.767516))&lt;15000" ; Times: 1
+	Query: "14199" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordedby:nelson" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-105.027516))&lt;15000" ; Times: 1
+	Query: "26214" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-107.747516))&lt;15000" ; Times: 1
+	Query: "35651" ; Times: 1
+	Query: "spilogale putorius stateprovince:&#34;texas&#34; tissue:1" ; Times: 1
+	Query: "surifer" ; Times: 1
+	Query: "Mobile Alabama" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-105.367516))&lt;15000" ; Times: 1
+	Query: "Bassariscus stateprovince:&#34;Texas&#34; mappable:1 tissue:1" ; Times: 1
+	Query: "Cerro Burro" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-111.317516))&lt;15000" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-106.047516))&lt;15000" ; Times: 1
+	Query: "108467" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.317516))&lt;15000" ; Times: 1
+	Query: "19404" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.807516))&lt;15000" ; Times: 1
+	Query: "87674" ; Times: 1
+	Query: "&#34;CMNH&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-105.027516))&lt;15000" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "11650" ; Times: 3
+	Query: "catalognumber:104238" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-105.197516))&lt;15000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 194 (out of 1312 download events in this period)
+Total number of records downloaded: 1681973
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 102
+	Country: Unknown ; Times: 21
+	Country: Portugal ; Times: 9
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 61
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-02 ; Times: 2
+	Date: 2016-04-07 ; Times: 4
+	Date: 2016-04-06 ; Times: 15
+	Date: 2016-04-05 ; Times: 5
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-20 ; Times: 10
+	Date: 2016-04-23 ; Times: 18
+	Date: 2016-04-08 ; Times: 6
+	Date: 2016-04-25 ; Times: 7
+	Date: 2016-04-24 ; Times: 6
+	Date: 2016-04-09 ; Times: 5
+	Date: 2016-04-26 ; Times: 7
+	Date: 2016-04-22 ; Times: 9
+	Date: 2016-04-27 ; Times: 8
+	Date: 2016-04-18 ; Times: 5
+	Date: 2016-04-19 ; Times: 11
+	Date: 2016-04-14 ; Times: 16
+	Date: 2016-04-15 ; Times: 10
+	Date: 2016-04-16 ; Times: 12
+	Date: 2016-04-17 ; Times: 7
+	Date: 2016-04-10 ; Times: 4
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 11
+	Date: 2016-04-13 ; Times: 3
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mammals of new mexico" ; Times: 7
+	Query: "peromyscus nasutus" ; Times: 1
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "&#34;Sciurus niger&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(33.063924198120645,-108.15765380859375))&lt;41580.77121872904" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "mammals coahuila" ; Times: 4
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "micronycteris" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mammals of texas" ; Times: 13
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "Nyctomys" ; Times: 1
+	Query: "lacm mammalia" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "&#34;Sciurus carolinensis&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "order:Rodentia county:&#34;Tulsa&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "dipodomys deserti (nevada)" ; Times: 2
+	Query: "Minnesota Point" ; Times: 1
+	Query: "THE MAMMALS OF NEW MEXICO" ; Times: 22
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "mammals chihuahua" ; Times: 2
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "coahuila mammals" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "microtus breweri" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "mammals of the new mexico" ; Times: 3
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
