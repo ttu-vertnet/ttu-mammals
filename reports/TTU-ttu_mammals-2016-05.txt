@@ -1,0 +1,219 @@
+Report for Institution Code TTU, Resource ttu_mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 163
+Number of records retrieved in searches: 1788
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 21
+	Country: Mexico ; Times: 26
+	Country: Unknown ; Times: 8
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 88
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 8
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 13
+	Date: 2016-05-15 ; Times: 21
+	Date: 2016-05-14 ; Times: 2
+	Date: 2016-05-13 ; Times: 17
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-11 ; Times: 6
+	Date: 2016-05-10 ; Times: 10
+	Date: 2016-05-31 ; Times: 7
+	Date: 2016-05-30 ; Times: 3
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-09 ; Times: 2
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-03 ; Times: 4
+	Date: 2016-05-04 ; Times: 6
+	Date: 2016-05-05 ; Times: 5
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-07 ; Times: 9
+	Date: 2016-05-26 ; Times: 4
+	Date: 2016-05-27 ; Times: 2
+	Date: 2016-05-24 ; Times: 4
+	Date: 2016-05-25 ; Times: 9
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-23 ; Times: 9
+	Date: 2016-05-20 ; Times: 5
+	Date: 2016-05-21 ; Times: 5
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 10
+	Query: "TTU 83698" ; Times: 1
+	Query: "peromyscus maniculatus yuma arizona" ; Times: 2
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: "sturnira erythromos" ; Times: 3
+	Query: "Tylomys watsoni" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-110.127516))&lt;8880.92965594135" ; Times: 1
+	Query: "TTU 105180" ; Times: 2
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "TTU 104357" ; Times: 2
+	Query: "tamaulipas cueva" ; Times: 1
+	Query: "Micoureus demerarae" ; Times: 6
+	Query: "sphiggurus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "distance(location,geopoint(29.095036,-109.643516))&lt;15000" ; Times: 1
+	Query: "genus:geomys county:&#34;midland&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "TK104353" ; Times: 1
+	Query: "110018}" ; Times: 1
+	Query: "TTU 105164" ; Times: 1
+	Query: "panthera onca}" ; Times: 2
+	Query: "lontra canadensis" ; Times: 1
+	Query: "dipodomys compactus" ; Times: 3
+	Query: "panthera onca" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "TTU 104186" ; Times: 3
+	Query: "specificepithet:knoxjonesi genus:geomys" ; Times: 1
+	Query: "lasiurus intermedius tissue:1" ; Times: 1
+	Query: "hare" ; Times: 1
+	Query: "TTU 84454" ; Times: 1
+	Query: "cm 349" ; Times: 1
+	Query: "caluromys derbianus" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:arizonensis genus:Sciurus" ; Times: 1
+	Query: "county:&#34;leon&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TK93375" ; Times: 1
+	Query: "canis lupus texas" ; Times: 1
+	Query: "TK165449" ; Times: 1
+	Query: "TTU 101421" ; Times: 1
+	Query: "lontra institutioncode:TTU" ; Times: 1
+	Query: "specificepithet:montanus genus:reithrodontomys class:Mammalia county:&#34;greer&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Mammals stateprovince:&#34;Hidalgo&#34; country:&#34;Mexico&#34;" ; Times: 3
+	Query: "distance(location,geopoint(27.149036,-109.367516))&lt;15000" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "stateprovince:&#34;WI&#34;" ; Times: 1
+	Query: "genus:Marmota tissue:1" ; Times: 1
+	Query: "genus:ototylomys country:&#34;nicaragua&#34; year &gt;= 1970 year &lt;= 1986" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "(mustelidae) institutioncode:TTU" ; Times: 2
+	Query: "lasiurus intermedius" ; Times: 2
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Haiti&#34;" ; Times: 1
+	Query: "TTU 105099" ; Times: 1
+	Query: "cyclopes" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "TTU 101409" ; Times: 1
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "notiosorex cockrumi" ; Times: 1
+	Query: "Mustelidae (Mellivora)" ; Times: 1
+	Query: "genus:Didelphis preparations:tissue" ; Times: 1
+	Query: "carollia sowelli" ; Times: 4
+	Query: "ECUADOR type:specimen (desmodus) institutioncode:(ttu)" ; Times: 1
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "specificepithet:monticolus genus:sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "geomys knoxjonesi" ; Times: 1
+	Query: "TTU 83731" ; Times: 1
+	Query: "64234" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 6
+	Query: "Lasiurus intermedius tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "genus:proechimys order:rodentia country:&#34;costa rica&#34;" ; Times: 1
+	Query: "Cyclopes" ; Times: 1
+	Query: "TTU 96972" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 8
+	Query: "57306" ; Times: 1
+	Query: "distance(location,geopoint(27.145036,-109.331516))&lt;15000" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "Dipodomys heermanni tissue:1" ; Times: 3
+	Query: "TTU 101386" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 5
+	Query: "vegetation africa" ; Times: 2
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "104182" ; Times: 1
+	Query: "TTU 97009" ; Times: 1
+	Query: "specificepithet:texensis genus:Geomys" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis preparations:tissue" ; Times: 1
+	Query: "TTU 105108" ; Times: 1
+	Query: "TTU 88195" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 6
+	Query: "genus:ototylomys country:&#34;nicaragua&#34;" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "(lontra canadensis) institutioncode:TTU" ; Times: 2
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:perotis genus:Eumops" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.295516))&lt;15000" ; Times: 1
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "uroderma bilobatum country:&#34;mexico&#34;" ; Times: 2
+	Query: "specificepithet:knoxjonesi genus:geomys tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 327 download events in this period)
+Total number of records downloaded: 24013
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Colombia ; Times: 4
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 4
+	Date: 2016-05-22 ; Times: 4
+	Date: 2016-05-23 ; Times: 2
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-31 ; Times: 6
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "genus:myrmecophaga mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:arizonensis genus:Sciurus" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Dipodomys heermanni tissue:1" ; Times: 1
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Didelphis preparations:tissue" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "uroderma bilobatum country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:knoxjonesi genus:geomys" ; Times: 1
+
+
+End of report.
