@@ -1,0 +1,584 @@
+Report for Institution Code TTU, Resource ttu_mammals
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 587
+Number of records retrieved in searches: 8659
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 19
+	Country: United States ; Times: 313
+	Country: Australia ; Times: 2
+	Country: Honduras ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Portugal ; Times: 38
+	Country: Mexico ; Times: 175
+	Country: Unknown ; Times: 11
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 7
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Colombia ; Times: 5
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 4
+	Date: 2016-06-23 ; Times: 11
+	Date: 2016-06-22 ; Times: 26
+	Date: 2016-06-21 ; Times: 44
+	Date: 2016-06-20 ; Times: 89
+	Date: 2016-06-05 ; Times: 23
+	Date: 2016-06-04 ; Times: 10
+	Date: 2016-06-07 ; Times: 6
+	Date: 2016-06-06 ; Times: 19
+	Date: 2016-06-01 ; Times: 34
+	Date: 2016-06-03 ; Times: 26
+	Date: 2016-06-02 ; Times: 53
+	Date: 2016-06-09 ; Times: 15
+	Date: 2016-06-08 ; Times: 13
+	Date: 2016-06-18 ; Times: 11
+	Date: 2016-06-19 ; Times: 13
+	Date: 2016-06-16 ; Times: 37
+	Date: 2016-06-17 ; Times: 6
+	Date: 2016-06-14 ; Times: 59
+	Date: 2016-06-15 ; Times: 9
+	Date: 2016-06-12 ; Times: 3
+	Date: 2016-06-13 ; Times: 62
+	Date: 2016-06-10 ; Times: 12
+	Date: 2016-06-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "catalognumber:54126" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "ochotona princeps new mexico" ; Times: 1
+	Query: "Dipodomys merriami parvus" ; Times: 1
+	Query: "genus:Thomomys specificepithet:bottae stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (guadalupensis) mappable:1" ; Times: 1
+	Query: "family:felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "12522" ; Times: 1
+	Query: "scolomys" ; Times: 1
+	Query: "13164" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "genus:Geomys specificepithet:texensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Panthera onca" ; Times: 4
+	Query: "18771" ; Times: 1
+	Query: "Cabassous chacoensis" ; Times: 1
+	Query: "genus:Mustela specificepithet:frenata stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "98762" ; Times: 2
+	Query: "98765" ; Times: 1
+	Query: "98764" ; Times: 1
+	Query: "Chironectes" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "Oligoryzomys magellanicus" ; Times: 1
+	Query: "Molossus sinaloae" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "ochotona princeps united states new mexico specimen" ; Times: 2
+	Query: "26378" ; Times: 1
+	Query: "genus:Microtus specificepithet:ochrogaster stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Sylvilagus robustus" ; Times: 2
+	Query: "46494" ; Times: 1
+	Query: "tk101818" ; Times: 1
+	Query: "11139" ; Times: 4
+	Query: "Sphiggurus" ; Times: 3
+	Query: "genus:Puma specificepithet:concolor stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Oligoryzomys flavescens" ; Times: 1
+	Query: "Lasiurus AND Island" ; Times: 2
+	Query: "Microtus quasiater" ; Times: 1
+	Query: "8516" ; Times: 1
+	Query: "Reithrodontomys megalotis megalotis county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Artiodactyla country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Myocastor coypus 1" ; Times: 2
+	Query: "sorex emarginatus" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "carnivora country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "speothos venaticus" ; Times: 2
+	Query: "saccopteryx leptura specificepithet:leptura genus:Saccopteryx mappable:1" ; Times: 1
+	Query: "Mus musculus 1" ; Times: 5
+	Query: "Oxymycterus quaestor" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "Enchisthenes hartii" ; Times: 1
+	Query: "tk102014" ; Times: 1
+	Query: "Atelerix" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "61247" ; Times: 1
+	Query: "61092" ; Times: 1
+	Query: "4774" ; Times: 1
+	Query: "Capra hircus" ; Times: 1
+	Query: "Panthera" ; Times: 1
+	Query: "34876" ; Times: 1
+	Query: "genus:Sorex stateprovince:&#34;New hampshire&#34;" ; Times: 1
+	Query: "99609" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "LACM 47994" ; Times: 1
+	Query: "genus:Myotis specificepithet:austroriparius stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "genus:Notiosorex country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;vermont&#34;" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:ega stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "182 oryzomys" ; Times: 1
+	Query: "67447" ; Times: 1
+	Query: "103398" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:nasutus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "genus:canis" ; Times: 4
+	Query: "catalognumber:54126 year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "panthera pardus" ; Times: 3
+	Query: "genus:Vulpes specificepithet:velox stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "glossophaga morenoi" ; Times: 2
+	Query: "25087" ; Times: 1
+	Query: "109843" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Maine&#34;" ; Times: 6
+	Query: "11714" ; Times: 2
+	Query: "Vampyrum" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 6
+	Query: "Nyctinomops aurispinosus" ; Times: 1
+	Query: "49731" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "99393" ; Times: 1
+	Query: "genus:dasypus mappable:1 tissue:1" ; Times: 1
+	Query: "genus:Blarina specificepithet:carolinensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "specificepithet:Fumeus genus:Sorex stateprovince:&#34;New hampshire&#34;" ; Times: 1
+	Query: "symphalangus syndactylus" ; Times: 5
+	Query: "Cynopterus sphinx" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "genus:Geomys specificepithet:arenarius stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Erinaceus" ; Times: 3
+	Query: "county:&#34;Wheeler&#34; stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "sus scrofa" ; Times: 3
+	Query: "genus:dromiciops class:mammalia" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "specificepithet:bendirii genus:sorex stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "98763" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "96908" ; Times: 1
+	Query: "genus:Eptesicus specificepithet:fuscus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "8442 mammalia" ; Times: 1
+	Query: "r.a. erickson" ; Times: 1
+	Query: "genus:Thomomys specificepithet:bottae stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (limpiae) mappable:1" ; Times: 1
+	Query: "Mylomys" ; Times: 2
+	Query: "73277" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 6
+	Query: "genus:dasypus country:&#34;Bolivia&#34;" ; Times: 4
+	Query: "7017" ; Times: 1
+	Query: "98774" ; Times: 1
+	Query: "BC Canada" ; Times: 2
+	Query: "Garza 1" ; Times: 1
+	Query: "93683" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:aquaticus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "56134" ; Times: 1
+	Query: "Carnivora country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Oligoryzomys fulvescens" ; Times: 1
+	Query: "class:Mammalia county:&#34;Wheeler&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Odocoileus hemionus stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(32.697362236182066,-105.018310546875))&lt;126133" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "Mus musculus" ; Times: 4
+	Query: "59041" ; Times: 2
+	Query: "Canis aureus" ; Times: 2
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Leopardus colocolo colocolo" ; Times: 2
+	Query: "genus:Geomys specificepithet:personatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (maritimus) mappable:1" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "CANIS AUREUS" ; Times: 2
+	Query: "80106" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 7
+	Query: "tk136999" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 2
+	Query: "county:&#34;wayne&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:fulviventer stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "catalognumber:109343" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 3
+	Query: "leopardus colocolo" ; Times: 3
+	Query: "genus:Myotis specificepithet:volans stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "genus:dasypus mappable:1" ; Times: 2
+	Query: "Sphiggurus mexicanus mexicanus" ; Times: 1
+	Query: "Gerbillurus setzeri" ; Times: 2
+	Query: "Spilogale (Texas)" ; Times: 23
+	Query: "Ursus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "leopardus" ; Times: 1
+	Query: "Sorex neomexicanus stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(32.697362236182066,-105.018310546875))&lt;126133" ; Times: 1
+	Query: "TK150040" ; Times: 2
+	Query: "catalognumber:72923" ; Times: 1
+	Query: "catalognumber:59500" ; Times: 1
+	Query: "Oryzomys couesi tk27059" ; Times: 1
+	Query: "genus:Euderma specificepithet:maculatum stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "couch" ; Times: 2
+	Query: "Callimico" ; Times: 1
+	Query: "Atelerix algirus 1" ; Times: 2
+	Query: "112237" ; Times: 1
+	Query: "41594" ; Times: 1
+	Query: "Erinaceus type:specimen (Native) mappable:1" ; Times: 1
+	Query: "Tamias durangae" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "Oligoryzomys andinus" ; Times: 2
+	Query: "29872" ; Times: 1
+	Query: "SOREX LONGIROSTRIS" ; Times: 2
+	Query: "Leptonycteris yerbabuenae" ; Times: 1
+	Query: "TK150037" ; Times: 1
+	Query: "genus:Nyctinomops specificepithet:macrotis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "canis lupus   " ; Times: 8
+	Query: "tk102091" ; Times: 1
+	Query: "tk102090" ; Times: 1
+	Query: "oryzomys TK27527" ; Times: 1
+	Query: "Rattus rattus 1" ; Times: 6
+	Query: "Sorex merriami stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(32.697362236182066,-105.018310546875))&lt;126133" ; Times: 2
+	Query: "57529" ; Times: 1
+	Query: "Corynorhinus townsendii stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(32.697362236182066,-105.018310546875))&lt;126133" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "genus:Eptesicus specificepithet:fuscus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (Eptesicus fuscus)" ; Times: 1
+	Query: "77997" ; Times: 1
+	Query: "bison bison   " ; Times: 9
+	Query: "Ovis aries" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 4
+	Query: "genus:Lasiurus specificepithet:borealis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;vermont&#34; institutioncode:TTU" ; Times: 1
+	Query: "genus:Blarina specificepithet:brevicauda stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Spilogale (New Mexico)" ; Times: 1
+	Query: "van fleet" ; Times: 1
+	Query: "genus:Nyctinomops specificepithet:macrotis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (Nyctinomops macrotis) mappable:1" ; Times: 1
+	Query: "tk136361" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:xanthinus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America AND (NOT panamensis)" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "genus:Eptesicus specificepithet:fuscus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America AND (NOT pallidus)" ; Times: 2
+	Query: "varecia" ; Times: 2
+	Query: "49990" ; Times: 1
+	Query: "cynopterus brachyotis" ; Times: 2
+	Query: "genus:Tamiasciurus stateprovince:&#34;Tennessee&#34;" ; Times: 3
+	Query: "Cynomys mexicanus" ; Times: 3
+	Query: "Rattus rattus" ; Times: 4
+	Query: "Oligoryzomys microtis" ; Times: 1
+	Query: "country:&#34;kyrgyzstan&#34; mappable:1" ; Times: 2
+	Query: "102893" ; Times: 1
+	Query: "TK19578" ; Times: 3
+	Query: "specificepithet:dorsalis genus:Tamias country:&#34;Mexico&#34; institutioncode:TTU" ; Times: 1
+	Query: "TK72661" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "54714" ; Times: 1
+	Query: "genus:Nyctinomops specificepithet:femorosaccus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "11899" ; Times: 3
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "Neovison vison 1" ; Times: 3
+	Query: "Ammotragus lervia 1" ; Times: 2
+	Query: "ttu 37749" ; Times: 5
+	Query: "specificepithet:elator genus:dipodomys" ; Times: 1
+	Query: "TK27059" ; Times: 1
+	Query: "scapteromys" ; Times: 3
+	Query: "TK150089" ; Times: 1
+	Query: "TK150088" ; Times: 1
+	Query: "27097" ; Times: 1
+	Query: "94314" ; Times: 1
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "Oligoryzomys nigripes" ; Times: 1
+	Query: "Eptesicus AND Island" ; Times: 1
+	Query: "86655" ; Times: 1
+	Query: "genus:Geomys specificepithet:personatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (personatus) mappable:1" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "stateprovince:&#34;new mexico&#34; specificepithet:nasutus genus:Peromyscus year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "TK119183" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "TK119180" ; Times: 1
+	Query: "TK119186" ; Times: 1
+	Query: "TK119185" ; Times: 1
+	Query: "genus:Scalopus specificepithet:aquaticus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Vulpes velox stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(32.697362236182066,-105.018310546875))&lt;126133" ; Times: 1
+	Query: "73821" ; Times: 1
+	Query: "72923" ; Times: 1
+	Query: "leptonycteris yerbabuenae" ; Times: 1
+	Query: "specificepithet:parnellii genus:Pteronotus continent:South America" ; Times: 1
+	Query: "tachyoryctes" ; Times: 1
+	Query: "specificepithet:elator genus:Dipodomys" ; Times: 1
+	Query: "LSU 11885" ; Times: 1
+	Query: "erythromos" ; Times: 1
+	Query: "106011" ; Times: 3
+	Query: "Sphiggurus mexicanus" ; Times: 1
+	Query: "Mystacinidae" ; Times: 2
+	Query: "Ovis aries 1" ; Times: 2
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 5
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "alces alces   " ; Times: 9
+	Query: "50388" ; Times: 1
+	Query: "Myotis lucifugus stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(32.697362236182066,-105.018310546875))&lt;126133" ; Times: 1
+	Query: "peromyscus furvus" ; Times: 2
+	Query: "(Sorex minutus) mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 3
+	Query: "genus:Dipodomys specificepithet:compactus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (compactus) mappable:1" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "Erinaceus type:specimen mappable:1" ; Times: 1
+	Query: "45816" ; Times: 1
+	Query: "canis rufus" ; Times: 8
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "Lonchophylla" ; Times: 1
+	Query: "ochotona princeps type:specimen specificepithet:Princeps genus:Ochotona stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "genus:Ochrotomys stateprovince:&#34;Tennessee&#34; tissue:1" ; Times: 3
+	Query: "specificepithet:durangae genus:Tamias institutioncode:TTU" ; Times: 2
+	Query: "vampyrodes" ; Times: 1
+	Query: "61180" ; Times: 1
+	Query: "genus:Taxidea specificepithet:taxus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Plecotus townsendii pallescens stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(32.697362236182066,-105.018310546875))&lt;126133" ; Times: 1
+	Query: "genus:Ochrotomys stateprovince:&#34;Tennessee&#34;" ; Times: 3
+	Query: "lsu 7495" ; Times: 1
+	Query: "CMNH" ; Times: 1
+	Query: "genus:Tamias stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "genus:Cynomys specificepithet:ludovicianus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "genus:Thomomys specificepithet:bottae stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (texensis) mappable:1" ; Times: 1
+	Query: "tk102040" ; Times: 1
+	Query: "vampyrodes caraccioli" ; Times: 1
+	Query: "kyrgyzstan" ; Times: 1
+	Query: "106853" ; Times: 3
+	Query: "euderma" ; Times: 1
+	Query: "tk27059" ; Times: 1
+	Query: "diclidurus albus" ; Times: 4
+	Query: "111499" ; Times: 3
+	Query: "131078" ; Times: 1
+	Query: "Plecotus townsendii stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(32.697362236182066,-105.018310546875))&lt;126133" ; Times: 1
+	Query: "specificepithet:polius order:rodentia" ; Times: 2
+	Query: "TK119172" ; Times: 1
+	Query: "TK119170" ; Times: 1
+	Query: "Chaetophractus vellerosus" ; Times: 1
+	Query: "proteles" ; Times: 1
+	Query: "merriami parvus" ; Times: 2
+	Query: "88727" ; Times: 1
+	Query: "University of Alberta and edmonton" ; Times: 1
+	Query: "3262" ; Times: 1
+	Query: "97086" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "TK150243" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "104912" ; Times: 1
+	Query: "53440" ; Times: 1
+	Query: "tamandua" ; Times: 1
+	Query: "guadalupensis" ; Times: 1
+	Query: "98759" ; Times: 1
+	Query: "Sus scrofa" ; Times: 3
+	Query: "myocastor" ; Times: 1
+	Query: "34844" ; Times: 1
+	Query: "98754" ; Times: 2
+	Query: "genus:Spilogale specificepithet:putorius stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "genus:Neovison specificepithet:vison stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 8
+	Query: "64135" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:cinereus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "saccopteryx leptura" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:robustus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "galea musteloides" ; Times: 4
+	Query: "W. S. Milleri" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; (Erethizon)" ; Times: 1
+	Query: "TK102090" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:ochrognathus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Dipodomys heermanni tissue:1" ; Times: 2
+	Query: "genus:Bison" ; Times: 1
+	Query: "59028" ; Times: 1
+	Query: "neotoma fuscipes st*" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "59026" ; Times: 1
+	Query: "genus:Geomys specificepithet:personatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (streckeri) mappable:1" ; Times: 1
+	Query: "genus:bison" ; Times: 5
+	Query: "TK138048" ; Times: 2
+	Query: "genus:Oryzomys specificepithet:couesi stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (aquaticus) mappable:1" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:ega stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America AND (NOT panamensis)" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Louisiana&#34;" ; Times: 4
+	Query: "34780" ; Times: 1
+	Query: "microtus quasiater" ; Times: 1
+	Query: "9197" ; Times: 1
+	Query: "8555" ; Times: 1
+	Query: "genus:Tamias specificepithet:canipes stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "genus:Antilocapra specificepithet:americana stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:elator stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "77593" ; Times: 1
+	Query: "genus:Mephitis specificepithet:macroura stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:truei stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (comanche) mappable:1" ; Times: 1
+	Query: "75167" ; Times: 1
+	Query: "canis aureus" ; Times: 7
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "genus:Leptonycteris specificepithet:nivalis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "mammals (delicias)" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 211 (out of 1052 download events in this period)
+Total number of records downloaded: 59289
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 63
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 1
+	Country: United States ; Times: 134
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-09 ; Times: 3
+	Date: 2016-06-22 ; Times: 4
+	Date: 2016-06-21 ; Times: 4
+	Date: 2016-06-20 ; Times: 43
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-04 ; Times: 5
+	Date: 2016-06-06 ; Times: 5
+	Date: 2016-06-01 ; Times: 4
+	Date: 2016-06-03 ; Times: 8
+	Date: 2016-06-02 ; Times: 7
+	Date: 2016-06-23 ; Times: 6
+	Date: 2016-06-08 ; Times: 8
+	Date: 2016-06-18 ; Times: 12
+	Date: 2016-06-19 ; Times: 5
+	Date: 2016-06-16 ; Times: 17
+	Date: 2016-06-17 ; Times: 16
+	Date: 2016-06-14 ; Times: 18
+	Date: 2016-06-15 ; Times: 11
+	Date: 2016-06-12 ; Times: 4
+	Date: 2016-06-13 ; Times: 20
+	Date: 2016-06-10 ; Times: 5
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ochotona princeps type:specimen specificepithet:Princeps genus:Ochotona stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 2
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "dipodomys microps" ; Times: 2
+	Query: "Apodemus agrarius" ; Times: 1
+	Query: "genus:Blarina specificepithet:carolinensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Dipodomys merriami parvus" ; Times: 1
+	Query: "genus:Thomomys specificepithet:bottae stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (guadalupensis) mappable:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:borealis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "genus:Geomys specificepithet:arenarius stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "puma concolor" ; Times: 6
+	Query: "Spilogale (New Mexico)" ; Times: 1
+	Query: "genus:Geomys specificepithet:texensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "genus:Cynomys specificepithet:ludovicianus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "genus:Taxidea specificepithet:taxus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "genus:Thomomys specificepithet:bottae stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (texensis) mappable:1" ; Times: 1
+	Query: "genus:Mustela specificepithet:frenata stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "kyrgyzstan" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "genus:Thomomys specificepithet:bottae stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (limpiae) mappable:1" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:xanthinus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America AND (NOT panamensis)" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "Marmota monax" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "genus:Eptesicus specificepithet:fuscus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America AND (NOT pallidus)" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "varecia" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Apodemus flavicollis" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "genus:dasypus mappable:1 tissue:1" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "genus:Microtus specificepithet:ochrogaster stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Sylvilagus robustus" ; Times: 1
+	Query: "Cynomys mexicanus" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Puma specificepithet:concolor stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:aquaticus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Microtus quasiater" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "genus:Leptonycteris specificepithet:nivalis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Peromyscus mexicanus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "genus:Spilogale specificepithet:putorius stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "genus:Tadarida specificepithet:brasiliensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Microtus mexicanus" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "saccopteryx leptura specificepithet:leptura genus:Saccopteryx mappable:1" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "Oxymycterus quaestor" ; Times: 1
+	Query: "genus:Geomys specificepithet:personatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (maritimus) mappable:1" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 3
+	Query: "Sorex stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 2
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "Atelerix" ; Times: 2
+	Query: "genus:Geomys specificepithet:personatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (personatus) mappable:1" ; Times: 1
+	Query: "genus:Neovison specificepithet:vison stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "genus:Nyctinomops specificepithet:femorosaccus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:fulviventer stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:cinereus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 49
+	Query: "genus:Sylvilagus specificepithet:robustus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "genus:Myotis specificepithet:volans stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "leptonycteris yerbabuenae" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; (Erethizon)" ; Times: 1
+	Query: "Spilogale (Texas)" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "specificepithet:elator genus:Dipodomys" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:ochrognathus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Dipodomys heermanni tissue:1" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "microtus townsendii" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "genus:Euderma specificepithet:maculatum stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "genus:Geomys specificepithet:personatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (streckeri) mappable:1" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "peromyscus gossypinus" ; Times: 1
+	Query: "Erinaceus type:specimen (Native) mappable:1" ; Times: 1
+	Query: "genus:Oryzomys specificepithet:couesi stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (aquaticus) mappable:1" ; Times: 1
+	Query: "genus:Myotis specificepithet:velifer stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America AND (incautus)" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:ega stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America AND (NOT panamensis)" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "peromyscus furvus" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:compactus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (compactus) mappable:1" ; Times: 1
+	Query: "genus:Vulpes specificepithet:velox stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "microtus quasiater" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:nasutus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:canipes stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 2
+	Query: "genus:Antilocapra specificepithet:americana stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "genus:Nyctinomops specificepithet:macrotis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:elator stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "glossophaga morenoi" ; Times: 2
+	Query: "genus:Mephitis specificepithet:macroura stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "genus:Peromyscus specificepithet:truei stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (comanche) mappable:1" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "genus:Myotis specificepithet:austroriparius stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+
+
+End of report.
