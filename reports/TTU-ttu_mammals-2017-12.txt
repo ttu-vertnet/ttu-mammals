@@ -1,0 +1,371 @@
+Report for Institution Code TTU, Resource ttu_mammals
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 328
+Number of records retrieved in searches: 3652
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 11
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 56
+	Country: Unknown ; Times: 47
+	Country: France ; Times: 4
+	Country: United States ; Times: 198
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 5
+	Date: 2017-12-31 ; Times: 8
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 7
+	Date: 2017-12-15 ; Times: 13
+	Date: 2017-12-12 ; Times: 20
+	Date: 2017-12-13 ; Times: 8
+	Date: 2017-12-10 ; Times: 3
+	Date: 2017-12-11 ; Times: 13
+	Date: 2017-12-18 ; Times: 6
+	Date: 2017-12-19 ; Times: 9
+	Date: 2017-12-29 ; Times: 3
+	Date: 2017-12-28 ; Times: 2
+	Date: 2017-12-27 ; Times: 2
+	Date: 2017-12-26 ; Times: 13
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-23 ; Times: 3
+	Date: 2017-12-22 ; Times: 2
+	Date: 2017-12-21 ; Times: 5
+	Date: 2017-12-20 ; Times: 14
+	Date: 2017-12-05 ; Times: 36
+	Date: 2017-12-04 ; Times: 12
+	Date: 2017-12-07 ; Times: 27
+	Date: 2017-12-06 ; Times: 17
+	Date: 2017-12-01 ; Times: 8
+	Date: 2017-12-03 ; Times: 11
+	Date: 2017-12-02 ; Times: 69
+	Date: 2017-12-09 ; Times: 5
+	Date: 2017-12-08 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Didelphis catalognumber:98325 institutioncode:TTU" ; Times: 1
+	Query: "genus:dasypus catalognumber:102293 institutioncode:ttu" ; Times: 1
+	Query: "Akodon montensis" ; Times: 1
+	Query: "Microtus breweri" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;Nevada&#34; mappable:1 hastissue:1" ; Times: 2
+	Query: "genus:Didelphis catalognumber:43179 institutioncode:TTU" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 2
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Williams&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Arizona&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "genus:colomys country:&#34;Kenya&#34;" ; Times: 3
+	Query: "specificepithet:penicillatus genus:Chaetodipus county:&#34;Riverside&#34; year &gt;= 1951 year &lt;= 2017" ; Times: 2
+	Query: "catalognumber:47641" ; Times: 2
+	Query: "sheep creek reservoir" ; Times: 1
+	Query: "genus:Didelphis catalognumber:104137 institutioncode:TTU" ; Times: 1
+	Query: "specificepithet:keaysi genus:Myotis" ; Times: 2
+	Query: "genus:blarina stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "camelidae" ; Times: 1
+	Query: "genus:dasypus catalognumber:107945 institutioncode:ttu" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;carson&#34; stateprovince:&#34;texas&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus hasmass:1" ; Times: 1
+	Query: "13083" ; Times: 1
+	Query: "17521 class:mammalia year &gt;= 1970 year &lt;= 1990" ; Times: 1
+	Query: "pallescens vntype:specimen specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "monodelphis" ; Times: 4
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34; mappable:1 hastissue:1" ; Times: 3
+	Query: "specificepithet:arizonae genus:sigmodon stateprovince:&#34;durango&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus lengthtype:total length haslength:1" ; Times: 2
+	Query: "19403" ; Times: 1
+	Query: "Noctilio albiventris" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;san diego&#34; stateprovince:&#34;california&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "tupaia glis" ; Times: 1
+	Query: "Tatera indica" ; Times: 2
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:hispidus genus:sigmodon stateprovince:&#34;sonora&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Didelphis catalognumber:43178 institutioncode:TTU" ; Times: 1
+	Query: "musonycteris harrisoni" ; Times: 46
+	Query: "Scolomys melanops" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus catalognumber:107945 institutioncode:TTU lengthtype:total length" ; Times: 1
+	Query: "microtus chrotorrhinus mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:dasypus catalognumber:93462 institutioncode:ttu" ; Times: 1
+	Query: "Oxymycterus" ; Times: 1
+	Query: "hastissue:1 Miniopterus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Riverside&#34; stateprovince:&#34;California&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "order:Pilosa country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "specificepithet:Maniculatus genus:Peromyscus locality:San Diego county:&#34;San Diego&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Atascosa&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Didelphis catalognumber:111207 institutioncode:TTU" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Guadalupe&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis levis" ; Times: 7
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:sigmodon stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "110080" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "hidalgo notiosorex mexico" ; Times: 2
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 2
+	Query: "county:&#34;williams&#34; stateprovince:&#34;North Dakota&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:floridanus genus:Podomys OR Peromyscus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "77075" ; Times: 1
+	Query: "Oryzomys couesi aquaticus" ; Times: 1
+	Query: "Spalax leucodon" ; Times: 1
+	Query: "locality:Hudson River" ; Times: 1
+	Query: "specificepithet:merriami genus:Sorex mappable:1" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 11
+	Query: "sciurus aberti" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "32745" ; Times: 1
+	Query: "bruni" ; Times: 1
+	Query: "specificepithet:hispidus genus:sigmodon stateprovince:&#34;coahuila&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Brazos&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "institutioncode:TTU" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "genus:Didelphis catalognumber:97967 institutioncode:TTU" ; Times: 1
+	Query: "genus:dasypus catalognumber:109705 institutioncode:ttu" ; Times: 1
+	Query: "22704" ; Times: 1
+	Query: "catalognumber:86867" ; Times: 1
+	Query: "17521 class:mammalia" ; Times: 1
+	Query: "genus:Didelphis catalognumber:108078 institutioncode:TTU" ; Times: 1
+	Query: "fhsm" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;nevada&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34; continent:North America mappable:1 hastissue:1" ; Times: 2
+	Query: "lemur" ; Times: 1
+	Query: "genus:Peromyscus county:&#34;san diego&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 1970 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "catalognumber:91074" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;okmulgee&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Eira barbara" ; Times: 4
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Snohomish&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "oligoryzomys magellanicus" ; Times: 3
+	Query: "13875" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus locality:mt. country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Wilson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tristis hastissue:1" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Bandera&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "myotis dinellii" ; Times: 2
+	Query: "44483" ; Times: 1
+	Query: "amplexicaudatus genus:Rousettus hastissue:1" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "catalognumber:66653" ; Times: 1
+	Query: "specificepithet:penicillatus class:Mammalia county:&#34;Riverside&#34;" ; Times: 4
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "34420" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "county:&#34;Winkler&#34;" ; Times: 1
+	Query: "Skin-94896" ; Times: 1
+	Query: "Alces" ; Times: 1
+	Query: "genus:sigmodon stateprovince:&#34;zacatecas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Riverside&#34; stateprovince:&#34;California&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Arizona&#34; mappable:1 hastissue:1" ; Times: 3
+	Query: "genus:dasypus catalognumber:111206 institutioncode:ttu" ; Times: 1
+	Query: "lasiurus seminolus vntype:specimen stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Myotis simus" ; Times: 1
+	Query: "genus:Rousettus hastissue:1" ; Times: 4
+	Query: "marquette mammals" ; Times: 2
+	Query: "genus:Peromyscus locality:Albuquerque county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "order:cingulata country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Didelphis catalognumber:107947 institutioncode:TTU" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "alces" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Zapata&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis nigricans caucensis" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Adair&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Tatera" ; Times: 1
+	Query: "44494" ; Times: 1
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "97811" ; Times: 1
+	Query: "hidalgo notiosorex mexico crawfordi" ; Times: 1
+	Query: "specificepithet:keaysi genus:Myotis hastissue:1" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "pine martin" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;texas&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "county:&#34;Ward&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Chiroptera locality:Batopilas stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "LASIURUS SEMINOLUS" ; Times: 4
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;san diego&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "genus:dasypus catalognumber:102287 institutioncode:ttu" ; Times: 1
+	Query: "genus:geomys county:&#34;goliad&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "scolomys melanops" ; Times: 1
+	Query: "catalognumber:39249" ; Times: 2
+	Query: "catalognumber:66763" ; Times: 1
+	Query: "TTU 63542" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;missouri&#34;" ; Times: 2
+	Query: "16622" ; Times: 1
+	Query: "hidalgo notiosorex" ; Times: 1
+	Query: "locality:Cozumel stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "door wisconsin" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:geomys county:&#34;aransas&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Didelphis catalognumber:116358 institutioncode:TTU" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 14
+	Query: "specificepithet:penicillatus genus:Chaetodipus county:&#34;Riverside&#34; year &gt;= 1971 year &lt;= 1990" ; Times: 2
+	Query: "genus:dasypus catalognumber:93459 institutioncode:ttu" ; Times: 1
+	Query: "37061" ; Times: 1
+	Query: "genus:odocoileus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Grimes&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "histiotus laephotis" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "specificepithet:ochrognathus genus:sigmodon country:&#34;mexico&#34;" ; Times: 2
+	Query: "genus:Didelphis catalognumber:107707 institutioncode:TTU" ; Times: 1
+	Query: "32738" ; Times: 1
+	Query: "genus:dasypus catalognumber:102287 institutioncode:TTU" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;bernalillo&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 1970 year &lt;= 2001 mappable:1" ; Times: 2
+	Query: "sorex merriami" ; Times: 2
+	Query: "genus:geomys county:&#34;nueces&#34; stateprovince:&#34;texas&#34;" ; Times: 10
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Minnesota&#34;" ; Times: 2
+	Query: "specificepithet:longimembris genus:Perognathus institutioncode:TTU" ; Times: 1
+	Query: "77705" ; Times: 1
+	Query: "genus:Didelphis catalognumber:82603 institutioncode:TTU" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus institutioncode:TTU mappable:1 hastissue:1" ; Times: 1
+	Query: "marmosops bishopi" ; Times: 1
+	Query: "29809" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus country:&#34;mexico&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;North Dakota&#34; mappable:1 hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 89 (out of 674 download events in this period)
+Total number of records downloaded: 11213
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 65
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 8
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 9
+	Date: 2017-12-19 ; Times: 11
+	Date: 2017-12-28 ; Times: 1
+	Date: 2017-12-27 ; Times: 11
+	Date: 2017-12-26 ; Times: 18
+	Date: 2017-12-02 ; Times: 2
+	Date: 2017-12-20 ; Times: 5
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-04 ; Times: 4
+	Date: 2017-12-14 ; Times: 7
+	Date: 2017-12-06 ; Times: 2
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-31 ; Times: 3
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-08 ; Times: 1
+	Date: 2017-12-15 ; Times: 3
+	Date: 2017-12-18 ; Times: 4
+	Date: 2017-12-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Oecomys roberti" ; Times: 1
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Martes pennanti mappable:1" ; Times: 1
+	Query: "Spermophilus columbianus mappable:1" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 1
+	Query: "scolomys melanops" ; Times: 1
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "marmosops bishopi" ; Times: 2
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Oryzomys couesi aquaticus" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Spermophilus richardsonii mappable:1" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "sorex tundrensis" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "sorex longirostris" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+	Query: "sorex monticolus" ; Times: 2
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "musonycteris harrisoni" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "Myotis simus" ; Times: 1
+	Query: "Scolomys melanops" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "microtus chrotorrhinus mappable:1" ; Times: 1
+	Query: "Lepus americanus mappable:1" ; Times: 1
+	Query: "sorex haydeni" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 1970 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "peromyscus leucopus mappable:1" ; Times: 1
+	Query: "class:Mammalia country:&#34;Democratic Republic of the Congo&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:cingulata country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "genus:didelphis hastissue:1" ; Times: 1
+	Query: "Perognathus flavescens mappable:1" ; Times: 1
+	Query: "Tatera indica" ; Times: 1
+	Query: "Spermophilus lateralis mappable:1" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "peromyscus maniculatus mappable:1" ; Times: 1
+	Query: "sciurus arizonensis" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Spermophilus tridecemlineatus mappable:1" ; Times: 1
+	Query: "specificepithet:keaysi genus:Myotis hastissue:1" ; Times: 1
+	Query: "Odocoileus virginianus mappable:1" ; Times: 1
+	Query: "Perognathus fasciatus mappable:1" ; Times: 1
+	Query: "genus:odocoileus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "nicaragua vntype:specimen" ; Times: 1
+	Query: "hastissue:1 Miniopterus" ; Times: 2
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "sorex merriami" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Microtus townsendii" ; Times: 1
+
+
+End of report.
