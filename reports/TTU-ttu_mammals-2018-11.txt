@@ -1,0 +1,872 @@
+Report for Institution Code TTU, Resource ttu_mammals
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1082
+Number of records retrieved in searches: 20584
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 39
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 57
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 50
+	Country: Mexico ; Times: 83
+	Country: France ; Times: 7
+	Country: United States ; Times: 600
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 5
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 27
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 202
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 24
+	Date: 2018-11-08 ; Times: 22
+	Date: 2018-11-07 ; Times: 116
+	Date: 2018-11-06 ; Times: 95
+	Date: 2018-11-05 ; Times: 45
+	Date: 2018-11-04 ; Times: 24
+	Date: 2018-11-03 ; Times: 39
+	Date: 2018-11-02 ; Times: 26
+	Date: 2018-11-01 ; Times: 44
+	Date: 2018-11-25 ; Times: 23
+	Date: 2018-11-24 ; Times: 53
+	Date: 2018-11-27 ; Times: 9
+	Date: 2018-11-26 ; Times: 140
+	Date: 2018-11-21 ; Times: 19
+	Date: 2018-11-20 ; Times: 7
+	Date: 2018-11-23 ; Times: 9
+	Date: 2018-11-22 ; Times: 11
+	Date: 2018-11-29 ; Times: 63
+	Date: 2018-11-28 ; Times: 17
+	Date: 2018-11-18 ; Times: 19
+	Date: 2018-11-19 ; Times: 15
+	Date: 2018-11-10 ; Times: 11
+	Date: 2018-11-11 ; Times: 33
+	Date: 2018-11-12 ; Times: 23
+	Date: 2018-11-13 ; Times: 9
+	Date: 2018-11-14 ; Times: 22
+	Date: 2018-11-15 ; Times: 21
+	Date: 2018-11-16 ; Times: 12
+	Date: 2018-11-17 ; Times: 9
+	Date: 2018-11-30 ; Times: 122
+
+List of queries that retrieved data from the resource: 
+	Query: "LACM 5851" ; Times: 1
+	Query: "cokendolpher" ; Times: 3
+	Query: "peromyscus eremicus stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:montanus genus:histiotus" ; Times: 2
+	Query: "family:cricetidae AND isfossil:0 AND (snohomish OR everett)" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris minuta " ; Times: 2
+	Query: "vntype:specimen specificepithet:brachyotis genus:cynopterus institutioncode:TTU" ; Times: 1
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "specificepithet:humulis genus:Reithrodontomys" ; Times: 5
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Perognathus flavescens stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "order:chiroptera AND isfossil:0 AND (snohomish OR everett)" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes caraccioli " ; Times: 1
+	Query: "country:Ecuador scientificname:Lichonycteris obscura " ; Times: 3
+	Query: "specificepithet:nuttalli genus:Ochrotomys" ; Times: 8
+	Query: "genus:mephitis stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Neotoma goldmani" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "country:Ecuador scientificname:Hsunycteris thomasi " ; Times: 3
+	Query: "catalognumber:21901 institutioncode:TTU" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Cynomys country:&#34;mexico&#34;" ; Times: 2
+	Query: "Equus burchellii" ; Times: 1
+	Query: "bradypus variegatus" ; Times: 2
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 4
+	Query: "country:Ecuador scientificname:Eptesicus brasiliensis " ; Times: 5
+	Query: "vntype:specimen genus:Cryptotis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "order:chiroptera AND isfossil:0 AND (puget OR sno OR snohomish OR everett)" ; Times: 1
+	Query: "vntype:specimen specificepithet:capaccinii genus:myotis institutioncode:TTU" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 11
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 2
+	Query: "catalognumber:31342 institutioncode:TTU" ; Times: 4
+	Query: "catalognumber:52498 institutioncode:TTU" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus elongatus " ; Times: 2
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Molossus pretiosus" ; Times: 7
+	Query: "centurio senex stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "catalognumber:33519" ; Times: 2
+	Query: "catalognumber:12480" ; Times: 2
+	Query: "Sciurus deppei" ; Times: 3
+	Query: "catalognumber:40082" ; Times: 1
+	Query: "117325" ; Times: 1
+	Query: "choloepus didactylus" ; Times: 1
+	Query: "country:Ecuador scientificname:Tonatia saurophila " ; Times: 9
+	Query: "choeronycteris mexicana vntype:specimen country:&#34;united states&#34; year &gt;= 1960 institutioncode:TTU" ; Times: 1
+	Query: "catalognumber:9059 institutioncode:TTU" ; Times: 2
+	Query: "genus:Peromyscus catalognumber:31127" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34; preparations:skin year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "tcwc" ; Times: 2
+	Query: "Castor Canadensis vntype:specimen hastissue:1" ; Times: 1
+	Query: "ursus americanus vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:CALIFORNICUS genus:MICROTUS county:&#34;los angeles&#34;" ; Times: 1
+	Query: "choeronycteris mexicana vntype:specimen" ; Times: 3
+	Query: "genus:Manis order:Pholidota continent:africa" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "choeronycteris mexicana vntype:specimen year &gt;= 1960 institutioncode:TTU" ; Times: 2
+	Query: "country:Ecuador scientificname:Myotis albescens " ; Times: 2
+	Query: "specificepithet:maculatum genus:Euderma" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 5
+	Query: "notiosorex cockrumi" ; Times: 2
+	Query: "Anoura caudifer" ; Times: 2
+	Query: "molossidae lsu" ; Times: 2
+	Query: "country:Ecuador scientificname:Oecomys bicolor " ; Times: 4
+	Query: "pecari tajacu" ; Times: 6
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "28101" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 64
+	Query: "Capra hircus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus discolor " ; Times: 3
+	Query: "specificepithet:novemcinctus genus:Dasypus year &gt;= 1947 year &lt;= 1957" ; Times: 1
+	Query: "TTU 108180" ; Times: 1
+	Query: "Sylvilagus aquaticus vntype:specimen stateprovince:&#34;texas&#34; hastissue:1" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus year &gt;= 1991 year &lt;= 2001" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 4
+	Query: "FMNH 4046" ; Times: 1
+	Query: "specificepithet:mehelyi genus:Rhinolophus" ; Times: 2
+	Query: "genus:taxidea country:&#34;mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Eptesicus innoxius " ; Times: 3
+	Query: "catalognumber:24190 institutioncode:TTU" ; Times: 2
+	Query: "gbifdatasetid:854f70cc-55e3-4af2-9417-0f47d6c7902d" ; Times: 2
+	Query: "Stenoderma rufum" ; Times: 2
+	Query: "hastissue:1 Procyon lotor" ; Times: 6
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchophylla robusta " ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 2
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 9
+	Query: "catalognumber:60909 institutioncode:TTU" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 2
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Reithrodontomys megalotis stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:ferrumequinum genus:Rhinolophus institutioncode:TTU" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+	Query: "Sturnira thomasi" ; Times: 2
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 4
+	Query: "catalognumber:40365" ; Times: 1
+	Query: "catalognumber:23628" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 2
+	Query: "catalognumber:(11234 OR 123532)" ; Times: 1
+	Query: "specificepithet:crawfordi genus:notiosorex country:&#34;mexico&#34;" ; Times: 2
+	Query: "Chiroderma villosum" ; Times: 2
+	Query: "specificepithet:goeldii genus:Callimico mappable:1" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 4
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 2
+	Query: "catalognumber:43627 institutioncode:TTU" ; Times: 1
+	Query: "catalognumber:21612 institutioncode:TTU" ; Times: 3
+	Query: "Saimiri boliviensis" ; Times: 1
+	Query: "preparations:Tissue hastissue:1 Procyon lotor" ; Times: 3
+	Query: "Callimico goeldii" ; Times: 1
+	Query: "Marmosa robinsoni" ; Times: 5
+	Query: "catalognumber:36433 institutioncode:TTU" ; Times: 2
+	Query: "locality:Chinati county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:39134 institutioncode:TTU" ; Times: 1
+	Query: "eptesicus innoxius" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "stateprovince:&#34;illinois&#34; specificepithet:bursarius genus:geomys year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "catalognumber:36152 institutioncode:TTU" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "country:Ecuador scientificname:Lophostoma brasiliense " ; Times: 3
+	Query: "28134" ; Times: 1
+	Query: "ursus americanus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "choeronycteris mexicana vntype:specimen year &gt;= 1960 hastissue:1" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "specificepithet:variegatoides genus:Sciurus country:&#34;Nicaragua&#34; institutioncode:TTU" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "country:Ecuador scientificname:Rhinophylla alethina " ; Times: 2
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina" ; Times: 4
+	Query: "genus:Liomys specificepithet:salvini " ; Times: 4
+	Query: "peromyscus maniculatus california orange county" ; Times: 1
+	Query: "canadensis texas" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris hirsuta " ; Times: 4
+	Query: "catalognumber:70363 institutioncode:TTU" ; Times: 3
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Noctilio leporinus " ; Times: 4
+	Query: "Sylvilagus aquaticus vntype:specimen stateprovince:&#34;Texas&#34; hastissue:1" ; Times: 1
+	Query: "73207" ; Times: 1
+	Query: "priodontes" ; Times: 4
+	Query: "country:Ecuador scientificname:Thomasomys paramorum " ; Times: 4
+	Query: "country:&#34;Mexico&#34; Neotoma goldmani Nuevo Leon" ; Times: 1
+	Query: "catalognumber:12194 institutioncode:TTU" ; Times: 2
+	Query: "country:Ecuador scientificname:Thyroptera tricolor " ; Times: 4
+	Query: "country:Ecuador scientificname:Monodelphis adusta " ; Times: 5
+	Query: "country:Ecuador scientificname:Hsunycteris cadenai " ; Times: 3
+	Query: "catalognumber:11112" ; Times: 1
+	Query: "genus:Puma country:&#34;México&#34;" ; Times: 1
+	Query: "Vampyressa thyone" ; Times: 1
+	Query: "catalognumber:36138 institutioncode:TTU" ; Times: 2
+	Query: "ISU" ; Times: 1
+	Query: "27647" ; Times: 1
+	Query: "catalognumber:13127 institutioncode:TTU" ; Times: 1
+	Query: "oryzomys melanotis" ; Times: 1
+	Query: "choeronycteris mexicana vntype:specimen country:&#34;united states&#34; institutioncode:TTU" ; Times: 1
+	Query: "catalognumber:24195 institutioncode:TTU" ; Times: 1
+	Query: "catalognumber:8994 institutioncode:TTU" ; Times: 2
+	Query: "specificepithet:SUBFLAVUS order:CHIROPTERA stateprovince:&#34;TENNESSEE&#34;" ; Times: 2
+	Query: "genus:Cynomys country:&#34;mexico&#34;" ; Times: 1
+	Query: "lophostoma brasiliense" ; Times: 1
+	Query: "catalognumber:51156 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 4
+	Query: "Romerolagus diazi" ; Times: 2
+	Query: "catalognumber:63593 institutioncode:TTU" ; Times: 1
+	Query: "procyon cancrivorus" ; Times: 1
+	Query: "90555" ; Times: 1
+	Query: "Rhinolophus ferrumequinum" ; Times: 1
+	Query: "45657" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 2
+	Query: "Rhogeessa tumida" ; Times: 1
+	Query: "antilocapra americana" ; Times: 1
+	Query: "72752" ; Times: 1
+	Query: "specificepithet:montanus genus:Reithrodontomys" ; Times: 17
+	Query: "country:Ecuador scientificname:Chiroderma trinitatum " ; Times: 5
+	Query: "Oryzomys melanotis" ; Times: 2
+	Query: "specificepithet:sungorus" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "Erinaceus europaeus" ; Times: 1
+	Query: "catalognumber:83475" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira erythromos " ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "mephitis mephitis" ; Times: 1
+	Query: "country:Ecuador scientificname:Enchisthenes hartii " ; Times: 2
+	Query: "Microtus ochrogaster stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Akodon molinae" ; Times: 2
+	Query: "23341" ; Times: 1
+	Query: "hastissue:1 Taxidea taxus" ; Times: 2
+	Query: "Lonchophylla hesperia" ; Times: 32
+	Query: "catalognumber:9809 institutioncode:TTU" ; Times: 2
+	Query: "Choeronycteris mexicana" ; Times: 4
+	Query: "country:Ecuador scientificname:Rhogeessa velilla " ; Times: 5
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "country:Ecuador scientificname:Sigmodontomys alfari " ; Times: 3
+	Query: "country:Ecuador scientificname:Thyroptera discifera " ; Times: 2
+	Query: "mazama gouazoubira" ; Times: 1
+	Query: "order:Rodentia locality:Arizona" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus aequatorialis " ; Times: 3
+	Query: "Eptesicus innoxius" ; Times: 35
+	Query: "75408" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyressa thyone " ; Times: 4
+	Query: "family:Didelphidae country:&#34;Trinidad&#34;" ; Times: 1
+	Query: "country:&#34;Mexico&#34; Neotoma goldmani" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 2
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "auliscomys micropus" ; Times: 1
+	Query: "Procyon cancrivorus year" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 1
+	Query: "Eptesicus wetmorei" ; Times: 1
+	Query: "microcavia" ; Times: 2
+	Query: "specificepithet:humulis genus:Reithrodontomys year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 4
+	Query: "genus:Spermophilus county:&#34;Presidio&#34; institutioncode:TTU" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira magna " ; Times: 4
+	Query: "Peromyscus locality:Channel NOT Alaska" ; Times: 1
+	Query: "lontra canadensis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma country:&#34;Mexico&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 4
+	Query: "genus:peromyscus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 9
+	Query: "Lonchophylla robusta" ; Times: 1
+	Query: "family:vespertilionidae continent:North America institutioncode:TTU" ; Times: 1
+	Query: "genus:Puma haslifestage:1 hassex:1 haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus chocoensis " ; Times: 3
+	Query: "country:Ecuador scientificname:Sturnira luisi " ; Times: 2
+	Query: "country:Ecuador scientificname:Mesophylla macconnelli " ; Times: 4
+	Query: "country:Ecuador scientificname:Platyrrhinus vittatus " ; Times: 4
+	Query: "country:Ecuador scientificname:Macrophyllum macrophyllum " ; Times: 1
+	Query: "27770" ; Times: 1
+	Query: "Antilocapra americana americana" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus lituratus " ; Times: 6
+	Query: "35923" ; Times: 1
+	Query: "genus:Reithrodontomys locality:San Clemente" ; Times: 1
+	Query: "country:Ecuador scientificname:Diaemus youngi " ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys" ; Times: 4
+	Query: "Dasypus Novemcinctus" ; Times: 1
+	Query: "catalognumber:45037 institutioncode:TTU" ; Times: 1
+	Query: "Tylomys nudicaudus" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "catalognumber:8892 institutioncode:TTU" ; Times: 2
+	Query: "catalognumber:59266" ; Times: 1
+	Query: "Caluromys philander" ; Times: 1
+	Query: "13992" ; Times: 1
+	Query: "MVZ 4678" ; Times: 2
+	Query: "vntype:specimen specificepithet:myotis genus:myotis institutioncode:TTU" ; Times: 1
+	Query: "catalognumber:26475 institutioncode:TTU" ; Times: 2
+	Query: "country:Ecuador scientificname:Lasiurus blossevillii " ; Times: 6
+	Query: "Peromyscus yucatanicus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 10
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34; preparations:skin year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 3
+	Query: "genus:centurio stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "diphylla ecaudata" ; Times: 2
+	Query: "country:Ecuador scientificname:Rhinophylla pumilio " ; Times: 2
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus rosenbergi " ; Times: 2
+	Query: "specificepithet:alces genus:alces country:&#34;united states&#34;" ; Times: 1
+	Query: "country:&#34;Mexico&#34; Chaetodipus nelsoni Nuevo Leon" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "mazama americana" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira ludovici " ; Times: 3
+	Query: "Eptesicus guadeloupensis" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "specificepithet:castanops genus:cratogeomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale year &gt;= 2000" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 3
+	Query: "class:Mammalia continent:Africa" ; Times: 2
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 2
+	Query: "Micronycteris hirsuta" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "45122" ; Times: 2
+	Query: "Sylvilagus aquaticus vntype:specimen stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "country:&#34;Mexico&#34; reithrodontomys megalotis Nuevo Leon" ; Times: 1
+	Query: "catalognumber:22772 institutioncode:TTU" ; Times: 2
+	Query: "Aotus trivirgatus" ; Times: 1
+	Query: "catalognumber:60897 institutioncode:TTU" ; Times: 1
+	Query: "catalognumber:63627 institutioncode:TTU" ; Times: 1
+	Query: "genus:didelphis country:&#34;mexico&#34;" ; Times: 1
+	Query: "oryzomys rostratus" ; Times: 1
+	Query: "amnh mammals" ; Times: 1
+	Query: "specificepithet:nasutus genus:Peromyscus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "catalognumber:13137 institutioncode:TTU" ; Times: 1
+	Query: "Vulpes velox" ; Times: 8
+	Query: "genus:priodontes country:&#34;united states&#34;" ; Times: 1
+	Query: "catalognumber:22761 institutioncode:TTU" ; Times: 2
+	Query: "specificepithet:soricina genus:glossophaga stateprovince:&#34;nayarit&#34;" ; Times: 2
+	Query: "leslie canyon national wildlife" ; Times: 1
+	Query: "lepus alleni" ; Times: 4
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchorhina aurita " ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis simus " ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus year &gt;= 1969 year &lt;= 1979" ; Times: 1
+	Query: "catalognumber:36125 institutioncode:TTU" ; Times: 1
+	Query: "eira barbara" ; Times: 2
+	Query: "Ardops nichollsi annectens" ; Times: 1
+	Query: "ursus americanus vntype:specimen stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:daubentonii genus:myotis institutioncode:TTU" ; Times: 1
+	Query: "10760" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "TTU 9519" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "Geomys attwateri" ; Times: 1
+	Query: "Nycteris tragata" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 28
+	Query: "stateprovince:&#34;texas&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 2
+	Query: "dasypus novemcinctus" ; Times: 33
+	Query: "country:Ecuador scientificname:Trinycteris nicefori " ; Times: 1
+	Query: "choeronycteris mexicana vntype:specimen institutioncode:TTU hastissue:1" ; Times: 1
+	Query: "89364" ; Times: 1
+	Query: "catalognumber:9806 institutioncode:TTU" ; Times: 2
+	Query: "class:Mammalia country:&#34;Cameroon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:35696 institutioncode:TTU" ; Times: 1
+	Query: "specificepithet:virginiana genus:didelphis country:&#34;mexico&#34;" ; Times: 1
+	Query: "locality:Tingo " ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 3
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "canis rufus" ; Times: 20
+	Query: "genus:dipodomys catalognumber:4445" ; Times: 1
+	Query: "Promops centralis" ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus brachycephalus " ; Times: 1
+	Query: "diclidurus" ; Times: 1
+	Query: "country:Ecuador scientificname:Lophostoma silvicolum " ; Times: 3
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;mohave&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "62637" ; Times: 1
+	Query: "novemcinctus" ; Times: 1
+	Query: "Oryzomys yunganus" ; Times: 1
+	Query: "specificepithet:euryale genus:Rhinolophus institutioncode:TTU" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllotis haggardi " ; Times: 3
+	Query: "catalognumber:39124 institutioncode:TTU" ; Times: 1
+	Query: "genus:microdipodops county:&#34;Lincoln&#34; stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Vampyrum spectrum " ; Times: 3
+	Query: "vntype:specimen genus:Cryptotis institutioncode:TTU basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "UMMZ bairdii" ; Times: 1
+	Query: "Myotis dominicensis" ; Times: 1
+	Query: "catalognumber:22456 institutioncode:TTU" ; Times: 2
+	Query: "country:Ecuador scientificname:Lonchophylla concava " ; Times: 2
+	Query: "genus:Peromyscus catalognumber:31148" ; Times: 1
+	Query: "specificepithet:hylophaga genus:blarina" ; Times: 16
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 6
+	Query: "Tetradactylus tetradactylus" ; Times: 2
+	Query: "family:cricetidae AND isfossil:0 AND (puget OR sno OR snohomish OR everett)" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 4
+	Query: "plecotus rafinesquii" ; Times: 1
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 3
+	Query: "choeronycteris mexicana vntype:specimen year &gt;= 1980" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes major " ; Times: 2
+	Query: "TTU 9326" ; Times: 1
+	Query: "Rhogeessa aeneus" ; Times: 1
+	Query: "TTU 9322" ; Times: 5
+	Query: "neotoma goldmani stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus year &gt;= 1980 year &lt;= 1990" ; Times: 2
+	Query: "Castor Canadensis vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:montanus genus:Reithrodontomys year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "suidae" ; Times: 1
+	Query: "country:Ecuador scientificname:Chrotopterus auritus " ; Times: 1
+	Query: "country:Ecuador scientificname:Peropteryx kappleri " ; Times: 5
+	Query: "Myotis riparius" ; Times: 5
+	Query: "country:Ecuador scientificname:Uroderma magnirostrum " ; Times: 2
+	Query: "Lophostoma occidentalis" ; Times: 19
+	Query: "specificepithet:myotis genus:myotis institutioncode:TTU" ; Times: 1
+	Query: "Peromyscus locality:Channel NOT Alaska NOT British NOT Louisiana" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus matapalensis " ; Times: 3
+	Query: "country:Ecuador scientificname:Trachops cirrhosus " ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus dorsalis " ; Times: 3
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "33143" ; Times: 1
+	Query: "vntype:specimen specificepithet:savii genus:hypsugo institutioncode:TTU" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 4
+	Query: "cuniculus paca" ; Times: 1
+	Query: "country:Ecuador scientificname:Lophostoma occidentalis " ; Times: 3
+	Query: "specificepithet:velox genus:Vulpes family:Canidae" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes family:Canidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 2
+	Query: "choeronycteris mexicana vntype:specimen country:&#34;united states&#34; year &gt;= 1960" ; Times: 1
+	Query: "15795" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "genus:MICROTUS catalognumber:86854" ; Times: 1
+	Query: "Tamiasciurus fremonti" ; Times: 5
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus fraterculus " ; Times: 2
+	Query: "specificepithet:diazi genus:romerolagus" ; Times: 1
+	Query: "eonycteris major" ; Times: 1
+	Query: "alces alces" ; Times: 3
+	Query: "choeronycteris mexicana vntype:specimen hastissue:1" ; Times: 1
+	Query: "choeronycteris" ; Times: 2
+	Query: "class:mammalia catalognumber:84923 institutioncode:TTU" ; Times: 3
+	Query: "country:&#34;Mexico&#34; Peromyscus maniculatus Nuevo Leon" ; Times: 1
+	Query: "44392" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus glaucus " ; Times: 3
+	Query: "Peromyscus locality:Channel NOT Alaska NOT British" ; Times: 1
+	Query: "specificepithet:Soricina genus:Glossophaga institutioncode:TTU" ; Times: 2
+	Query: "89692" ; Times: 1
+	Query: "Ursus americanus americanus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Rhogeessa velilla" ; Times: 10
+	Query: "specificepithet:novemcinctus genus:Dasypus year &gt;= 1958 year &lt;= 1968" ; Times: 1
+	Query: "catalognumber:2592" ; Times: 1
+	Query: "Platyrrhinus matapalensis" ; Times: 42
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus nigellus " ; Times: 4
+	Query: "Choloepus didactylus" ; Times: 2
+	Query: "catalognumber:23638" ; Times: 2
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Cratogeomys 1946" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 5
+	Query: "Peromyscus melanophrys" ; Times: 1
+	Query: "catalognumber:86855" ; Times: 1
+	Query: "locality:ventana " ; Times: 1
+	Query: "80383" ; Times: 2
+	Query: "specificepithet:tajacu genus:pecari country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:89597 genus:Peromyscus" ; Times: 1
+	Query: "paige" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 424 (out of 1719 download events in this period)
+Total number of records downloaded: 143088
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 35
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 254
+	Country: France ; Times: 8
+	Country: United States ; Times: 118
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 15
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 17
+	Date: 2018-11-06 ; Times: 19
+	Date: 2018-11-05 ; Times: 31
+	Date: 2018-11-04 ; Times: 4
+	Date: 2018-11-03 ; Times: 4
+	Date: 2018-11-02 ; Times: 3
+	Date: 2018-11-01 ; Times: 6
+	Date: 2018-11-24 ; Times: 3
+	Date: 2018-11-27 ; Times: 6
+	Date: 2018-11-26 ; Times: 36
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-29 ; Times: 18
+	Date: 2018-11-28 ; Times: 2
+	Date: 2018-11-18 ; Times: 5
+	Date: 2018-11-19 ; Times: 1
+	Date: 2018-11-10 ; Times: 4
+	Date: 2018-11-11 ; Times: 12
+	Date: 2018-11-12 ; Times: 26
+	Date: 2018-11-13 ; Times: 16
+	Date: 2018-11-14 ; Times: 63
+	Date: 2018-11-15 ; Times: 122
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:nudicaudus genus:Tylomys" ; Times: 1
+	Query: "genus:Tamandua mexicana" ; Times: 1
+	Query: "tursiops truncatus" ; Times: 4
+	Query: "specificepithet:couesi genus:Oryzomys" ; Times: 1
+	Query: "genus:Artibeus intermedius" ; Times: 2
+	Query: "genus:Panthera onca" ; Times: 1
+	Query: "genus:Chiroderma villosum" ; Times: 2
+	Query: "genus:Didelphis marsupialis" ; Times: 2
+	Query: "family:felidae continent:north america haslength:1" ; Times: 1
+	Query: "specificepithet:rostratus genus:Oryzomys" ; Times: 1
+	Query: "genus:Nyctinomops laticaudatus" ; Times: 1
+	Query: "genus:Myotis nigricans" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "genus:marmota specificepithet:caligata" ; Times: 1
+	Query: "genus:Eira barbara" ; Times: 1
+	Query: "lontra canadensis" ; Times: 3
+	Query: "panthera onca" ; Times: 3
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "genus:Saccopteryx bilineata" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "specificepithet:macrotis genus:Peropteryx" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Cynomys country:&#34;mexico&#34;" ; Times: 2
+	Query: "bradypus variegatus" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "specificepithet:flavus genus:Potos" ; Times: 1
+	Query: "vntype:specimen genus:Cryptotis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:personatus genus:Pteronotus" ; Times: 1
+	Query: "genus:Eumops bonariensis" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "specificepithet:deppei genus:Sciurus" ; Times: 1
+	Query: "genus:Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:centralis genus:Promops" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "genus:Diclidurus albus" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 2
+	Query: "specificepithet:paca genus:Cuniculus" ; Times: 1
+	Query: "genus:Myotis keaysi" ; Times: 1
+	Query: "genus:Ototylomys phyllotis" ; Times: 1
+	Query: "specificepithet:laticaudatus genus:Nyctinomops" ; Times: 1
+	Query: "genus:Urocyon cinereoargenteus" ; Times: 1
+	Query: "genus:Lasiurus blossevillii" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "genus:Eumops underwoodi" ; Times: 1
+	Query: "specificepithet:davyi genus:Pteronotus" ; Times: 1
+	Query: "genus:Lophostoma brasiliense" ; Times: 1
+	Query: "Procyon lotor" ; Times: 2
+	Query: "specificepithet:punctata genus:Dasyprocta" ; Times: 1
+	Query: "genus:Mustela frenata" ; Times: 1
+	Query: "choloepus didactylus" ; Times: 1
+	Query: "genus:puma" ; Times: 1
+	Query: "specificepithet:tajacu genus:Pecari" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Castor Canadensis vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:Sigmodon hispidus" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma" ; Times: 1
+	Query: "genus:Heteromys gaumeri" ; Times: 1
+	Query: "notiosorex cockrumi" ; Times: 1
+	Query: "order:CHIROPTERA country:&#34;MEXICO&#34; continent:AMERICA" ; Times: 3
+	Query: "Neotoma stephensi" ; Times: 1
+	Query: "genus:Mimon crenulatum" ; Times: 1
+	Query: "pecari tajacu" ; Times: 2
+	Query: "Chaetodipus nelsoni" ; Times: 2
+	Query: "genus:Dasyprocta punctata" ; Times: 2
+	Query: "genus:Puma concolor" ; Times: 2
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "genus:Carollia sowelli" ; Times: 2
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "island specificepithet:maniculatus genus:peromyscus" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "Lepus californicus californicus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:melanotis genus:Oryzomys" ; Times: 1
+	Query: "genus:Rhogeessa parvula" ; Times: 1
+	Query: "genus:Eumops glaucinus" ; Times: 1
+	Query: "specificepithet:elegans genus:Myotis" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 2
+	Query: "genus:Conepatus semistriatus" ; Times: 2
+	Query: "specificepithet:mexicana genus:Marmosa" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "specificepithet:mexicana genus:Tamandua" ; Times: 1
+	Query: "reithrodontomys humulis" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus americanus" ; Times: 1
+	Query: "specificepithet:cirrhosus genus:Trachops" ; Times: 1
+	Query: "specificepithet:canescens genus:Tlacuatzin" ; Times: 1
+	Query: "procyon lotor" ; Times: 3
+	Query: "genus:puma haslength:1" ; Times: 2
+	Query: "Tamias minimus" ; Times: 1
+	Query: "specificepithet:glaucinus genus:Eumops" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "genus:Dasypus novemcinctus" ; Times: 2
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "genus:Diphylla ecaudata" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+	Query: "Sturnira thomasi" ; Times: 1
+	Query: "specificepithet:naso genus:Rhynchonycteris" ; Times: 1
+	Query: "specificepithet:auripendulus genus:Eumops" ; Times: 1
+	Query: "genus:Centurio senex" ; Times: 2
+	Query: "genus:Didelphis virginiana" ; Times: 1
+	Query: "genus:Orthogeomys hispidus" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "specificepithet:nigricans genus:Myotis" ; Times: 1
+	Query: "specificepithet:helleri genus:Platyrrhinus" ; Times: 1
+	Query: "specificepithet:barbara genus:Eira" ; Times: 1
+	Query: "&#34;neotoma micropus&#34;" ; Times: 1
+	Query: "Lepus californicus" ; Times: 2
+	Query: "specificepithet:kappleri genus:Peropteryx" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "dasyprocta fuliginosa" ; Times: 1
+	Query: "specificepithet:americana genus:Mazama" ; Times: 1
+	Query: "Saimiri boliviensis" ; Times: 1
+	Query: "preparations:Tissue hastissue:1 Procyon lotor" ; Times: 1
+	Query: "Callimico goeldii" ; Times: 1
+	Query: "specificepithet:albus genus:Diclidurus" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Sorex minutus" ; Times: 1
+	Query: "locality:Chinati county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "stateprovince:&#34;illinois&#34; specificepithet:bursarius genus:geomys year &gt;= 1970 year &lt;= 2015" ; Times: 3
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "genus:Diaemus youngi" ; Times: 2
+	Query: "Chaetodipus baileyi" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "genus:Carollia perspicillata" ; Times: 2
+	Query: "genus:Macrotus waterhousii" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "Geomys attwateri" ; Times: 1
+	Query: "Oligoryzomys fulvescens" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "specificepithet:rotundus genus:Desmodus" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga year &gt;= 1950 year &lt;= 2018" ; Times: 2
+	Query: "specificepithet:gaumeri genus:Heteromys" ; Times: 1
+	Query: "Ursus americanus americanus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 2
+	Query: "dasypus novemcinctus" ; Times: 5
+	Query: "genus:Trachops cirrhosus" ; Times: 1
+	Query: "genus:Tlacuatzin canescens" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "reithrodontomys montanus" ; Times: 1
+	Query: "Sorex araneus" ; Times: 1
+	Query: "Vampyressa thyone" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:molossus genus:Molossus" ; Times: 1
+	Query: "oryzomys melanotis" ; Times: 1
+	Query: "genus:Oryzomys couesi" ; Times: 1
+	Query: "genus:Platyrrhinus helleri" ; Times: 1
+	Query: "Saccopteryx bilineata" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "specificepithet:desmarestianus genus:Heteromys" ; Times: 1
+	Query: "procyon cancrivorus" ; Times: 1
+	Query: "specificepithet:thyone genus:Vampyressa" ; Times: 1
+	Query: "genus:Caluromys derbianus" ; Times: 2
+	Query: "genus:Molossus rufus" ; Times: 1
+	Query: "genus:Molossus molossus" ; Times: 1
+	Query: "genus:Pecari tajacu" ; Times: 1
+	Query: "genus:Heteromys desmarestianus" ; Times: 1
+	Query: "Rhogeessa tumida" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "antilocapra americana" ; Times: 1
+	Query: "platyrrhinus helleri" ; Times: 1
+	Query: "Erinaceus europaeus" ; Times: 1
+	Query: "genus:Philander opossum" ; Times: 1
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "specificepithet:parvula genus:Rhogeessa" ; Times: 1
+	Query: "Lonchophylla hesperia" ; Times: 1
+	Query: "Castor Canadensis" ; Times: 1
+	Query: "specificepithet:crenulatum genus:Mimon" ; Times: 1
+	Query: "specificepithet:ega genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:harrisii genus:Ammospermophilus" ; Times: 1
+	Query: "mazama gouazoubira" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "genus:Vampyressa thyone" ; Times: 1
+	Query: "Eptesicus innoxius" ; Times: 2
+	Query: "lepus californicus" ; Times: 1
+	Query: "genus:Pteronotus davyi" ; Times: 1
+	Query: "family:Didelphidae country:&#34;Trinidad&#34;" ; Times: 1
+	Query: "genus:Natalus mexicanus" ; Times: 1
+	Query: "specificepithet:schmidtorum genus:Micronycteris" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 2
+	Query: "specificepithet:caligata genus:Marmota basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Uroderma bilobatum" ; Times: 1
+	Query: "Platyrrhinus matapalensis" ; Times: 2
+	Query: "microcavia" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "genus:Vampyrum spectrum" ; Times: 1
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "Natalus mexicanus" ; Times: 1
+	Query: "specificepithet:amplus genus:Perognathus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:yucatanicus genus:Peromyscus" ; Times: 1
+	Query: "genus:Rhogeessa tumida" ; Times: 1
+	Query: "lontra canadensis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:keaysi genus:Myotis" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Lasiurus intermedius" ; Times: 1
+	Query: "genus:Uroderma bilobatum" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "genus:Potos flavus" ; Times: 1
+	Query: "genus:Peropteryx macrotis" ; Times: 1
+	Query: "family:vespertilionidae continent:North America institutioncode:TTU" ; Times: 1
+	Query: "genus:Noctilio leporinus" ; Times: 1
+	Query: "genus:Chrotopterus auritus" ; Times: 2
+	Query: "specificepithet:leporinus genus:Noctilio" ; Times: 1
+	Query: "genus:Peropteryx kappleri" ; Times: 1
+	Query: "genus:Oryzomys melanotis" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 3
+	Query: "specificepithet:spectrum genus:Vampyrum" ; Times: 1
+	Query: "genus:Peromyscus yucatanicus" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "Caluromys philander" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "specificepithet:lilium genus:Sturnira" ; Times: 1
+	Query: "genus:Sciurus deppei" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Chaetodipus californicus" ; Times: 2
+	Query: "genus:Mormoops megalophylla" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx country:&#34;Mexico&#34; (lynx rufus)" ; Times: 1
+	Query: "genus:Peromyscus leucopus" ; Times: 1
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "genus:Rhogeessa aeneus" ; Times: 1
+	Query: "genus:Pteronotus personatus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "genus:Procyon lotor" ; Times: 1
+	Query: "Eptesicus guadeloupensis" ; Times: 1
+	Query: "genus:Marmosa mexicana" ; Times: 1
+	Query: "specificepithet:underwoodi genus:Eumops" ; Times: 1
+	Query: "specificepithet:castanops genus:cratogeomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Myotis elegans" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "genus:Sylvilagus brasiliensis" ; Times: 1
+	Query: "specificepithet:microtis genus:Micronycteris" ; Times: 1
+	Query: "Micronycteris hirsuta" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "specificepithet:soricina genus:Glossophaga" ; Times: 1
+	Query: "specificepithet:opossum genus:Philander" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "genus:Eumops auripendulus" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "specificepithet:aeneus genus:Rhogeessa" ; Times: 1
+	Query: "genus:Tylomys nudicaudus" ; Times: 1
+	Query: "oryzomys rostratus" ; Times: 1
+	Query: "Vulpes velox" ; Times: 2
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga stateprovince:&#34;nayarit&#34;" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "genus:Tadarida brasiliensis" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 2
+	Query: "Chaetodipus eremicus" ; Times: 1
+	Query: "specificepithet:bonariensis genus:Eumops" ; Times: 1
+	Query: "genus:Canis latrans" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "genus:Ateles geoffroyi" ; Times: 2
+	Query: "genus:Sturnira lilium" ; Times: 1
+	Query: "specificepithet:tumida genus:Rhogeessa" ; Times: 1
+	Query: "genus:Oligoryzomys fulvescens" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Ardops nichollsi annectens" ; Times: 1
+	Query: "specificepithet:hispidus genus:Orthogeomys" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 2
+	Query: "genus:Artibeus lituratus" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga" ; Times: 2
+	Query: "genus:Cuniculus paca" ; Times: 4
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "specificepithet:waterhousii genus:Macrotus" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "genus:Puma country:&#34;México&#34;" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "specificepithet:virginiana genus:didelphis country:&#34;mexico&#34;" ; Times: 1
+	Query: "Mammals (California)" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "genus:Glossophaga soricina" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "canis rufus" ; Times: 3
+	Query: "specificepithet:bilobatum genus:Uroderma" ; Times: 1
+	Query: "genus:Nasua narica" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Ototylomys" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Myotis dominicensis" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "genus:Desmodus rotundus" ; Times: 2
+	Query: "vulpes velox" ; Times: 2
+	Query: "Chaetodipus fallax" ; Times: 1
+	Query: "genus:Mazama americana" ; Times: 1
+	Query: "Rhogeessa velilla" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "vntype:specimen specificepithet:crinitus genus:Peromyscus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Puma hassex:1" ; Times: 1
+	Query: "genus:Promops centralis" ; Times: 1
+	Query: "Lophostoma occidentalis" ; Times: 1
+	Query: "Chiroderma villosum" ; Times: 1
+	Query: "genus:Lasiurus ega" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "specificepithet:youngi genus:Diaemus" ; Times: 1
+	Query: "specificepithet:furinalis genus:Eptesicus" ; Times: 1
+	Query: "genus:Eptesicus furinalis" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "genus:Sylvilagus floridanus" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:brasiliense genus:Lophostoma" ; Times: 1
+	Query: "genus:Lonchorhina aurita" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 1
+	Query: "genus:Cyclopes didactylus" ; Times: 2
+	Query: "cuniculus paca" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34; NOT (magister)" ; Times: 1
+	Query: "genus:Rhynchonycteris naso" ; Times: 1
+	Query: "genus:Leopardus pardalis" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "specificepithet:intermedius genus:Chaetodipus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "choeronycteris" ; Times: 1
+	Query: "procyon" ; Times: 3
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "genus:Pteronotus parnellii" ; Times: 1
+	Query: "leptonycteris curasoae" ; Times: 1
+	Query: "genus:Micronycteris microtis" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Sylvilagus" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Oligoryzomys" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Aotus trivirgatus" ; Times: 1
+	Query: "specificepithet:rufus genus:Molossus" ; Times: 1
+	Query: "specificepithet:megalophylla genus:Mormoops" ; Times: 1
+	Query: "genus:Artibeus jamaicensis" ; Times: 2
+	Query: "specificepithet:didactylus genus:Cyclopes" ; Times: 1
+	Query: "genus:Micronycteris schmidtorum" ; Times: 1
+	Query: "specificepithet:tajacu genus:pecari country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Molossus aztecus" ; Times: 1
+
+
+End of report.
