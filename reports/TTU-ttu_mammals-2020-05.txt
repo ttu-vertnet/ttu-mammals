@@ -1,0 +1,711 @@
+Report for Institution Code TTU, Resource ttu_mammals
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 919
+Number of records retrieved in searches: 21369
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 81
+	Country: Ireland ; Times: 14
+	Country: Australia ; Times: 3
+	Country: Honduras ; Times: 7
+	Country: Peru ; Times: 9
+	Country: Indonesia ; Times: 1
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 759
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 44
+	Date: 2020-05-24 ; Times: 15
+	Date: 2020-05-27 ; Times: 72
+	Date: 2020-05-26 ; Times: 44
+	Date: 2020-05-21 ; Times: 15
+	Date: 2020-05-20 ; Times: 3
+	Date: 2020-05-23 ; Times: 10
+	Date: 2020-05-22 ; Times: 32
+	Date: 2020-05-29 ; Times: 42
+	Date: 2020-05-28 ; Times: 26
+	Date: 2020-05-18 ; Times: 171
+	Date: 2020-05-19 ; Times: 22
+	Date: 2020-05-10 ; Times: 19
+	Date: 2020-05-11 ; Times: 20
+	Date: 2020-05-12 ; Times: 17
+	Date: 2020-05-13 ; Times: 36
+	Date: 2020-05-14 ; Times: 69
+	Date: 2020-05-15 ; Times: 17
+	Date: 2020-05-16 ; Times: 5
+	Date: 2020-05-17 ; Times: 40
+	Date: 2020-05-30 ; Times: 8
+	Date: 2020-05-31 ; Times: 5
+	Date: 2020-05-09 ; Times: 4
+	Date: 2020-05-08 ; Times: 31
+	Date: 2020-05-07 ; Times: 42
+	Date: 2020-05-06 ; Times: 41
+	Date: 2020-05-05 ; Times: 3
+	Date: 2020-05-04 ; Times: 17
+	Date: 2020-05-03 ; Times: 4
+	Date: 2020-05-02 ; Times: 13
+	Date: 2020-05-01 ; Times: 32
+
+List of queries that retrieved data from the resource: 
+	Query: "679326" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Microtus mexicanus guadalupensis locality:blue ridge county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 1
+	Query: "KUNHM 18001" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Peromyscus comanche locality:quitaque county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 3
+	Query: "Rhogeessa bickhami" ; Times: 7
+	Query: "country:Ecuador scientificname:Micronycteris minuta " ; Times: 1
+	Query: "19585 peromyscus" ; Times: 2
+	Query: "TK114581" ; Times: 1
+	Query: "Microtus mexicanus guadalupensis locality:upper dog ranger county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus comanche locality:silverton county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus comanche locality:3 mi N Quitaque Caprock Canyons county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:lucifugus genus:Myotis stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "order:chiroptera country:&#34;tobago&#34; institutioncode:TTU" ; Times: 7
+	Query: "Peromyscus attwateri locality:Kerr county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "Sigmodon hispidus berlandieri county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Los Angeles&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "552976" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:boca chica beach off highway county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (ttu)" ; Times: 1
+	Query: "country:Ecuador scientificname:Lichonycteris obscura " ; Times: 1
+	Query: "97386" ; Times: 1
+	Query: "Canis latrans texensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "Peromyscus comanche locality:8 mi N Quitaque county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus leucopus texanus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 4
+	Query: "Microtus mexicanus guadalupensis locality:guadalupe peak county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "Neotoma albigula robusta county:&#34;jeff davis&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "best harrold genus:dipodomys" ; Times: 1
+	Query: "64705" ; Times: 1
+	Query: "Microtus mexicanus guadalupensis county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 3
+	Query: "country:Ecuador scientificname:Eptesicus brasiliensis " ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:Kerr Wildlife Management county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "reithrodontomys merriami stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Peromyscus comanche locality:caprock canyons state park county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:6.5 mi S Kerrville county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Lasiurus borealis presidio county texas" ; Times: 1
+	Query: "Puma concolor stanleyana stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:truei genus:peromyscus county:&#34;culberson&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "15583" ; Times: 1
+	Query: "Peromyscus attwateri county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 10
+	Query: "640734" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; locality:Elephant Mountain county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Peromyscus comanche locality:17 mi NW Silverton county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 1
+	Query: "79663" ; Times: 2
+	Query: "family:soricidae stateprovince:&#34;durango&#34;" ; Times: 3
+	Query: "hybomys" ; Times: 1
+	Query: "TK90928" ; Times: 1
+	Query: "Choeronycteris" ; Times: 4
+	Query: "&#34;Sigmodon ochrognathus&#34; county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; year &gt;= 1995 year &lt;= 2010" ; Times: 1
+	Query: "&#34;Peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; AND (NOT MSB) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "TK77929" ; Times: 1
+	Query: "Onychomys arenicola arenicola stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "TK110050" ; Times: 1
+	Query: "bradley stateprovince:&#34;texas&#34; year &gt;= 1993 year &lt;= 1993" ; Times: 1
+	Query: "lasiurus borealis presidio county texas" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:unknown county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (ttu)" ; Times: 1
+	Query: "Microtus mexicanus guadalupensis county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; year &gt;= 1974 year &lt;= 2000" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "2382 peromyscus" ; Times: 1
+	Query: "Mesomys" ; Times: 4
+	Query: "country:Ecuador scientificname:Myotis albescens " ; Times: 1
+	Query: "Peromyscus attwateri locality:4 mi S Kerrville county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus comanche locality:6 mi N 4 mi W Silverton county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys bicolor " ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:port isabel county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Peromyscus comanche locality:Tule Canyon county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; locality:Big Bend county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:lab born county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (ttu)" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 2
+	Query: "nyctinomops femorosaccus texas" ; Times: 1
+	Query: "96194" ; Times: 1
+	Query: "Mesophylla macconnelli" ; Times: 3
+	Query: "peromyscus truei truei texas" ; Times: 2
+	Query: "Peromyscus attwateri locality:wma county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 1
+	Query: "Peromyscus maniculatus pallescens stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus leucopus texanus county:&#34;san saba&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus discolor " ; Times: 2
+	Query: "TK92349" ; Times: 1
+	Query: "Oryzomys palustris texensis county:&#34;refugio&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "20009" ; Times: 1
+	Query: "sigmodon fulviventer texas" ; Times: 1
+	Query: "Peromyscus comanche county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 3
+	Query: "genus:chaetodipus county:&#34;Los Angeles&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:4 mi W boca Chica Beach county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (ttu)" ; Times: 1
+	Query: "Peromyscus leucopus texanus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 21
+	Query: "country:Ecuador scientificname:Platyrrhinus dorsalis " ; Times: 2
+	Query: "TK77854" ; Times: 1
+	Query: "Skin-50689" ; Times: 1
+	Query: "reithrodontomys griseus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus tornillo stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Peromyscus comanche locality:Tule Slope county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 1
+	Query: "Myocastor hastissue:1" ; Times: 3
+	Query: "family:Ursidae lifestage:adult" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; year &gt;= 1995 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus locality:San Clemente hastissue:1" ; Times: 2
+	Query: "Sigmodon ochrognathus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "TK92330" ; Times: 1
+	Query: "Neotoma albigula robusta stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "Sigmodon hispidus texianus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "county:&#34;Wilbarger&#34; year &gt;= 1985 year &lt;= 1985 institutioncode:TTU" ; Times: 1
+	Query: "specificepithet:ALSTONI genus:NEOTOMODON country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 2
+	Query: "Peromyscus leucopus texanus locality:boca chica beach county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (ttu)" ; Times: 1
+	Query: "Neotoma albigula robusta county:&#34;jeff davis&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Sigmodon ochrognathus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 8
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 2
+	Query: "TK93635" ; Times: 1
+	Query: "TK93637" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;tabasco&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes caraccioli " ; Times: 2
+	Query: "TK54559" ; Times: 1
+	Query: "Peromyscus comanche locality:Tule Canyon county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Macrophyllum macrophyllum " ; Times: 2
+	Query: "TK91001" ; Times: 1
+	Query: "Perognathus merriami" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (NOT Boca)" ; Times: 2
+	Query: "Peromyscus attwateri locality:WMA county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 1
+	Query: "Coyote stateprovince:&#34;Texas&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "Peromyscus comanche locality:Tule Slope county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Microtus mexicanus guadalupensis locality:Bowl county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (TTU)" ; Times: 1
+	Query: "Peromyscus comanche locality:17 mi NW Silverton county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "DIDELPHIS ALBIVENTRIS" ; Times: 1
+	Query: "TK113981" ; Times: 1
+	Query: "Oryzomys palustris texensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:106778 institutioncode:TTU" ; Times: 2
+	Query: "Neotoma attwateri stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 2
+	Query: "Sigmodon fulviventer dalquesti county:&#34;Davis&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:4 mi W Kerrville county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "28960" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "Peromyscus attwateri locality:Wildlife county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 2
+	Query: "year &gt;= 1985 year &lt;= 1985 institutioncode:TTU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Microtus mexicanus guadalupensis county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Peromyscus comanche locality:Quitaque county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:velifer genus:Myotis county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Peromyscus comanche locality:Caprock Canyon State Park 8 mi N Quitaque county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "mephitis macroura" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:Kerrville county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus comanche county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; year &gt;= 1997 year &lt;= 2000" ; Times: 1
+	Query: "Baiomys taylori taylori stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "TK134776" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:turtle county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "perognathus merriami" ; Times: 1
+	Query: "33797" ; Times: 1
+	Query: "Peromyscus comanche locality:Caprock Canyon State Park Eagle Point Trail 3 mi N Quitaque county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 1
+	Query: "Microtus mexicanus guadalupensis locality:Bowl county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "TK74854" ; Times: 1
+	Query: "specificepithet:variegatus genus:Spermophilus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;Peromyscus eremicus eremicus&#34; county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "9152 peromyscus" ; Times: 1
+	Query: "79125" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:2.5 mi E Kerrville county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Peromyscus comanche county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 11
+	Query: "peromyscus truei subspecies truei texas" ; Times: 1
+	Query: "Lepilemur" ; Times: 1
+	Query: "Peromyscus leucopus texanus county:&#34;Kimble&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "institutioncode:TTU" ; Times: 12
+	Query: "Peromyscus pectoralis laceianus locality:Mountain Home county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (NOT Boca OR Boco)" ; Times: 3
+	Query: "class:Mammalia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Spilogale indianola stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "103059" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys paramorum " ; Times: 3
+	Query: "43990" ; Times: 1
+	Query: "genus:Anoura country:&#34;Venezuela&#34;" ; Times: 4
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "Microtus mexicanus guadalupensis county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 5
+	Query: "&#34;Peromyscus eremicus eremicus&#34; county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Thyroptera tricolor " ; Times: 1
+	Query: "TK51948" ; Times: 1
+	Query: "Coyote stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "lynx texensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Hsunycteris cadenai " ; Times: 2
+	Query: "Choeronycteris texas" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (TTU) AND (NOT Chica)" ; Times: 1
+	Query: "Peromyscus comanche locality:5 mi N 1 mi W Quitaque county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "93857" ; Times: 1
+	Query: "TK77931" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 2
+	Query: "106979" ; Times: 1
+	Query: "Giraffa" ; Times: 2
+	Query: "country:Ecuador scientificname:Lophostoma occidentalis " ; Times: 2
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:wildlife management county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "Peromyscus leucopus texanus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (ttu)" ; Times: 5
+	Query: "TK93594" ; Times: 1
+	Query: "Peromyscus comanche county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 4
+	Query: "county:&#34;Wilbarger&#34; year &gt;= 1985 year &lt;= 1985 institutioncode:TTU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "75267" ; Times: 2
+	Query: "order:chiroptera country:&#34;tobago&#34; preparations:tissue institutioncode:TTU" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Boca county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 2
+	Query: "specificepithet:raviventris genus:reithrodontomys hastissue:1" ; Times: 2
+	Query: "33042" ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma trinitatum " ; Times: 2
+	Query: "Sigmodon hispidus berlandieri county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "TK90250" ; Times: 1
+	Query: "&#34;Peromyscus leucopus leucopus&#34; county:&#34;brazos&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira erythromos " ; Times: 2
+	Query: "Lasiurus frantzii texas" ; Times: 1
+	Query: "country:Ecuador scientificname:Enchisthenes hartii " ; Times: 1
+	Query: "eumops perotis texas" ; Times: 1
+	Query: "nyctinomops femorosaccus" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (NOT Boca )" ; Times: 4
+	Query: "Peromyscus attwateri locality:Kerrville county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "96451" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "(19565)" ; Times: 1
+	Query: "Posos de Caldas" ; Times: 1
+	Query: "Peromyscus attwateri county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 2
+	Query: "country:Ecuador scientificname:Thyroptera discifera " ; Times: 1
+	Query: "Peromyscus comanche county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2010" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "TK77845" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:boca chica beach county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus aequatorialis " ; Times: 1
+	Query: "Urocyon cinereoargenteus scottii stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (NOT Boca Chica)" ; Times: 1
+	Query: "class:mammalia county:&#34;kearney&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Bayview Laguna Atascosa Wildlife Refuge county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TK16514" ; Times: 1
+	Query: "Peromyscus comanche locality:Caprock Canyons State Park county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Peromyscus comanche locality:5 mi N 1 mi W Quitaque county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "welty genus:reithrodontomys" ; Times: 2
+	Query: "specificepithet:coypus genus:Myocastor hastissue:1" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "Oryzomys palustris texensis county:&#34;san patricio&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "456688" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:port isabel county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (ttu)" ; Times: 1
+	Query: "Peromyscus leucopus texanus county:&#34;Mason&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Urocyon hastissue:1" ; Times: 2
+	Query: "Peromyscus leucopus texanus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (TTU)" ; Times: 1
+	Query: "Saccolaimus saccolaimus" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 1
+	Query: "fieldnumber:TK77285 institutioncode:TTU" ; Times: 3
+	Query: "30246" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "Peromyscus comanche locality:Caprock Canyon State Park Eagle Point Trail 3 mi N Quitaque county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "66672" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "country:Ecuador scientificname:Lophostoma silvicolum " ; Times: 1
+	Query: "TK83707" ; Times: 1
+	Query: "109455" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:4 mi S county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 1
+	Query: "vntype:specimen family:Heteromyidae institutioncode:TTU" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "TCWC" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (NOT Chica)" ; Times: 1
+	Query: "Peromyscus attwateri stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira luisi " ; Times: 2
+	Query: "country:Ecuador scientificname:Mesophylla macconnelli " ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus vittatus " ; Times: 3
+	Query: "Peromyscus attwateri locality:Kerr WMA county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 3
+	Query: "Peromyscus leucopus texanus locality:4 mi W county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (ttu)" ; Times: 1
+	Query: "Peromyscus comanche locality:6 mi N 4 mi W silverton county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 2
+	Query: "Peromyscus attwateri locality:Junction county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "Baiomys taylori subater county:&#34;Brazoria&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:4 mi S 23 mi county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus lituratus " ; Times: 3
+	Query: "centronycteris maximiliani" ; Times: 2
+	Query: "45761" ; Times: 1
+	Query: "Peromyscus attwateri locality:Yo Ranch county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "Peromyscus attwateri locality:Kerr WMA county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 5
+	Query: "TTU 459" ; Times: 2
+	Query: "nyctinomops aurispinosus" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "specificepithet:audubonii genus:Sylvilagus county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Peromyscus tornillo county:&#34;hudspeth&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "TK93709" ; Times: 1
+	Query: "Micronycteris schmidtorum" ; Times: 2
+	Query: "Peromyscus comanche locality:8 mi N Quitaque county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 1
+	Query: "country:Ecuador scientificname:Lasiurus blossevillii " ; Times: 2
+	Query: "order:chiroptera stateprovince:&#34;tobago&#34; country:&#34;tobago&#34; institutioncode:TTU" ; Times: 1
+	Query: "county:&#34;Blanco&#34; stateprovince:&#34;Texas&#34; year &gt;= 2007 year &lt;= 2009" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 1
+	Query: "Peromyscus attwateri locality:&#34;Kerr&#34; county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "chaetodipus intermedius fire" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla pumilio " ; Times: 3
+	Query: "Pteronotus mesoamericanus" ; Times: 1
+	Query: "Neotoma attwateri stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus comanche locality:Caprock Canyon State Park 5 mi N 1 mi W Quitaque county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "112432 peromyscus" ; Times: 1
+	Query: "TK179749" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 2
+	Query: "&#34;Sigmodon ochrognathus&#34; locality:alpine county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Peromyscus comanche locality:3 MI N QUITAQUE Caprock canyons county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Giraffa" ; Times: 1
+	Query: "TK114533" ; Times: 1
+	Query: "16883" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:kerrville county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus comanche locality:Caprock Canyon State Park South Prong Camping Area 3 mi N Quitaque county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "Centronycteris maximiliani" ; Times: 2
+	Query: "Reithrodontomys laceyi county:&#34;bexar&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus comanche locality:Caprock Canyons State Park county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus rosenbergi " ; Times: 2
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (TTU) AND (NOT Boca NOT Chico)" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrum spectrum " ; Times: 2
+	Query: "Manis crassicaudata" ; Times: 3
+	Query: "Peromyscus tornillo stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus attwateri county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 15
+	Query: "27615" ; Times: 1
+	Query: "Peromyscus comanche locality:Caprock Canyon State Park Eagle Point county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Castor canadensis texensis" ; Times: 3
+	Query: "38592" ; Times: 1
+	Query: "TK123288" ; Times: 1
+	Query: "9738 peromyscus" ; Times: 1
+	Query: "TK93615" ; Times: 1
+	Query: "Sigmodon fulviventer dalquesti county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Choeroniscus minor" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:off county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (ttu)" ; Times: 1
+	Query: "Peromyscus comanche locality:8 mi N 2.5 mi E county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:4 mi w county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (ttu)" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchorhina aurita " ; Times: 2
+	Query: "country:Ecuador scientificname:Myotis simus " ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "catalognumber:106788 institutioncode:TTU" ; Times: 2
+	Query: "Peromyscus leucopus brevicaudus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 2
+	Query: "TK90545" ; Times: 1
+	Query: "Microtus mexicanus guadalupensis county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; year &gt;= 1974 year &lt;= 2020" ; Times: 1
+	Query: "Lasiurus blossevillii texas" ; Times: 1
+	Query: "catalognumber:42829 institutioncode:TTU" ; Times: 2
+	Query: "Oryzomys aquaticus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "&#34;Peromyscus leucopus leucopus&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "genus:Ctenomys haslength:1" ; Times: 1
+	Query: "TK93728" ; Times: 1
+	Query: "TK93727" ; Times: 1
+	Query: "Baiomys taylori subater county:&#34;Brazoria&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "79489" ; Times: 2
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "fieldnumber:TK77284 institutioncode:TTU" ; Times: 2
+	Query: "lasionycteris noctivagans texas" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus institutioncode:TTU" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (Boca OR Chica)" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "country:Ecuador scientificname:Trinycteris nicefori " ; Times: 2
+	Query: "specificepithet:perotis genus:eumops haslength:1" ; Times: 1
+	Query: "TK27094" ; Times: 1
+	Query: "Microtus mexicanus guadalupensis locality:upper dog ranger county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 1
+	Query: "Peromyscus comanche locality:caprock canyons state park county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 4
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (TTU) AND (NOT Chico)" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus institutioncode:TTU" ; Times: 1
+	Query: "80301" ; Times: 1
+	Query: "family:viverridae country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Peromyscus attwateri locality:Mountain Home county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus brachycephalus " ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (TTU) AND (NOT Boca OR Boco)" ; Times: 1
+	Query: "64668" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "Sigmodon hispidus texianus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "Peromyscus leucopus texanus county:&#34;McCulloch&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "64666" ; Times: 1
+	Query: "Molossops temminckii" ; Times: 2
+	Query: "Peromyscus comanche locality:Los Lingos Canyon county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllotis haggardi " ; Times: 1
+	Query: "TK77286" ; Times: 1
+	Query: "TK77287" ; Times: 1
+	Query: "TK77284" ; Times: 1
+	Query: "TK77285" ; Times: 1
+	Query: "Peromyscus comanche locality:Caprock Canyon State Park 8 mi N Quitaque county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 1
+	Query: "Peromyscus attwateri locality:US 83 county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:boca chica county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (ttu)" ; Times: 1
+	Query: "specificepithet:parnellii genus:Pteronotus institutioncode:TTU hastissue:1" ; Times: 1
+	Query: "73832" ; Times: 1
+	Query: "Peromyscus comanche county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (TTU)" ; Times: 2
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:velifer genus:Myotis county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (ttu)" ; Times: 2
+	Query: "&#34;Peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; institutioncode:TTU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "TK26165" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchophylla concava " ; Times: 2
+	Query: "109465" ; Times: 1
+	Query: "&#34;Peromyscus leucopus leucopus&#34; county:&#34;brazos&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "530925" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; institutioncode:TTU" ; Times: 1
+	Query: "Neotoma phenax" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchophylla hesperia " ; Times: 1
+	Query: "Epomops Franqueti" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "diclidurus albus" ; Times: 66
+	Query: "Spilogale putorius interrupta stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "24183" ; Times: 1
+	Query: "Peromyscus comanche locality:Caprock Canyons county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "46888" ; Times: 1
+	Query: "Sigmodon fulviventer dalquesti county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 4
+	Query: "country:Ecuador scientificname:Sturnira magna " ; Times: 1
+	Query: "&#34;mephitis mephitis&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen family:Geomyidae institutioncode:TTU" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes major " ; Times: 1
+	Query: "Sigmodon hispidus texianus country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 1
+	Query: "Peromyscus leucopus texanus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 5
+	Query: "order:Chiroptera country:&#34;Honduras&#34; basisofrecord:PreservedSpecimen" ; Times: 7
+	Query: "Peromyscus attwateri locality:Kerr Wildlife county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 5
+	Query: "Peromyscus comanche locality:Caprock Canyon State Park South Prong Camping Area 3 mi N Quitaque county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 1
+	Query: "Peromyscus comanche locality:Los Lingos Canyon county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Chrotopterus auritus " ; Times: 1
+	Query: "country:Ecuador scientificname:Peropteryx kappleri " ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma magnirostrum " ; Times: 2
+	Query: "country:Ecuador scientificname:Sigmodontomys alfari " ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; locality:Big Bend National Park county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:Peromyscus locality:San year &gt;= 2002 year &lt;= 2002" ; Times: 1
+	Query: "Canis latrans texensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus matapalensis " ; Times: 1
+	Query: "116137" ; Times: 1
+	Query: "country:Ecuador scientificname:Trachops cirrhosus " ; Times: 1
+	Query: "chaetodipus intermedius valley of fire" ; Times: 1
+	Query: "Peromyscus comanche locality:8 mi N 2.5 mi E Silverton county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 1
+	Query: "genus:Eira" ; Times: 2
+	Query: "104174" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;sonora&#34;" ; Times: 4
+	Query: "2071 peromyscus" ; Times: 3
+	Query: "stateprovince:&#34;Texas&#34; “sus scrofa”" ; Times: 2
+	Query: "(platt)" ; Times: 1
+	Query: "specificepithet:fulviventer genus:sigmodon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:&#34;Brownsville&#34; county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "2074 peromyscus" ; Times: 1
+	Query: "institutioncode:TTU eumops perotis texas" ; Times: 1
+	Query: "Ochrotomys nuttalli lisae county:&#34;Nacogdoches&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Reithrodontomys fulvescens intermedius stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "553140" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "Conepatus mesoleucus mearnsi stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Peromyscus leucopus texanus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "115914" ; Times: 1
+	Query: "kirtlandi stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "102701" ; Times: 1
+	Query: "102703" ; Times: 1
+	Query: "102704" ; Times: 1
+	Query: "&#34;Onychomys arenicola arenicola&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "10041" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhogeessa velilla " ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 2
+	Query: "Peromyscus leucopus texanus county:&#34;Menard&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 20
+	Query: "Oryzomys palustris texensis county:&#34;aransas&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Epomops franqueti" ; Times: 2
+	Query: "Peromyscus attwateri locality:Kerr Wildlife Management county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 2
+	Query: "39437" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus fraterculus " ; Times: 3
+	Query: "genus:Ondatra stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "genus:Rattus country:&#34;Peru&#34; institutioncode:TTU" ; Times: 1
+	Query: "Oryzomys palustris texensis county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus comanche locality:5 mi N 1 mi W quitaque county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "64748" ; Times: 1
+	Query: "Castor canadensis texensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus comanche locality:4 mi N 1 mi E Quitaque county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 1
+	Query: "eumops perotis texas ttu" ; Times: 3
+	Query: "country:Ecuador scientificname:Artibeus glaucus " ; Times: 3
+	Query: "TK122768" ; Times: 1
+	Query: "15579" ; Times: 1
+	Query: "TK93602" ; Times: 1
+	Query: "Microtus mexicanus guadalupensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:wildlife county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen county:&#34;Wilbarger&#34; year &gt;= 1985 year &lt;= 1985 institutioncode:TTU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Reithrodontomys fulvescens intermedius county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "TK74856" ; Times: 1
+	Query: "catalognumber:60747 institutioncode:TTU" ; Times: 2
+	Query: "sylvilagus robustus" ; Times: 4
+	Query: "Ochrotomys nuttalli lisae stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus nigellus " ; Times: 1
+	Query: "235808" ; Times: 1
+	Query: "Peromyscus leucopus texanus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "12552" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:turtle creek county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "AY" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 1
+	Query: "Diclidurus albus" ; Times: 2
+	Query: "Peromyscus pectoralis laceianus county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 16
+	Query: "Baiomys taylori subater stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Thalpomys" ; Times: 1
+	Query: "Peromyscus comanche locality:4 mi N 1 mi E Quitaque county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus comanche locality:Caprock Canyon State Park South Prong county:&#34;Briscoe&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "79557" ; Times: 1
+	Query: "Microtus mexicanus guadalupensis locality:Bowl county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (ttu)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 79 (out of 1106 download events in this period)
+Total number of records downloaded: 35461
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 46
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 2
+	Country: Indonesia ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 3
+	Date: 2020-05-23 ; Times: 5
+	Date: 2020-05-22 ; Times: 12
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 4
+	Date: 2020-05-10 ; Times: 3
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-13 ; Times: 4
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-16 ; Times: 2
+	Date: 2020-05-17 ; Times: 2
+	Date: 2020-05-30 ; Times: 8
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 11
+	Date: 2020-05-07 ; Times: 4
+	Date: 2020-05-06 ; Times: 6
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 2
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "order:Rodentia stateprovince:Utah" ; Times: 2
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 2
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "Peromyscus eremicus eremicus county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "mephitis macroura" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "vntype:specimen genus:Mus haslength:1" ; Times: 1
+	Query: "vntype:specimen family:Geomyidae institutioncode:TTU" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 2
+	Query: "Mesomys" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;tabasco&#34;" ; Times: 2
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "Diclidurus albus" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "Perognathus merriami" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "vntype:specimen family:Heteromyidae institutioncode:TTU" ; Times: 1
+	Query: "class:MAMMALIA stateprovince:&#34;campeche&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:Mammalia country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "specificepithet:lucifugus genus:Myotis stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "peromyscus melanotis" ; Times: 1
+	Query: "order:Rodentia stateprovince:Nevada" ; Times: 2
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "vntype:specimen specificepithet:velifer genus:Myotis county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "Peromyscus polionotus" ; Times: 1
+	Query: "Centronycteris maximiliani" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:velifer genus:Myotis county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "order:Chiroptera county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &lt;= 1947" ; Times: 1
+	Query: "family:mustelidae country:&#34;indonesia&#34;" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "genus:Eira" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "vntype:specimen genus:Mus hasmass:1" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;campeche&#34;" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "family:viverridae country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "diclidurus albus" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
