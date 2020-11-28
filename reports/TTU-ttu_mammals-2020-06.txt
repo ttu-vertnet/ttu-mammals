@@ -1,0 +1,312 @@
+Report for Institution Code TTU, Resource ttu_mammals
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 382
+Number of records retrieved in searches: 5861
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 48
+	Country: United States ; Times: 255
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 6
+	Country: Mexico ; Times: 25
+	Country: Unknown ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 32
+	Country: Germany ; Times: 2
+	Country: Ireland ; Times: 4
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 1
+	Date: 2020-06-18 ; Times: 4
+	Date: 2020-06-30 ; Times: 4
+	Date: 2020-06-15 ; Times: 4
+	Date: 2020-06-14 ; Times: 3
+	Date: 2020-06-17 ; Times: 25
+	Date: 2020-06-16 ; Times: 7
+	Date: 2020-06-11 ; Times: 17
+	Date: 2020-06-10 ; Times: 31
+	Date: 2020-06-13 ; Times: 3
+	Date: 2020-06-12 ; Times: 27
+	Date: 2020-06-08 ; Times: 9
+	Date: 2020-06-07 ; Times: 3
+	Date: 2020-06-20 ; Times: 13
+	Date: 2020-06-21 ; Times: 1
+	Date: 2020-06-22 ; Times: 5
+	Date: 2020-06-23 ; Times: 3
+	Date: 2020-06-24 ; Times: 8
+	Date: 2020-06-25 ; Times: 4
+	Date: 2020-06-26 ; Times: 3
+	Date: 2020-06-09 ; Times: 31
+	Date: 2020-06-06 ; Times: 9
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-04 ; Times: 34
+	Date: 2020-06-05 ; Times: 6
+	Date: 2020-06-02 ; Times: 66
+	Date: 2020-06-03 ; Times: 16
+	Date: 2020-06-01 ; Times: 43
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Lophostoma silvicolum " ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;menard&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Bassariscus astutus flavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 3
+	Query: "Bassariscus astutus flavus county:&#34;Burnet&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "fieldnumber:TK84557 institutioncode:TTU" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira magna " ; Times: 2
+	Query: "Bassariscus astutus flavus county:&#34;pecos&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:niviventer" ; Times: 1
+	Query: "Bassariscus astutus flavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 11
+	Query: "genus:dipodomys recordedby:erickson" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris minuta " ; Times: 1
+	Query: "genus:niviventer country:malaysia" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 3
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "cas 452" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:37923 institutioncode:TTU" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;kimble&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "100499" ; Times: 1
+	Query: "Natalus stramineus saturatus" ; Times: 1
+	Query: "TCWC" ; Times: 3
+	Query: "82441" ; Times: 1
+	Query: "genus:Neofelis" ; Times: 1
+	Query: "Bassariscus astutus flavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (marathon)" ; Times: 1
+	Query: "TTU 61228" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus chocoensis " ; Times: 2
+	Query: "catalognumber:83653 institutioncode:TTU" ; Times: 1
+	Query: "country:Ecuador scientificname:Trinycteris nicefori " ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;crockett&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;val verde&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "59011" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;Jefferson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 2
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "CENTRONYCTERIS MAXIMILIANI" ; Times: 33
+	Query: "country:Ecuador scientificname:Artibeus fraterculus " ; Times: 2
+	Query: "Bassariscus astutus flavus locality:panther junction county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:37925 institutioncode:TTU" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "country:Ecuador scientificname:Noctilio albiventris " ; Times: 1
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "UMZM" ; Times: 1
+	Query: "country:Ecuador scientificname:Lophostoma brasiliense " ; Times: 1
+	Query: "Bassariscus astutus flavus locality:black gap county:&#34;brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 11
+	Query: "country:Ecuador scientificname:Artibeus lituratus " ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Taxidea berlandieri county:&#34;Hockley&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;kimble&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 2
+	Query: "Bassariscus astutus flavus county:&#34;Garza&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 1
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 3
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "canadensis Texas" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes major " ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "catalognumber:37924 institutioncode:TTU" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 6
+	Query: "Bassariscus astutus flavus locality:hwy 6 stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:rattus country:indonesia" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "catalognumber:37921 institutioncode:TTU" ; Times: 2
+	Query: "virgin islands" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "Paraechinus" ; Times: 1
+	Query: "institutioncode:TTU" ; Times: 1
+	Query: "Bassariscus astutus flavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (sonora)" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Tabasco" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;terrell&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:maxomys surifer" ; Times: 1
+	Query: "Bassariscus astutus flavus locality:valentine county:&#34;presidio&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Noctilio leporinus " ; Times: 2
+	Query: "Catopuma temminckii" ; Times: 4
+	Query: "Bos taurus" ; Times: 6
+	Query: "Bassariscus astutus flavus county:&#34;Comanche&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus rosenbergi " ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus matapalensis " ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus currentium " ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "country:Ecuador scientificname:Trachops cirrhosus " ; Times: 2
+	Query: "Bassariscus astutus flavus locality:big bend county:&#34;presidio&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "mvz maxomys" ; Times: 1
+	Query: "Bassariscus astutus flavus locality:marathon county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus dorsalis " ; Times: 2
+	Query: "rattus tiomanicus" ; Times: 2
+	Query: "Bassariscus astutus flavus county:&#34;culberson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:109713" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira ludovici " ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela hastissue:1" ; Times: 1
+	Query: "RT 286" ; Times: 2
+	Query: "RT 287" ; Times: 1
+	Query: "mvz maxomys surifer" ; Times: 1
+	Query: "class:mammalia (10058)" ; Times: 2
+	Query: "genus:mus country:indonesia" ; Times: 5
+	Query: "Geomys arenarius" ; Times: 7
+	Query: "Taxidea berlandieri stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;bandera&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "umiat microtus miurus" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "Bassariscus astutus flavus county:&#34;Edwards&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Taxidea berlandieri county:&#34;Parmer&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "93995" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys paramorum " ; Times: 2
+	Query: "country:Ecuador scientificname:Eptesicus brasiliensis " ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 2
+	Query: "Bassariscus astutus flavus county:&#34;culberson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Procyon lotor fuscipes stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "country:Ecuador scientificname:Diaemus youngi " ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;sutton&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 3
+	Query: "Bassariscus astutus flavus county:&#34;edwards&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "Lasiurus borealis (skin OR fur) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys bicolor " ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;san saba&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Lasiurus borealis (skin) AND (Mexico) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "100399" ; Times: 2
+	Query: "Procyon lotor fuscipes stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Micronycteris hirsuta " ; Times: 1
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "Bassariscus astutus flavus locality:big bend county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:mus specificepithet:caroli" ; Times: 2
+	Query: "Bassariscus astutus flavus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:37922 institutioncode:TTU" ; Times: 1
+	Query: "country:&#34;Colombia&#34; hastissue:1" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;garza&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;Kendall&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "niviventer cremoriventer" ; Times: 1
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "locality:Cuatro cienegas stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Tonatia saurophila " ; Times: 4
+	Query: "93108" ; Times: 1
+	Query: "(10058)" ; Times: 1
+	Query: "schmidtorum" ; Times: 1
+	Query: "Bassariscus astutus flavus locality:black gap county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "alces alces" ; Times: 2
+	Query: "genus:onychomys recordedby:erickson" ; Times: 1
+	Query: "country:Ecuador scientificname:Sigmodontomys alfari " ; Times: 2
+	Query: "country:Ecuador scientificname:Lasiurus ega " ; Times: 2
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira erythromos " ; Times: 2
+	Query: "country:Ecuador scientificname:Myotis simus " ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus glaucus " ; Times: 3
+	Query: "country:Ecuador scientificname:Thyroptera tricolor " ; Times: 2
+	Query: "country:Ecuador scientificname:Enchisthenes hartii " ; Times: 1
+	Query: "catalognumber:105376" ; Times: 1
+	Query: "maxomys surifer" ; Times: 3
+	Query: "country:Ecuador scientificname:Eptesicus innoxius " ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;comanche&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Taxidea berlandieri stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:36226 institutioncode:TTU" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Soricidae stateprovince:&#34;Sonora&#34;" ; Times: 5
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura cultrata " ; Times: 1
+	Query: "genus:maxomys" ; Times: 2
+	Query: "country:Ecuador scientificname:Vampyressa thyone " ; Times: 3
+	Query: "fieldnumber:TK77284 institutioncode:TTU" ; Times: 2
+	Query: "lonchophylla bokermanni" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus aequatorialis " ; Times: 2
+	Query: "genus:chaetodipus recordedby:erickson" ; Times: 1
+	Query: "RT 318" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 2
+	Query: "Lemur" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus vittatus " ; Times: 1
+	Query: "genus:neotoma recordedby:erickson" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;presidio&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 6
+	Query: "catalognumber:13769 institutioncode:TTU" ; Times: 1
+	Query: "21719" ; Times: 2
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 4
+	Query: "Bassariscus astutus flavus county:&#34;tom green&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "institutioncode:TTU TK104655" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes caraccioli " ; Times: 2
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 3
+	Query: "Pecari tajacu angulatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "Bassariscus astutus flavus county:&#34;nolan&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 17
+	Query: "Brachylagus idahoensis" ; Times: 5
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "country:Ecuador scientificname:Lichonycteris obscura " ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 474 download events in this period)
+Total number of records downloaded: 8980
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Brazil ; Times: 6
+	Country: Nepal ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 4
+	Date: 2020-06-06 ; Times: 3
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-04 ; Times: 7
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-01 ; Times: 2
+	Date: 2020-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bassariscus astutus flavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Procyon lotor fuscipes stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lonchophylla bokermanni" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "umiat microtus" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Pecari tajacu angulatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "order:Soricomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "umiat microtus miurus" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "umiat microtus oeconomus" ; Times: 1
+
+
+End of report.
