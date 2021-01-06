@@ -1,0 +1,493 @@
+Report for Institution Code TTU, Resource ttu_mammals
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 631
+Number of records retrieved in searches: 11915
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 4
+	Country: Peru ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Saudi Arabia ; Times: 1
+	Country: Iran ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 29
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 498
+	Country: Pakistan ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 42
+	Country: Mozambique ; Times: 3
+	Country: Colombia ; Times: 10
+	Country: Kenya ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 27
+	Date: 2020-12-31 ; Times: 25
+	Date: 2020-12-09 ; Times: 45
+	Date: 2020-12-08 ; Times: 38
+	Date: 2020-12-07 ; Times: 23
+	Date: 2020-12-06 ; Times: 27
+	Date: 2020-12-05 ; Times: 20
+	Date: 2020-12-04 ; Times: 75
+	Date: 2020-12-03 ; Times: 17
+	Date: 2020-12-02 ; Times: 24
+	Date: 2020-12-01 ; Times: 15
+	Date: 2020-12-25 ; Times: 16
+	Date: 2020-12-24 ; Times: 16
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-26 ; Times: 2
+	Date: 2020-12-21 ; Times: 33
+	Date: 2020-12-20 ; Times: 18
+	Date: 2020-12-23 ; Times: 5
+	Date: 2020-12-22 ; Times: 8
+	Date: 2020-12-29 ; Times: 17
+	Date: 2020-12-28 ; Times: 9
+	Date: 2020-12-18 ; Times: 25
+	Date: 2020-12-19 ; Times: 10
+	Date: 2020-12-10 ; Times: 10
+	Date: 2020-12-11 ; Times: 15
+	Date: 2020-12-12 ; Times: 5
+	Date: 2020-12-13 ; Times: 10
+	Date: 2020-12-14 ; Times: 48
+	Date: 2020-12-15 ; Times: 10
+	Date: 2020-12-16 ; Times: 30
+	Date: 2020-12-17 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "18646" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Phyllostomus stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Oligoryzomys flavescens" ; Times: 1
+	Query: "41264" ; Times: 1
+	Query: "Apodemus mystacinus" ; Times: 1
+	Query: "76468" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Chaetodipus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "&#34;myotis keenii&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Mammalia county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; hastissue:1" ; Times: 3
+	Query: "specificepithet:knoxjonesi genus:geomys stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris minuta " ; Times: 3
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 3
+	Query: "TTU Mammals 90321" ; Times: 1
+	Query: "country:&#34;us virgin islands&#34;" ; Times: 1
+	Query: "scientificname:Martes pennanti stateprovince:new york" ; Times: 2
+	Query: "Tarrant County" ; Times: 5
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "Oreotragus" ; Times: 1
+	Query: "Zelotomys" ; Times: 1
+	Query: "Crocidura russula" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina country:&#34;canada&#34; AND (male) year &gt;= 1800 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lasiurus blossevillii Argentina" ; Times: 1
+	Query: "papio papio" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "36800" ; Times: 1
+	Query: "specificepithet:myotis genus:Myotis order:Chiroptera" ; Times: 1
+	Query: "genus:Rhynchonycteris stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "scientificname:Chrysocyon brachyurus" ; Times: 1
+	Query: "Microtus multiplex" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "elephantulus" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 3
+	Query: "Panthera onca" ; Times: 1
+	Query: "scientificname:Mustela frenata stateprovince:new york" ; Times: 2
+	Query: "country:Ecuador scientificname:Mesophylla macconnelli " ; Times: 5
+	Query: "class:Mammalia stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes caraccioli " ; Times: 2
+	Query: "22063" ; Times: 1
+	Query: "country:Ecuador scientificname:Macrophyllum macrophyllum " ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 2
+	Query: "genus:Chiroderma stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris hirsuta " ; Times: 1
+	Query: "26360" ; Times: 1
+	Query: "gracilinanus hasmass:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchophylla concava " ; Times: 1
+	Query: "year &gt;= 1972 year &lt;= 1972 hassex:1 hasmass:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1" ; Times: 1
+	Query: "Cervus nippon" ; Times: 2
+	Query: "microsciurus hasmass:1 haslength:1" ; Times: 1
+	Query: "4784 genus:Geomys" ; Times: 2
+	Query: "country:Ecuador scientificname:Noctilio albiventris " ; Times: 2
+	Query: "37189" ; Times: 1
+	Query: "113294" ; Times: 3
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 4
+	Query: "113296" ; Times: 1
+	Query: "institutioncode:TTU Mammals 81702" ; Times: 2
+	Query: "country:Ecuador scientificname:Hsunycteris thomasi " ; Times: 3
+	Query: "country:Ecuador scientificname:Lonchophylla hesperia " ; Times: 3
+	Query: "specificepithet:arenarius genus:Geomys" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus lituratus " ; Times: 5
+	Query: "mappable:1 scientificname:Bos taurus" ; Times: 1
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 4
+	Query: "scientificname:Napaeozapus insignis stateprovince:new york" ; Times: 2
+	Query: "diclidurus albus" ; Times: 2
+	Query: "Apodemus flavicollis" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+	Query: "Cabassous" ; Times: 2
+	Query: "Nasua nasua" ; Times: 1
+	Query: "country:Ecuador scientificname:Eptesicus brasiliensis " ; Times: 2
+	Query: "genus:Desmodus stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 3
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 10000 hassex:1 hasmass:1" ; Times: 4
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "mappable:1 scientificname:Panthera pardus" ; Times: 1
+	Query: "100576" ; Times: 1
+	Query: "scientificname:Parascalops breweri stateprovince:new york" ; Times: 2
+	Query: "71718" ; Times: 1
+	Query: "25529" ; Times: 1
+	Query: "Phacochoerus" ; Times: 2
+	Query: "Panthera pardus pardus" ; Times: 1
+	Query: "TTU Mammals TK70812" ; Times: 1
+	Query: "Rucervus duvaucelii" ; Times: 1
+	Query: "genus:hodomys institutioncode:TTU" ; Times: 4
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 6
+	Query: "basisofrecord:PreservedSpecimen mappable:1 scientificname:Lophostoma brasiliense year&gt;=2000 year&lt;=2020 month&gt;=1 month&lt;=9 day&gt;=1 day&lt;=20" ; Times: 1
+	Query: "order:chiroptera county:&#34;colfax&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes major " ; Times: 5
+	Query: "locality:Fort Worth stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Rhinophylla alethina " ; Times: 5
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "30561" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus elongatus " ; Times: 2
+	Query: "82425" ; Times: 1
+	Query: "TTU Mammals TK93314" ; Times: 1
+	Query: "TTU Mammals TK93089" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 2
+	Query: "genus:Carollia stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Lophostoma brasiliense " ; Times: 3
+	Query: "class:mammalia catalognumber:81701 institutioncode:TTU" ; Times: 1
+	Query: "dromiciops gliroides" ; Times: 1
+	Query: "genus:Liomys stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "110151" ; Times: 3
+	Query: "Lophuromys" ; Times: 1
+	Query: "110052" ; Times: 1
+	Query: "Pipistrellus kuhlii" ; Times: 1
+	Query: "institutioncode:TTU" ; Times: 10
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:TTU" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "specificepithet:virginianus genus:Odocoileus AND (us virgin islands) massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 3
+	Query: "Molossus aztecus" ; Times: 1
+	Query: "country:Ecuador scientificname:Chrotopterus auritus " ; Times: 3
+	Query: "specificepithet:astutus genus:bassariscus county:&#34;jefferson&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Peropteryx kappleri " ; Times: 4
+	Query: "specificepithet:lituratus genus:Artibeus country:&#34;Grenada&#34;" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma magnirostrum " ; Times: 1
+	Query: "scientificname:Condylura cristata stateprovince:new york" ; Times: 2
+	Query: "genus:Protoxerus" ; Times: 1
+	Query: "Suncus etruscus" ; Times: 1
+	Query: "country:Ecuador scientificname:Noctilio leporinus " ; Times: 2
+	Query: "specificepithet:brevicauda genus:Blarina country:&#34;canada&#34; AND (male) year &gt;= 1900 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla pumilio " ; Times: 1
+	Query: "12995" ; Times: 1
+	Query: "TTU Mammals TK113532" ; Times: 2
+	Query: "Pipistrellus javanicus" ; Times: 1
+	Query: "TTU Mammals 82707" ; Times: 3
+	Query: "country:Ecuador scientificname:Phyllotis haggardi " ; Times: 2
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 3
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "106323" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus matapalensis " ; Times: 4
+	Query: "specificepithet:soricina genus:Glossophaga stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Lepus townsendii stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "country:&#34;us virgin islands&#34; hassex:1 hasmass:1" ; Times: 3
+	Query: "42634" ; Times: 1
+	Query: "country:Ecuador scientificname:Trachops cirrhosus " ; Times: 1
+	Query: "70387" ; Times: 1
+	Query: "country:Ecuador scientificname:Tonatia saurophila " ; Times: 1
+	Query: "Myotis martiniquensis" ; Times: 1
+	Query: "43687" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus dorsalis " ; Times: 1
+	Query: "27650" ; Times: 1
+	Query: "country:Ecuador scientificname:Thyroptera tricolor " ; Times: 7
+	Query: "91533" ; Times: 2
+	Query: "specificepithet:davyi genus:Pteronotus country:&#34;Trinidad&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "MSB 936" ; Times: 1
+	Query: "specificepithet:knoxjonesi genus:geomys" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchophylla robusta " ; Times: 3
+	Query: "scientificname:Peromyscus maniculatus stateprovince:new york" ; Times: 4
+	Query: "92027" ; Times: 1
+	Query: "myocastor coypus" ; Times: 2
+	Query: "genus:baiomys stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "scientificname:Mus musculus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:TTU" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus sex:female AND (virgin) massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 6
+	Query: "60372" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus AND (virgin) massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 2
+	Query: "&#34;myotis keenii&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; institutioncode:TTU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oligoryzomys nigripes" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 4
+	Query: "genus:Jaculus hasmass:1" ; Times: 6
+	Query: "24209" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "country:Ecuador scientificname:Artibeus rosenbergi " ; Times: 1
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "2590 genus:Geomys" ; Times: 2
+	Query: "87609" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 2
+	Query: "cervus nippon" ; Times: 1
+	Query: "catalognumber:110151" ; Times: 1
+	Query: "scientificname:Peromyscus leucopus stateprovince:new york" ; Times: 4
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 2000 hassex:1 hasmass:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Lasiurus blossevillii " ; Times: 1
+	Query: "Glischropus tylopus" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira ludovici " ; Times: 2
+	Query: "2588 genus:Geomys" ; Times: 2
+	Query: "specificepithet:minimus genus:tamias institutioncode:TTU" ; Times: 1
+	Query: "41856" ; Times: 1
+	Query: "genus:thomomys county:&#34;madera&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 4
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "Dryomys nitedula" ; Times: 2
+	Query: "Oecomys bicolor" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus glaucus " ; Times: 6
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 30000 hassex:1 hasmass:1" ; Times: 1
+	Query: "ellobius" ; Times: 1
+	Query: "2591 genus:Geomys" ; Times: 3
+	Query: "Micromys minutus" ; Times: 1
+	Query: "91527" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 2
+	Query: "institutioncode:TTU Mammals TK101037" ; Times: 1
+	Query: "82259" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:orientalis genus:Jaculus hasmass:1" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "Dicrostonyx torquatus" ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;texas&#34;" ; Times: 6
+	Query: "TTU Mammals TK93385" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 2
+	Query: "Bos taurus" ; Times: 2
+	Query: "class:mammalia country:&#34;jordan&#34; continent:asia" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1 hasmass:1" ; Times: 1
+	Query: "Lepus capensis" ; Times: 2
+	Query: "49709" ; Times: 1
+	Query: "Tamandua" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrum spectrum " ; Times: 3
+	Query: "specificepithet:novemcinctus genus:Dasypus preparations:skull" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira luisi " ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllostomus discolor " ; Times: 3
+	Query: "TTU Mammals TK93600" ; Times: 2
+	Query: "19907" ; Times: 1
+	Query: "55866" ; Times: 1
+	Query: "25857" ; Times: 1
+	Query: "80614" ; Times: 1
+	Query: "class:mammalia recordedby:diamond year &gt;= 1960 year &lt;= 1980" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus fraterculus " ; Times: 4
+	Query: "specificepithet:lilium genus:Sturnira stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "genus:Peromyscus country:&#34;Mexico&#34; year &gt;= 1984 year &lt;= 1984" ; Times: 1
+	Query: "Sciurus oculatus" ; Times: 1
+	Query: "specificepithet:durangae genus:tamias institutioncode:TTU" ; Times: 1
+	Query: "26573" ; Times: 1
+	Query: "country:Ecuador scientificname:Monodelphis adusta " ; Times: 3
+	Query: "35966" ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma trinitatum " ; Times: 3
+	Query: "91485" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 3
+	Query: "arlington texas" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 3
+	Query: "Mongoose" ; Times: 1
+	Query: "Apodemus uralensis" ; Times: 1
+	Query: "35101" ; Times: 1
+	Query: "TTU Mammals TK48636" ; Times: 1
+	Query: "113295" ; Times: 1
+	Query: "gracilinanus hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Erinaceus europaeus" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchorhina aurita " ; Times: 3
+	Query: "TK77928" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira erythromos " ; Times: 5
+	Query: "country:Ecuador scientificname:Myotis simus " ; Times: 1
+	Query: "leopardus" ; Times: 1
+	Query: "(21726)" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys paramorum " ; Times: 5
+	Query: "country:Ecuador scientificname:Enchisthenes hartii " ; Times: 3
+	Query: "country:Ecuador scientificname:Akodon aerosus " ; Times: 1
+	Query: "class:mammalia locality:san bernardino national forest year &gt;= 1980" ; Times: 2
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Myotis daubentonii" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 7
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis dominicensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Eptesicus innoxius " ; Times: 1
+	Query: "genus:Pteronotus stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "specificepithet:schwartzi genus:Artibeus" ; Times: 1
+	Query: "institutioncode:TTU Mammals 90321" ; Times: 2
+	Query: "Choeronycteris mexicana" ; Times: 8
+	Query: "91897" ; Times: 2
+	Query: "specificepithet:jamaicensis genus:Artibeus stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:thomomys county:&#34;madera&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 28
+	Query: "Cabassous chacoensis" ; Times: 1
+	Query: "class:Mammalia county:&#34;Jefferson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Apus apus" ; Times: 1
+	Query: "country:Ecuador scientificname:Sigmodontomys alfari " ; Times: 1
+	Query: "country:Ecuador scientificname:Thyroptera discifera " ; Times: 2
+	Query: "mappable:1 scientificname:Dasymys incomtus" ; Times: 1
+	Query: "30727" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "&#34;Canis rufus&#34;" ; Times: 2
+	Query: "111101" ; Times: 1
+	Query: "didelphidae hasmass:1 haslength:1 -didelphis" ; Times: 2
+	Query: "11296" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura cultrata " ; Times: 3
+	Query: "114232" ; Times: 1
+	Query: "alces" ; Times: 2
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "catalognumber:92027" ; Times: 6
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 5
+	Query: "dipodomys merriami parvus" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus aequatorialis " ; Times: 3
+	Query: "micronycteris megalotis" ; Times: 1
+	Query: "country:Ecuador scientificname:Hsunycteris cadenai " ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus AND massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus (us virgin islands) massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 3
+	Query: "country:Ecuador scientificname:Vampyressa thyone " ; Times: 3
+	Query: "Microtus duodecimcostatus" ; Times: 1
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "ttu sylvilagus robustus" ; Times: 1
+	Query: "12880" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus vittatus " ; Times: 4
+	Query: "country:Ecuador scientificname:Trinycteris nicefori " ; Times: 2
+	Query: "diamond genus:artibeus" ; Times: 1
+	Query: "mappable:1 scientificname:Giraffa camelopardalis" ; Times: 1
+	Query: "class:mammalia locality:san bernardino national forest year &gt;= 1990" ; Times: 1
+	Query: "Myotis elegans" ; Times: 1
+	Query: "specificepithet:bursarius genus:geomys stateprovince:&#34;new mexico&#34;" ; Times: 6
+	Query: "2589 genus:Geomys" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 1
+	Query: "41740" ; Times: 1
+	Query: "21726" ; Times: 1
+	Query: "scientificname:Microtus pennsylvanicus stateprovince:new york" ; Times: 2
+	Query: "67116" ; Times: 1
+	Query: "41988" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 5
+	Query: "class:Mammalia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; hastissue:1" ; Times: 1
+	Query: "11258" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 3
+	Query: "specificepithet:waterhousii genus:macrotus country:&#34;mexico&#34;" ; Times: 3
+	Query: "specificepithet:lituratus genus:Artibeus country:&#34;Saint Vincent&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus brachycephalus " ; Times: 1
+	Query: "34899" ; Times: 2
+	Query: "34898" ; Times: 1
+	Query: "Artibeus hirsutus" ; Times: 3
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hassex:1 hasmass:1" ; Times: 5
+	Query: "genus:Glossophaga stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "TTU Mammals TK93400" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 3
+	Query: "specificepithet:subrufa genus:Carollia stateprovince:&#34;Zacapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "catalognumber:90103" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus country:&#34;United States&#34;" ; Times: 1
+	Query: "Plecotus austriacus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 705 download events in this period)
+Total number of records downloaded: 35779
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Turkey ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 2
+	Country: United States ; Times: 21
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-30 ; Times: 2
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-22 ; Times: 2
+	Date: 2020-12-29 ; Times: 3
+	Date: 2020-12-02 ; Times: 8
+	Date: 2020-12-16 ; Times: 4
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-07 ; Times: 4
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-04 ; Times: 2
+	Date: 2020-12-03 ; Times: 7
+	Date: 2020-12-15 ; Times: 4
+	Date: 2020-12-01 ; Times: 3
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "order:Chiroptera continent:South America year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "class:Mammalia country:Brazil" ; Times: 4
+	Query: "Procyon lotor stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "family:Muridae hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "ttu sylvilagus robustus" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "&#34;Canis rufus&#34;" ; Times: 1
+	Query: "dromiciops gliroides" ; Times: 1
+	Query: "genus:Ondatra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "didelphidae hasmass:1 haslength:1 -didelphis" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:TTU" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:schwartzi genus:Artibeus" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "specificepithet:lituratus genus:Artibeus country:&#34;Grenada&#34;" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Sonora&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:bursarius genus:geomys stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:minimus genus:tamias institutioncode:TTU" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1" ; Times: 2
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "specificepithet:lituratus genus:Artibeus country:&#34;Saint Vincent&#34;" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Chihuahua&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "caracal caracal" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+
+
+End of report.
